@@ -14,3 +14,8 @@ button {
     padding: 10px; 
     cursor: pointer; 
 }
+h1 {
+    margin-bottom: 20px;
+    font-size: 2.5em;
+    color: #61DAFB;
+}
