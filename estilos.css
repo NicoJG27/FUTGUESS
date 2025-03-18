@@ -90,3 +90,58 @@ flex-direction: row;
 justify-content: center;
 margin-top: 5px;
 }
+input {
+  padding: 8px;
+  width: 100%;
+  border: 1px solid #A67C52;
+  border-radius: 5px;
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+button {
+  background: #A67C52;
+  color: white;
+  padding: 8px;
+  width: 100%;
+  border: none;
+  border-radius: 5px;
+  font-size: 14px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+button:hover {
+  background: #6E4F30;
+}
+
+.all-button {
+  background: #7D5A4F;
+}
+
+.all-button:hover {
+  background: #5A4034;
+}
+.grid-container {
+  display: grid;
+  overflow-y: auto; /* Activa la barra de desplazamiento vertical */
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 15px;
+  width: 100%;
+}
+
+.grid-item {
+  background: #E6D5BD;
+  color: #6E4F30;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 14px;
+  transition: transform 0.3s ease-in-out;
+  text-align: left;  /* Alinea el texto a la izquierda */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* Asegura que el contenido también se alinee a la izquierda */
+}
+
+.grid-item:hover {
+  transform: scale(1.05);
+}
