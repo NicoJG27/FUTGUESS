@@ -1,4 +1,5 @@
 [
+    
     {
         "nombre": "Thibaut Courtois",
         "edad": "32 años",
@@ -933,14 +934,535 @@
             "dorsal": "24",
             "posición": "Defensa"
         },
-         {
+        {
             "nombre": "Pau Navarro",
             "edad": "Desconocida",
             "nacionalidad": "Desconocida",
             "equipo": "Villarreal CF",
             "dorsal": "26",
             "posición": "Defensa"
+        },
+        {
+            "nombre": "Antony dos Santos",
+            "edad": "25",
+            "nacionalidad": "brasileña",
+            "equipo": "Real betis Balompie",
+            "dorsal": "7",
+            "posición": "Delantero"
+        },
+        {
+            "nombre": "Adrián",
+            "edad": "38",
+            "nacionalidad": "Española",
+            "equipo": "Real betis Balompie",
+            "dorsal": "13",
+            "posición": "Portero"
+        },{
+            "nombre": "Hector Bellerin",
+            "edad": "29",
+            "nacionalidad": "Española",
+            "equipo": "Real betis Balompie",
+            "dorsal": "2",
+            "posición": "Defensa"
+        },
+        {
+            "nombre": "Diego Llorente",
+            "edad": "31",
+            "nacionalidad": "Española",
+            "equipo": "Real betis Balompie",
+            "dorsal": "3",
+            "posición": "defensa"
+        },
+        {
+            "nombre": "Marc Bartra",
+            "edad": "34",
+            "nacionalidad": "Española",
+            "equipo": "Real betis Balompie",
+            "dorsal": "5",
+            "posición": "defensa"
+        },
+        
+        {
+            "nombre": "Natan Bernardo",
+            "edad": "24",
+            "nacionalidad": "Brasileño",
+            "equipo": "Real betis Balompie",
+            "dorsal": "6",
+            "posición": "defensa"
+        },
+        {
+            "nombre": "Ricardo Rodriguez",
+            "edad": "32",
+            "nacionalidad": "suizo",
+            "equipo": "Real betis Balompie",
+            "dorsal": "12",
+            "posición": "defensa"
+        },
+        {
+            "nombre": "Romain Perraud",
+            "edad": "27",
+            "nacionalidad": "Francés",
+            "equipo": "Real betis Balompie",
+            "dorsal": "15",
+            "posición": "defensa"
+        },
+        {
+            "nombre": "Youssouf Sabaly",
+            "edad": "32",
+            "nacionalidad": "Senegales",
+            "equipo": "Real betis Balompie",
+            "dorsal": "23",
+            "posición": "defensa"
+        },
+        {
+            "nombre": "Aitor Ruibal",
+            "edad": "28",
+            "nacionalidad": "Español",
+            "equipo": "Real betis Balompie",
+            "dorsal": "24",
+            "posición": "defensa"
+        },
+        {
+            "nombre": "Nobel Mendy",
+            "edad": "20",
+            "nacionalidad": "Senegales",
+            "equipo": "Real betis Balompie",
+            "dorsal": "32",
+            "posición": "defensa"
+        },
+        {
+            "nombre": "Johnny Cardoso",
+            "edad": "23",
+            "nacionalidad": "Estado-Unidense",
+            "equipo": "Real betis Balompie",
+            "dorsal": "4",
+            "posición": "Centrocampista"
+        },
+        {
+            "nombre": "William Carvalho",
+            "edad": "32",
+            "nacionalidad": "Portugues",
+            "equipo": "Real betis Balompie",
+            "dorsal": "14",
+            "posición": "Centrocampista"
+        },
+        {
+            "nombre": "Sergi Altamira",
+            "edad": "23",
+            "nacionalidad": "Español",
+            "equipo": "Real betis Balompie",
+            "dorsal": "16",
+            "posición": "Centrocampista"
+        },
+        {
+            "nombre": "Pablo Fornals",
+            "edad": "29",
+            "nacionalidad": "Española",
+            "equipo": "Real betis Balompie",
+            "dorsal": "18",
+            "posición": "Centrocampista"
+        },
+        {
+            "nombre": "Giovani Lo Celso",
+            "edad": "28",
+            "nacionalidad": "Argentino",
+            "equipo": "Real betis Balompie",
+            "dorsal": "20",
+            "posición": "Centrocampista"
+        },
+        {
+            "nombre": "Marc Roca",
+            "edad": "28",
+            "nacionalidad": "Española",
+            "equipo": "Real betis Balompie",
+            "dorsal": "21",
+            "posición": "Centrocampista"
+        },
+        {
+            "nombre": "Isco Alarcon",
+            "edad": "32",
+            "nacionalidad": "Española",
+            "equipo": "Real betis Balompie",
+            "dorsal": "22",
+            "posición": "Centrocampista"
+        },
+        {
+            "nombre": "Chimy Avila",
+            "edad": "28",
+            "nacionalidad": "Argentino",
+            "equipo": "Real betis Balompie",
+            "dorsal": "9",
+            "posición": "Delantero"
+        },
+        {
+            "nombre": "ez Abde",
+            "edad": "23",
+            "nacionalidad": "Marroquí",
+            "equipo": "Real betis Balompie",
+            "dorsal": "10",
+            "posición": "Delantero"
+        },
+        {
+            "nombre": "Cedric bakambu",
+            "edad": "33",
+            "nacionalidad": "Congoles",
+            "equipo": "Real betis Balompie",
+            "dorsal": "11",
+            "posición": "Delantero"
+        },
+        {
+            "nombre": "Cucho hernandez",
+            "edad": "29",
+            "nacionalidad": "Colombiano",
+            "equipo": "Real betis Balompie",
+            "dorsal": "19",
+            "posición": "Delantero"
+        },
+        {
+            "nombre": " Jesus Rodriguez Caraballo",
+            "edad": "22",
+            "nacionalidad": "Española",
+            "equipo": "Real betis Balompie",
+            "dorsal": "36",
+            "posición": "Delantero"
+        },
+        {
+            "nombre": "Manuel Pellegrini",
+            "edad": "68",
+            "nacionalidad": "Chileno",
+            "equipo": "Real betis Balompie",
+            "posición": "Entrenador"
+
+        },
+        {
+            "nombre": "Samuel Costa",
+            "edad": "25",
+            "nacionalidad": "Portugues",
+            "equipo": "RCD Mallorca",
+            "dorsal": "12",
+            "posición": "Centrocampista"
+        },
+        {
+            "nombre": "Vedat Muriqi",
+            "edad": "30",
+            "nacionalidad": "Kosovar",
+            "equipo": "RCD Mallorca",
+            "dorsal": "9",
+            "posición": "Delantero"
+        },
+        {
+            "nombre": "Takuma Asano",
+            "edad": "30",
+            "nacionalidad": "Japones",
+            "equipo": "RCD Mallorca",
+            "dorsal": "11",
+            "posición": "Delantero"
+        },
+        {
+            "nombre": "Cyle Larin",
+            "edad": "29",
+            "nacionalidad": "Canadiense",
+            "equipo": "RCD Mallorca",
+            "dorsal": "17",
+            "posición": "Delantero"
+        },
+        {
+            "nombre": "Pablo Maffeo",
+            "edad": "27",
+            "nacionalidad": "Española",
+            "equipo": "RCD Mallorca",
+            "dorsal": "2",
+            "posición": "Defensa"
+        },
+        {
+            "nombre": "Johan Mojica",
+            "edad": "32",
+            "nacionalidad": "Colombiano",
+            "equipo": "RCD Mallorca",
+            "dorsal": "3",
+            "posición": "Defensa"
+        },
+        {
+            "nombre": "Manu Morlanes",
+            "edad": "26",
+            "nacionalidad": "Español",
+            "equipo": "RCD Mallorca",
+            "dorsal": "8",
+            "posición": "Centrocampista"
+        },
+        {
+            "nombre": "Antonio Raillo",
+            "edad": "33",
+            "nacionalidad": "Español",
+            "equipo": "RCD Mallorca",
+            "dorsal": "21",
+            "posición": "Defensa"
+        },
+        {
+            "nombre": "Dani Rodriguez",
+            "edad": "36",
+            "nacionalidad": "Español",
+            "equipo": "RCD Mallorca",
+            "dorsal": "14",
+            "posición": "Centrocampista"
+        },
+        {
+            "nombre": "Donimik Greif",
+            "edad": "27",
+            "nacionalidad": "Esloveno",
+            "equipo": "RCD Mallorca",
+            "dorsal": "1",
+            "posición": "Portero"
+        },
+        {
+            "nombre": "Martin Valjent",
+            "edad": "29",
+            "nacionalidad": "Esloveno",
+            "equipo": "RCD Mallorca",
+            "dorsal": "24",
+            "posición": "Defensa"
+        },
+        {
+            "nombre": "Chiquinho",
+            "edad": "25",
+            "nacionalidad": "Portugues",
+            "equipo": "RCD Mallorca",
+            "dorsal": "20",
+            "posición": "Delantero"
+        },
+        {
+            "nombre": "Sergi Darder",
+            "edad": "31",
+            "nacionalidad": "Español",
+            "equipo": "RCD Mallorca",
+            "dorsal": "10",
+            "posición": "Centrocampista"
+        },
+        {
+            "nombre": "Abdon Prats Bastidas",
+            "edad": "32",
+            "nacionalidad": "Español",
+            "equipo": "RCD Mallorca",
+            "dorsal": "9",
+            "posición": "Delantero"
+        },
+        {
+            "nombre": "Mateu Morey",
+            "edad": "25",
+            "nacionalidad": "Español",
+            "equipo": "RCD Mallorca",
+            "dorsal": "2",
+            "posición": "Defensa"
+        },
+        {
+            "nombre": "Valery Fernández",
+            "edad": "25",
+            "nacionalidad": "Español",
+            "equipo": "RCD Mallorca",
+            "dorsal": "2",
+            "posición": "Centrocampista"
+        },
+        {
+            "nombre": "Ivan Cuellar",
+            "edad": "40",
+            "nacionalidad": "Español",
+            "equipo": "RCD Mallorca",
+            "dorsal": "25",
+            "posición": "Portero"
+        },
+        {
+            "nombre": "Omar Mascarell",
+            "edad": "32",
+            "nacionalidad": "Hispano-ecuatoguineano",
+            "equipo": "RCD Mallorca",
+            "dorsal": "5",
+            "posición": "Centrocampista"
+        },
+        {
+            "nombre": "Jose Manuel Arias Copete",
+            "edad": "25",
+            "nacionalidad": "Español",
+            "equipo": "RCD Mallorca",
+            "dorsal": "6",
+            "posición": "Defensa"
+        },
+        {
+            "nombre": "Antonio Sanchez Navarro",
+            "edad": "27",
+            "nacionalidad": "Español",
+            "equipo": "RCD Mallorca",
+            "dorsal": "18",
+            "posición": "Centrocampista"
+        },
+        {
+            "nombre": "Ivan Villar Martinez",
+            "edad": "27",
+            "nacionalidad": "Español",
+            "equipo": "RC Celta",
+            "dorsal": "1",
+            "posición": "Portero"
+        },
+        {
+            "nombre": "Vicente Guaita Panadero",
+            "edad": "38",
+            "nacionalidad": "Español",
+            "equipo": "RC Celta",
+            "dorsal": "13",
+            "posición": "Portero"
+        },
+        {
+            "nombre": "Carl Anders Theodor Starfelt",
+            "edad": "29",
+            "nacionalidad": "Sueco",
+            "equipo": "RC Celta",
+            "dorsal": "2",
+            "posición": "Defensa"
+        },
+        {
+            "nombre": "Oscar Mingueza Garcia",
+            "edad": "25",
+            "nacionalidad": "Español",
+            "equipo": "RC Celta",
+            "dorsal": "3",
+            "posición": "Defensa"
+        },
+        {
+            "nombre": "Sergio Carreira Vilariño",
+            "edad": "24",
+            "nacionalidad": "Español",
+            "equipo": "RC Celta",
+            "dorsal": "5",
+            "posición": "Defensa"
+        },
+        {
+            "nombre": "Marcos Alonso",
+            "edad": "34",
+            "nacionalidad": "Español",
+            "equipo": "RC Celta",
+            "dorsal": "20",
+            "posición": "Defensa"
+        },
+        {
+            "nombre": "Carlos Dominguez Caceres",
+            "edad": "24",
+            "nacionalidad": "Español",
+            "equipo": "RC Celta",
+            "dorsal": "24",
+            "posición": "Defensa"
+        },
+        {
+            "nombre": "Javier Mantillo Gaitan",
+            "edad": "30",
+            "nacionalidad": "Español",
+            "equipo": "RC Celta",
+            "dorsal": "22",
+            "posición": "Defensa"
+        },
+        {
+            "nombre": "Mihailo Ristic",
+            "edad": "29",
+            "nacionalidad": "Serbio",
+            "equipo": "RC Celta",
+            "dorsal": "21",
+            "posición": "Defensa"
+        },
+        {
+            "nombre": "Hugo sotelo Gomez",
+            "edad": "21",
+            "nacionalidad": "Español",
+            "equipo": "RC Celta",
+            "dorsal": "4",
+            "posición": "Centrocampista"
+        },
+        {
+            "nombre": "Moriba Kourouma",
+            "edad": "22",
+            "nacionalidad": "Español",
+            "equipo": "RC Celta",
+            "dorsal": "6",
+            "posición": "Centrocampista"
+        },
+        {
+            "nombre": "Francisco Jose Beltran Peinado",
+            "edad": "26",
+            "nacionalidad": "Español",
+            "equipo": "RC Celta",
+            "dorsal": "8",
+            "posición": "Centrocampista"
+        },
+        {
+            "nombre": "Iker Losada Aragunde",
+            "edad": "23",
+            "nacionalidad": "Español",
+            "equipo": "RC Celta",
+            "dorsal": "14",
+            "posición": "Centrocampista"
+        },
+        {
+            "nombre": "Damian Rodriguez Sousa",
+            "edad": "22",
+            "nacionalidad": "Español",
+            "equipo": "RC Celta",
+            "dorsal": "25",
+            "posición": "Centrocampista"
+        },
+        {
+            "nombre": "Jailson Marques Siquiera",
+            "edad": "29",
+            "nacionalidad": "Brasileño",
+            "equipo": "RC Celta",
+            "dorsal": "1",
+            "posición": "Centrocampista"
+        },
+        {
+            "nombre": "Borja Iglesias Quintas",
+            "edad": "32",
+            "nacionalidad": "Español",
+            "equipo": "RC Celta",
+            "dorsal": "7",
+            "posición": "Delantero"
+        },
+        {
+            "nombre": "Iago Aspas Juncal",
+            "edad": "37",
+            "nacionalidad": "Español",
+            "equipo": "RC Celta",
+            "dorsal": "10",
+            "posición": "Delantero"
+        },
+        {
+            "nombre": "Franco Emanuel Cervi",
+            "edad": "30",
+            "nacionalidad": "Español",
+            "equipo": "RC Celta",
+            "dorsal": "11",
+            "posición": "Delantero"
+        },
+        {
+            "nombre": "Hugo Alvarez Antuner",
+            "edad": "21",
+            "nacionalidad": "Español",
+            "equipo": "RC Celta",
+            "dorsal": "23",
+            "posición": "Delantero"
+        },
+        {
+            "nombre": "Williot Theo Swedberg",
+            "edad": "21",
+            "nacionalidad": "Sueco",
+            "equipo": "RC Celta",
+            "dorsal": "19",
+            "posición": "Delantero"
+        },
+        {
+            "nombre": "Pablo Duran Fernandez",
+            "edad": "23",
+            "nacionalidad": "Español",
+            "equipo": "RC Celta",
+            "dorsal": "18",
+            "posición": "Delantero"
         }
+        
     
     
     
