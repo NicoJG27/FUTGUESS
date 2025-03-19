@@ -145,3 +145,18 @@ button:hover {
 .grid-item:hover {
   transform: scale(1.05);
 }
+.img-estadio-adivinar, .img-jugador-adivinar, .img-equipo-adivinar {
+  border-radius: 10px;
+  margin-top: 20px;
+  width: 200px;
+  height: 280px;
+}
+input{
+  width: 300px;
+}
+
+.pagina-adivinar{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

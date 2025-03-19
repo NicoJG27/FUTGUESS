@@ -36,7 +36,7 @@ async function conectarEquipo() {
 
 // Funcionalidad GET de la base de datos para obtener los usuarios
 // Sería el equivalente a escribir en el navegador: http://localhost:3000/usuario
-app.get("/usuario", async (req, res) => {
+app.get("/Jugador", async (req, res) => {
 try {
 const collection = await conectarJugador(); // Obtenemos la colección de usuarios
  let filtro = {}; // Creamos un objeto vacío para aplicar filtros opcionales
