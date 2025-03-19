@@ -30,21 +30,21 @@ document.addEventListener("DOMContentLoaded", () => {
             if (filtro === "nombre") {
                 url += `?nombre=${encodeURIComponent(valor)}`; // Búsqueda por nombre
             } else if (filtro === "equipo") {
-                url += `?equipo=${encodeURIComponent(valor)}`; // Búsqueda por equipo
+                url += `?email=${encodeURIComponent(valor)}`; // Búsqueda por equipo
             }
             else if (filtro === "posicion") {
-                url += `?posicion=${encodeURIComponent(valor)}`; // Búsqueda por posicion
+                url += `?email=${encodeURIComponent(valor)}`; // Búsqueda por posicion
             }
             else if (filtro === "nacionalidad") {
-                url += `?nacionalidad=${encodeURIComponent(valor)}`; // Búsqueda por nacionalidad
+                url += `?email=${encodeURIComponent(valor)}`; // Búsqueda por nacionalidad
             }
 
             // Realizamos la petición al servidor con Fetch
             const response = await fetch(url);
-            const jugadores = await response.json(); // Convertimos la respuesta a JSON
+            const usuarios = await response.json(); // Convertimos la respuesta a JSON
 
             // Mostramos los usuarios en la página
-            mostrarUsuarios(jugadores);
+            mostrarUsuarios(usuarios);
         } catch (error) {
             console.error("Error consultando usuarios:", error); // Mostramos el error en la consola
             output.innerHTML = `<p>Error consultando usuarios: ${error}</p>`; // Mostramos mensaje de error en la interfaz
@@ -53,29 +53,31 @@ document.addEventListener("DOMContentLoaded", () => {
 
     /**
     * Muestra los usuarios obtenidos en la página web
-    * @param {Array<jugador>} jugadores - Lista de usuarios a mostrar
+    * @param {Array<usuario>} usuarios - Lista de usuarios a mostrar
     * @returns
     */
-    function mostrarUsuarios(jugadores) {
+    function mostrarUsuarios(usuarios) {
         output.innerHTML = ""; // Limpiamos el contenedor de resultados
 
         // Si no hay usuarios encontrados, mostramos un mensaje
-        if (jugadores.length === 0) {
+        if (usuarios.length === 0) {
             output.innerHTML = "<p>No se encontraron usuarios.</p>";
             return;
         }
 
         // Recorremos la lista de usuarios y creamos un div para cada uno
-        usuarios.forEach(jugador => {
+        usuarios.forEach(user => {
             let div = document.createElement("div");
             div.classList.add("grid-item"); // Clase CSS para estilos
-            div.innerHTML = 
-            `<p><strong><u>Nombre:</u></strong> <span>${jugador.nombre}</span></p>
-            <p><strong><u>Email:</u></strong> <span>${jugador.edad}</span></p>
-            <p><strong><u>Email:</u></strong> <span>${jugador.nacionalidad}</span></p>
-            <p><strong><u>Edad:</u></strong> <span>${jugador.equipo}</span></p>
-            <p><strong><u>Ciudad:</u></strong> <span>${jugador.dorsal}</span></p>
-            <p><strong><u>Ciudad:</u></strong> <span>${jugador.posicion}</span></p>`;
+            div.innerHTML = `<p><strong><u>Nombre:</u></strong> <span>${user.nombre}</span></p>
+Lenguajes de Marcas y Sistemas de Gestión de información Unidad Didáctica 05 - JSON y los SGBD
+C.F.G.S. Desarrollo de Aplicaciones Web
+18 Francisco Jesús Delgado Almirón
+<p><strong><u>Email:</u></strong> <span>${user.edad}</span></p>
+<p><strong><u>Email:</u></strong> <span>${user.nacionalidad}</span></p>
+<p><strong><u>Edad:</u></strong> <span>${user.equipo}</span></p>
+<p><strong><u>Ciudad:</u></strong> <span>${user.dorsal}</span></p>
+<p><strong><u>Ciudad:</u></strong> <span>${user.posicion}</span></p>`;
             output.appendChild(div); // Agregamos el div al contenedor de salida
         });
     }
