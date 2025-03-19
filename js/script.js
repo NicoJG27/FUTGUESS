@@ -26,25 +26,24 @@ document.addEventListener("DOMContentLoaded", () => {
         try {
             let url = `http://localhost:${PORT}/${nombre_coleccion_jugador}`; // URL base de la API
 
-            // Si se ha indicado un filtro, lo agregamos a la URL con parámetros de consulta
+            //Si se ha indicado un filtro, lo agregamos a la URL con parámetros de consulta
             if (filtro === "nombre") {
                 url += `?nombre=${encodeURIComponent(valor)}`; // Búsqueda por nombre
             } else if (filtro === "equipo") {
-                url += `?email=${encodeURIComponent(valor)}`; // Búsqueda por equipo
-            }
-            else if (filtro === "posicion") {
-                url += `?email=${encodeURIComponent(valor)}`; // Búsqueda por posicion
+                url += `?equipo=${encodeURIComponent(valor)}`; // Búsqueda por equipo
             }
             else if (filtro === "nacionalidad") {
-                url += `?email=${encodeURIComponent(valor)}`; // Búsqueda por nacionalidad
+                url += `?nacionalidad=${encodeURIComponent(valor)}`; // Búsqueda por nacionalidad
             }
 
-            // Realizamos la petición al servidor con Fetch
+            //Realizamos la petición al servidor con Fetch
             const response = await fetch(url);
             const usuarios = await response.json(); // Convertimos la respuesta a JSON
 
             // Mostramos los usuarios en la página
             mostrarUsuarios(usuarios);
+            console.log("HOLA");
+
         } catch (error) {
             console.error("Error consultando usuarios:", error); // Mostramos el error en la consola
             output.innerHTML = `<p>Error consultando usuarios: ${error}</p>`; // Mostramos mensaje de error en la interfaz
@@ -70,14 +69,11 @@ document.addEventListener("DOMContentLoaded", () => {
             let div = document.createElement("div");
             div.classList.add("grid-item"); // Clase CSS para estilos
             div.innerHTML = `<p><strong><u>Nombre:</u></strong> <span>${user.nombre}</span></p>
-Lenguajes de Marcas y Sistemas de Gestión de información Unidad Didáctica 05 - JSON y los SGBD
-C.F.G.S. Desarrollo de Aplicaciones Web
-18 Francisco Jesús Delgado Almirón
-<p><strong><u>Email:</u></strong> <span>${user.edad}</span></p>
-<p><strong><u>Email:</u></strong> <span>${user.nacionalidad}</span></p>
-<p><strong><u>Edad:</u></strong> <span>${user.equipo}</span></p>
-<p><strong><u>Ciudad:</u></strong> <span>${user.dorsal}</span></p>
-<p><strong><u>Ciudad:</u></strong> <span>${user.posicion}</span></p>`;
+                             <p><strong><u>Edad:</u></strong> <span>${user.edad}</span></p>
+                             <p><strong><u>Nacionalidad:</u></strong> <span>${user.nacionalidad}</span></p>
+                             <p><strong><u>Equipo:</u></strong> <span>${user.equipo}</span></p>
+                             <p><strong><u>Dorsal:</u></strong> <span>${user.dorsal}</span></p>
+                             <p><strong><u>Posicion:</u></strong> <span>${user.posicion}</span></p>`;
             output.appendChild(div); // Agregamos el div al contenedor de salida
         });
     }
@@ -86,9 +82,7 @@ C.F.G.S. Desarrollo de Aplicaciones Web
     searchByNameButton.addEventListener("click", () => consultarUsuarios("nombre", nameSearch.value.trim()));
     // Buscar por equipo
     searchByequipoButton.addEventListener("click", () => consultarUsuarios("equipo", equipoSearch.value.trim()));
-     // Buscar por posicion
-     searchByposicionButton.addEventListener("click", () => consultarUsuarios("posicion", posicionSearch.value.trim()));
-      // Buscar por nacionalidad
+    // Buscar por nacionalidad
     searchBynacionalidadButton.addEventListener("click", () => consultarUsuarios("nacionalidad", nacionalidadSearch.value.trim()));
     // Eventos de búsqueda
     showAllButton.addEventListener("click", () => consultarUsuarios()); // Mostrar todos los usuarios

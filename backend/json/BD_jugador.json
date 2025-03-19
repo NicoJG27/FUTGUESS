@@ -6,7 +6,7 @@
         "nacionalidad": "Belga",
         "equipo": "Real Madrid",
         "dorsal": "1",
-        "posición": "Portero"
+        "posicion": "Portero"
     },
     {
         "nombre": "Andriy Lunin",
@@ -14,7 +14,7 @@
         "nacionalidad": "Ucraniana",
         "equipo": "Real Madrid",
         "dorsal": "13",
-        "posición": "Portero"
+        "posicion": "Portero"
     },
     {
         "nombre": "Dani Carvajal",
@@ -22,7 +22,7 @@
         "nacionalidad": "Española",
         "equipo": "Real Madrid",
         "dorsal": "2",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
     {
         "nombre": "Éder Militão",
@@ -30,7 +30,7 @@
         "nacionalidad": "Brasileña",
         "equipo": "Real Madrid",
         "dorsal": "3",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
     {
         "nombre": "David Alaba",
@@ -38,7 +38,7 @@
         "nacionalidad": "Austríaca",
         "equipo": "Real Madrid",
         "dorsal": "4",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
     {
         "nombre": "Lucas Vázquez",
@@ -46,7 +46,7 @@
         "nacionalidad": "Española",
         "equipo": "Real Madrid",
         "dorsal": "17",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
     {
         "nombre": "Jesús Vallejo",
@@ -54,7 +54,7 @@
         "nacionalidad": "Española",
         "equipo": "Real Madrid",
         "dorsal": "18",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
     {
         "nombre": "Fran García",
@@ -62,7 +62,7 @@
         "nacionalidad": "Española",
         "equipo": "Real Madrid",
         "dorsal": "20",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
     {
         "nombre": "Antonio Rüdiger",
@@ -70,7 +70,7 @@
         "nacionalidad": "Alemana",
         "equipo": "Real Madrid",
         "dorsal": "22",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
     {
         "nombre": "Ferland Mendy",
@@ -78,7 +78,7 @@
         "nacionalidad": "Francesa",
         "equipo": "Real Madrid",
         "dorsal": "23",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
     {
         "nombre": "Jude Bellingham",
@@ -86,7 +86,7 @@
         "nacionalidad": "Inglesa",
         "equipo": "Real Madrid",
         "dorsal": "5",
-        "posición": "Centrocampista"
+        "posicion": "Centrocampista"
     },
     {
         "nombre": "Eduardo Camavinga",
@@ -94,7 +94,7 @@
         "nacionalidad": "Francesa",
         "equipo": "Real Madrid",
         "dorsal": "6",
-        "posición": "Centrocampista"
+        "posicion": "Centrocampista"
     },
     {
         "nombre": "Federico Valverde",
@@ -102,7 +102,7 @@
         "nacionalidad": "Uruguaya",
         "equipo": "Real Madrid",
         "dorsal": "8",
-        "posición": "Centrocampista"
+        "posicion": "Centrocampista"
     },
     {
         "nombre": "Luka Modrić",
@@ -110,7 +110,7 @@
         "nacionalidad": "Croata",
         "equipo": "Real Madrid",
         "dorsal": "10",
-        "posición": "Centrocampista"
+        "posicion": "Centrocampista"
     },
     {
         "nombre": "Aurélien Tchouaméni",
@@ -118,7 +118,7 @@
         "nacionalidad": "Francesa",
         "equipo": "Real Madrid",
         "dorsal": "14",
-        "posición": "Centrocampista"
+        "posicion": "Centrocampista"
     },
     {
         "nombre": "Arda Güler",
@@ -126,7 +126,7 @@
         "nacionalidad": "Turca",
         "equipo": "Real Madrid",
         "dorsal": "15",
-        "posición": "Centrocampista"
+        "posicion": "Centrocampista"
     },
     {
         "nombre": "Dani Ceballos",
@@ -134,7 +134,7 @@
         "nacionalidad": "Española",
         "equipo": "Real Madrid",
         "dorsal": "19",
-        "posición": "Centrocampista"
+        "posicion": "Centrocampista"
     },
     {
         "nombre": "Vinícius Júnior",
@@ -142,7 +142,7 @@
         "nacionalidad": "Brasileña",
         "equipo": "Real Madrid",
         "dorsal": "7",
-        "posición": "Delantero"
+        "posicion": "Delantero"
     },
     {
         "nombre": "Kylian Mbappé",
@@ -150,7 +150,7 @@
         "nacionalidad": "Francesa",
         "equipo": "Real Madrid",
         "dorsal": "9",
-        "posición": "Delantero"
+        "posicion": "Delantero"
     },
     {
         "nombre": "Rodrygo Goes",
@@ -158,7 +158,7 @@
         "nacionalidad": "Brasileña",
         "equipo": "Real Madrid",
         "dorsal": "11",
-        "posición": "Delantero"
+        "posicion": "Delantero"
     },
     {
         "nombre": "Endrick Felipe",
@@ -166,7 +166,7 @@
         "nacionalidad": "Brasileña",
         "equipo": "Real Madrid",
         "dorsal": "16",
-        "posición": "Delantero"
+        "posicion": "Delantero"
     },
     {
         "nombre": "Brahim Díaz",
@@ -174,7 +174,7 @@
         "nacionalidad": "Española",
         "equipo": "Real Madrid",
         "dorsal": "21",
-        "posición": "Delantero"
+        "posicion": "Delantero"
     },
     {
         "nombre": "Raul Asencio",
@@ -182,7 +182,7 @@
         "nacionalidad": "Española",
         "equipo": "Real Madrid",
         "dorsal": "35",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
 
 
@@ -197,7 +197,7 @@
         "nacionalidad": "Polaca",
         "equipo": "FC Barcelona",
         "dorsal": "25",
-        "posición": "Portero"
+        "posicion": "Portero"
     },
     {
         "nombre": "Iñaki Peña",
@@ -205,7 +205,7 @@
         "nacionalidad": "Española",
         "equipo": "FC Barcelona",
         "dorsal": "15",
-        "posición": "Portero"
+        "posicion": "Portero"
     },
     {
         "nombre": "Marc-André ter Stegen",
@@ -213,7 +213,7 @@
         "nacionalidad": "Alemana",
         "equipo": "FC Barcelona",
         "dorsal": "1",
-        "posición": "Portero"
+        "posicion": "Portero"
     },
     {
         "nombre": "Jules Koundé",
@@ -221,7 +221,7 @@
         "nacionalidad": "Francesa",
         "equipo": "FC Barcelona",
         "dorsal": "23",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
     {
         "nombre": "Pau Cubarsí",
@@ -229,7 +229,7 @@
         "nacionalidad": "Española",
         "equipo": "FC Barcelona",
         "dorsal": "2",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
     {
         "nombre": "Iñigo Martínez",
@@ -237,7 +237,7 @@
         "nacionalidad": "Española",
         "equipo": "FC Barcelona",
         "dorsal": "5",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
     {
         "nombre": "Ronald Araújo",
@@ -245,7 +245,7 @@
         "nacionalidad": "Uruguaya",
         "equipo": "FC Barcelona",
         "dorsal": "4",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
     {
         "nombre": "Alejandro Balde",
@@ -253,7 +253,7 @@
         "nacionalidad": "Española",
         "equipo": "FC Barcelona",
         "dorsal": "3",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
     {
         "nombre": "Andreas Christensen",
@@ -261,7 +261,7 @@
         "nacionalidad": "Danesa",
         "equipo": "FC Barcelona",
         "dorsal": "15",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
     {
         "nombre": "Eric García",
@@ -269,7 +269,7 @@
         "nacionalidad": "Española",
         "equipo": "FC Barcelona",
         "dorsal": "24",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
     {
         "nombre": "Frenkie de Jong",
@@ -277,7 +277,7 @@
         "nacionalidad": "Neerlandesa",
         "equipo": "FC Barcelona",
         "dorsal": "21",
-        "posición": "Centrocampista"
+        "posicion": "Centrocampista"
     },
     {
         "nombre": "Gavi",
@@ -285,7 +285,7 @@
         "nacionalidad": "Española",
         "equipo": "FC Barcelona",
         "dorsal": "6",
-        "posición": "Centrocampista"
+        "posicion": "Centrocampista"
     },
     {
         "nombre": "Pedri",
@@ -293,7 +293,7 @@
         "nacionalidad": "Española",
         "equipo": "FC Barcelona",
         "dorsal": "8",
-        "posición": "Centrocampista"
+        "posicion": "Centrocampista"
     },
     {
         "nombre": "Pablo Torre",
@@ -301,7 +301,7 @@
         "nacionalidad": "Española",
         "equipo": "FC Barcelona",
         "dorsal": "14",
-        "posición": "Centrocampista"
+        "posicion": "Centrocampista"
     },
     {
         "nombre": "Marc Casadó",
@@ -309,7 +309,7 @@
         "nacionalidad": "Española",
         "equipo": "FC Barcelona",
         "dorsal": "17",
-        "posición": "Centrocampista"
+        "posicion": "Centrocampista"
     },
     {
         "nombre": "Fermín López",
@@ -317,7 +317,7 @@
         "nacionalidad": "Española",
         "equipo": "FC Barcelona",
         "dorsal": "16",
-        "posición": "Centrocampista"
+        "posicion": "Centrocampista"
     },
     {
         "nombre": "Dani Olmo",
@@ -325,7 +325,7 @@
         "nacionalidad": "Española",
         "equipo": "FC Barcelona",
         "dorsal": "20",
-        "posición": "Centrocampista"
+        "posicion": "Centrocampista"
     },
     {
         "nombre": "Ferran Torres",
@@ -333,7 +333,7 @@
         "nacionalidad": "Española",
         "equipo": "FC Barcelona",
         "dorsal": "7",
-        "posición": "Delantero"
+        "posicion": "Delantero"
     },
     {
         "nombre": "Ansu Fati",
@@ -341,7 +341,7 @@
         "nacionalidad": "Española",
         "equipo": "FC Barcelona",
         "dorsal": "10",
-        "posición": "Delantero"
+        "posicion": "Delantero"
     },
     {
         "nombre": "Robert Lewandowski",
@@ -349,7 +349,7 @@
         "nacionalidad": "Polaca",
         "equipo": "FC Barcelona",
         "dorsal": "9",
-        "posición": "Delantero"
+        "posicion": "Delantero"
     },
     {
         "nombre": "Raphinha",
@@ -357,7 +357,7 @@
         "nacionalidad": "Brasileña",
         "equipo": "FC Barcelona",
         "dorsal": "11",
-        "posición": "Delantero"
+        "posicion": "Delantero"
     },
     {
         "nombre": "Lamine Yamal",
@@ -365,7 +365,7 @@
         "nacionalidad": "Española",
         "equipo": "FC Barcelona",
         "dorsal": "19",
-        "posición": "Delantero"
+        "posicion": "Delantero"
     },
     {
         "nombre": "Pau Victor",
@@ -373,7 +373,7 @@
         "nacionalidad": "Española",
         "equipo": "FC Barcelona",
         "dorsal": "18",
-        "posición": "Delantero"
+        "posicion": "Delantero"
     },
 
 
@@ -389,7 +389,7 @@
         "nacionalidad": "Argentina",
         "equipo": "Atlético de Madrid",
         "dorsal": "1",
-        "posición": "Portero"
+        "posicion": "Portero"
     },
     {
         "nombre": "Jan Oblak",
@@ -397,7 +397,7 @@
         "nacionalidad": "Eslovena",
         "equipo": "Atlético de Madrid",
         "dorsal": "13",
-        "posición": "Portero"
+        "posicion": "Portero"
     },
     {
         "nombre": "José María Giménez",
@@ -405,7 +405,7 @@
         "nacionalidad": "Uruguaya",
         "equipo": "Atlético de Madrid",
         "dorsal": "2",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
     {
         "nombre": "César Azpilicueta",
@@ -413,7 +413,7 @@
         "nacionalidad": "Española",
         "equipo": "Atlético de Madrid",
         "dorsal": "3",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
     {
         "nombre": "Clement Lenglet",
@@ -421,7 +421,7 @@
         "nacionalidad": "Francesa",
         "equipo": "Atlético de Madrid",
         "dorsal": "15",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
     {
         "nombre": "Nahuel Molina",
@@ -429,7 +429,7 @@
         "nacionalidad": "Argentina",
         "equipo": "Atlético de Madrid",
         "dorsal": "16",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
     {
         "nombre": "Axel Witsel",
@@ -437,7 +437,7 @@
         "nacionalidad": "Belga",
         "equipo": "Atlético de Madrid",
         "dorsal": "20",
-        "posición": "Centrocampista"
+        "posicion": "Centrocampista"
     },
     {
         "nombre": "Javi Galán",
@@ -445,7 +445,7 @@
         "nacionalidad": "Española",
         "equipo": "Atlético de Madrid",
         "dorsal": "21",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
     {
         "nombre": "Reinildo Mandava",
@@ -453,7 +453,7 @@
         "nacionalidad": "Mozambiqueña",
         "equipo": "Atlético de Madrid",
         "dorsal": "23",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
     {
         "nombre": "Robin Le Normand",
@@ -461,7 +461,7 @@
         "nacionalidad": "Francesa",
         "equipo": "Atlético de Madrid",
         "dorsal": "24",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
     {
         "nombre": "Conor Gallagher",
@@ -469,7 +469,7 @@
         "nacionalidad": "Inglesa",
         "equipo": "Atlético de Madrid",
         "dorsal": "4",
-        "posición": "Centrocampista"
+        "posicion": "Centrocampista"
     },
     {
         "nombre": "Rodrigo de Paul",
@@ -477,7 +477,7 @@
         "nacionalidad": "Argentina",
         "equipo": "Atlético de Madrid",
         "dorsal": "5",
-        "posición": "Centrocampista"
+        "posicion": "Centrocampista"
     },
     {
         "nombre": "Koke Resurrección",
@@ -485,7 +485,7 @@
         "nacionalidad": "Española",
         "equipo": "Atlético de Madrid",
         "dorsal": "6",
-        "posición": "Centrocampista"
+        "posicion": "Centrocampista"
     },
     {
         "nombre": "Pablo Barrios",
@@ -493,7 +493,7 @@
         "nacionalidad": "Española",
         "equipo": "Atlético de Madrid",
         "dorsal": "8",
-        "posición": "Centrocampista"
+        "posicion": "Centrocampista"
     },
     {
         "nombre": "Thomas Lemar",
@@ -501,7 +501,7 @@
         "nacionalidad": "Francesa",
         "equipo": "Atlético de Madrid",
         "dorsal": "11",
-        "posición": "Centrocampista"
+        "posicion": "Centrocampista"
     },
     {
         "nombre": "Samuel Lino",
@@ -509,7 +509,7 @@
         "nacionalidad": "Brasileña",
         "equipo": "Atlético de Madrid",
         "dorsal": "12",
-        "posición": "Centrocampista"
+        "posicion": "Centrocampista"
     },
     {
         "nombre": "Marcos Llorente",
@@ -517,7 +517,7 @@
         "nacionalidad": "Española",
         "equipo": "Atlético de Madrid",
         "dorsal": "14",
-        "posición": "Centrocampista"
+        "posicion": "Centrocampista"
     },
     {
         "nombre": "Rodrigo Riquelme",
@@ -525,7 +525,7 @@
         "nacionalidad": "Española",
         "equipo": "Atlético de Madrid",
         "dorsal": "17",
-        "posición": "Centrocampista"
+        "posicion": "Centrocampista"
     },
     {
         "nombre": "Antoine Griezmann",
@@ -533,7 +533,7 @@
         "nacionalidad": "Francesa",
         "equipo": "Atlético de Madrid",
         "dorsal": "7",
-        "posición": "Delantero"
+        "posicion": "Delantero"
     },
     {
         "nombre": "Alexander Sørloth",
@@ -541,7 +541,7 @@
         "nacionalidad": "Noruega",
         "equipo": "Atlético de Madrid",
         "dorsal": "9",
-        "posición": "Delantero"
+        "posicion": "Delantero"
     },
     {
         "nombre": "Ángel Correa",
@@ -549,7 +549,7 @@
         "nacionalidad": "Argentina",
         "equipo": "Atlético de Madrid",
         "dorsal": "10",
-        "posición": "Delantero"
+        "posicion": "Delantero"
     },
     {
         "nombre": "Julián Álvarez",
@@ -557,7 +557,7 @@
         "nacionalidad": "Argentina",
         "equipo": "Atlético de Madrid",
         "dorsal": "19",
-        "posición": "Delantero"
+        "posicion": "Delantero"
     },
     {
         "nombre": "Giuliano Simeone",
@@ -565,7 +565,7 @@
         "nacionalidad": "Argentina",
         "equipo": "Atlético de Madrid",
         "dorsal": "22",
-        "posición": "Delantero"
+        "posicion": "Delantero"
     },
 
 
@@ -577,7 +577,7 @@
         "nacionalidad": "Española",
         "equipo": "Athletic Club de Bilbao",
         "dorsal": "1",
-        "posición": "Portero"
+        "posicion": "Portero"
     },
     {
         "nombre": "Julen Agirrezabala",
@@ -585,7 +585,7 @@
         "nacionalidad": "Española",
         "equipo": "Athletic Club de Bilbao",
         "dorsal": "13",
-        "posición": "Portero"
+        "posicion": "Portero"
     },
     {
         "nombre": "Andoni Gorosabel",
@@ -593,7 +593,7 @@
         "nacionalidad": "Española",
         "equipo": "Athletic Club de Bilbao",
         "dorsal": "2",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
     {
         "nombre": "Daniel Vivian",
@@ -601,7 +601,7 @@
         "nacionalidad": "Española",
         "equipo": "Athletic Club de Bilbao",
         "dorsal": "3",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
     {
         "nombre": "Aitor Paredes",
@@ -609,7 +609,7 @@
         "nacionalidad": "Española",
         "equipo": "Athletic Club de Bilbao",
         "dorsal": "4",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
     {
         "nombre": "Yeray Álvarez",
@@ -617,7 +617,7 @@
         "nacionalidad": "Española",
         "equipo": "Athletic Club de Bilbao",
         "dorsal": "5",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
     {
         "nombre": "Unai Núñez",
@@ -625,7 +625,7 @@
         "nacionalidad": "Española",
         "equipo": "Athletic Club de Bilbao",
         "dorsal": "14",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
     {
         "nombre": "Íñigo Lekue",
@@ -633,7 +633,7 @@
         "nacionalidad": "Española",
         "equipo": "Athletic Club de Bilbao",
         "dorsal": "15",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
     {
         "nombre": "Yuri Berchiche",
@@ -641,7 +641,7 @@
         "nacionalidad": "Española",
         "equipo": "Athletic Club de Bilbao",
         "dorsal": "17",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
     {
         "nombre": "Óscar de Marcos",
@@ -649,7 +649,7 @@
         "nacionalidad": "Española",
         "equipo": "Athletic Club de Bilbao",
         "dorsal": "18",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
     {
         "nombre": "Adama Boiro",
@@ -657,7 +657,7 @@
         "nacionalidad": "Española",
         "equipo": "Athletic Club de Bilbao",
         "dorsal": "32",
-        "posición": "Defensa"
+        "posicion": "Defensa"
     },
     {
         "nombre": "Mikel Vesga",
@@ -665,7 +665,7 @@
         "nacionalidad": "Española",
         "equipo": "Athletic Club de Bilbao",
         "dorsal": "6",
-        "posición": "Centrocampista"
+        "posicion": "Centrocampista"
     },
     {
         "nombre": "Oihan Sancet",
@@ -673,7 +673,7 @@
         "nacionalidad": "Española",
         "equipo": "Athletic Club de Bilbao",
         "dorsal": "8",
-        "posición": "Centrocampista"
+        "posicion": "Centrocampista"
     },
     {
         "nombre": "Iñigo Ruiz de Galarreta",
@@ -681,7 +681,7 @@
         "nacionalidad": "Española",
         "equipo": "Athletic Club de Bilbao",
         "dorsal": "16",
-        "posición": "Centrocampista"
+        "posicion": "Centrocampista"
     },
     {
         "nombre": "Unai Gómez",
@@ -689,7 +689,7 @@
         "nacionalidad": "Española",
         "equipo": "Athletic Club de Bilbao",
         "dorsal": "20",
-        "posición": "Centrocampista"
+        "posicion": "Centrocampista"
     },
     {
         "nombre": "Mikel Jauregizar",
@@ -697,7 +697,7 @@
         "nacionalidad": "Española",
         "equipo": "Athletic Club de Bilbao",
         "dorsal": "23",
-        "posición": "Centrocampista"
+        "posicion": "Centrocampista"
     },
     {
         "nombre": "Beñat Prados",
@@ -705,7 +705,7 @@
         "nacionalidad": "Española",
         "equipo": "Athletic Club de Bilbao",
         "dorsal": "24",
-        "posición": "Centrocampista"
+        "posicion": "Centrocampista"
     },
     {
         "nombre": "Peio Canales",
@@ -713,7 +713,7 @@
         "nacionalidad": "Española",
         "equipo": "Athletic Club de Bilbao",
         "dorsal": "28",
-        "posición": "Centrocampista"
+        "posicion": "Centrocampista"
     },
     {
         "nombre": "Alejandro Berenguer",
@@ -721,7 +721,7 @@
         "nacionalidad": "Española",
         "equipo": "Athletic Club de Bilbao",
         "dorsal": "7",
-        "posición": "Centrocampista"
+        "posicion": "Centrocampista"
     },
     {
         "nombre": "Iñaki Williams",
@@ -729,7 +729,7 @@
         "nacionalidad": "Ghanesa",
         "equipo": "Athletic Club de Bilbao",
         "dorsal": "9",
-        "posición": "Delantero"
+        "posicion": "Delantero"
     },
     {
         "nombre": "Nico Williams",
@@ -737,7 +737,7 @@
         "nacionalidad": "Española",
         "equipo": "Athletic Club de Bilbao",
         "dorsal": "10",
-        "posición": "Delantero"
+        "posicion": "Delantero"
     },
     {
         "nombre": "Álvaro Djaló",
@@ -745,7 +745,7 @@
         "nacionalidad": "Española",
         "equipo": "Athletic Club de Bilbao",
         "dorsal": "11",
-        "posición": "Delantero"
+        "posicion": "Delantero"
     },
     {
         "nombre": "Gorka Guruzeta",
@@ -753,7 +753,7 @@
         "nacionalidad": "Española",
         "equipo": "Athletic Club de Bilbao",
         "dorsal": "12",
-        "posición": "Delantero"
+        "posicion": "Delantero"
     },
 
 
@@ -764,7 +764,7 @@
             "nacionalidad": "Desconocida",
             "equipo": "Villarreal CF",
             "dorsal": "1",
-            "posición": "Portero"
+            "posicion": "Portero"
         },
         {
             "nombre": "Costa",
@@ -772,7 +772,7 @@
             "nacionalidad": "Desconocida",
             "equipo": "Villarreal CF",
             "dorsal": "2",
-            "posición": "Defensa"
+            "posicion": "Defensa"
         },
         {
             "nombre": "Raúl Albiol",
@@ -780,7 +780,7 @@
             "nacionalidad": "Española",
             "equipo": "Villarreal CF",
             "dorsal": "3",
-            "posición": "Defensa"
+            "posicion": "Defensa"
         },
         {
             "nombre": "Eric Bailly",
@@ -788,7 +788,7 @@
             "nacionalidad": "Marfileña",
             "equipo": "Villarreal CF",
             "dorsal": "4",
-            "posición": "Defensa"
+            "posicion": "Defensa"
         },
         {
             "nombre": "Kambwala",
@@ -796,7 +796,7 @@
             "nacionalidad": "Desconocida",
             "equipo": "Villarreal CF",
             "dorsal": "5",
-            "posición": "Defensa"
+            "posicion": "Defensa"
         },
         {
             "nombre": "Denis Suárez",
@@ -804,7 +804,7 @@
             "nacionalidad": "Española",
             "equipo": "Villarreal CF",
             "dorsal": "6",
-            "posición": "Centrocampista"
+            "posicion": "Centrocampista"
         },
         {
             "nombre": "Gerard",
@@ -812,7 +812,7 @@
             "nacionalidad": "Española",
             "equipo": "Villarreal CF",
             "dorsal": "7",
-            "posición": "Delantero"
+            "posicion": "Delantero"
         },
         {
             "nombre": "Foyth",
@@ -820,7 +820,7 @@
             "nacionalidad": "Argentina",
             "equipo": "Villarreal CF",
             "dorsal": "8",
-            "posición": "Defensa"
+            "posicion": "Defensa"
         },
         {
             "nombre": "Buchanan",
@@ -828,7 +828,7 @@
             "nacionalidad": "Desconocida",
             "equipo": "Villarreal CF",
             "dorsal": "9",
-            "posición": "Delantero"
+            "posicion": "Delantero"
         },
         {
             "nombre": "Parejo",
@@ -836,7 +836,7 @@
             "nacionalidad": "Española",
             "equipo": "Villarreal CF",
             "dorsal": "10",
-            "posición": "Centrocampista"
+            "posicion": "Centrocampista"
         },
         {
             "nombre": "I. Akhomach",
@@ -844,7 +844,7 @@
             "nacionalidad": "Desconocida",
             "equipo": "Villarreal CF",
             "dorsal": "11",
-            "posición": "Delantero"
+            "posicion": "Delantero"
         },
         {
             "nombre": "Diego Conde",
@@ -852,7 +852,7 @@
             "nacionalidad": "Desconocida",
             "equipo": "Villarreal CF",
             "dorsal": "13",
-            "posición": "Portero"
+            "posicion": "Portero"
         },
         {
             "nombre": "Santi C. V.",
@@ -860,7 +860,7 @@
             "nacionalidad": "Desconocida",
             "equipo": "Villarreal CF",
             "dorsal": "14",
-            "posición": "Centrocampista"
+            "posicion": "Centrocampista"
         },
         {
             "nombre": "Thierno Barry",
@@ -868,7 +868,7 @@
             "nacionalidad": "Desconocida",
             "equipo": "Villarreal CF",
             "dorsal": "15",
-            "posición": "Delantero"
+            "posicion": "Delantero"
         },
         {
             "nombre": "Álex B.",
@@ -876,7 +876,7 @@
             "nacionalidad": "Española",
             "equipo": "Villarreal CF",
             "dorsal": "16",
-            "posición": "Centrocampista"
+            "posicion": "Centrocampista"
         },
         {
             "nombre": "Kiko F.",
@@ -884,7 +884,7 @@
             "nacionalidad": "Española",
             "equipo": "Villarreal CF",
             "dorsal": "17",
-            "posición": "Defensa"
+            "posicion": "Defensa"
         },
         {
             "nombre": "Gueye",
@@ -892,7 +892,7 @@
             "nacionalidad": "Desconocida",
             "equipo": "Villarreal CF",
             "dorsal": "18",
-            "posición": "Centrocampista"
+            "posicion": "Centrocampista"
         },
         {
             "nombre": "Pepe",
@@ -900,7 +900,7 @@
             "nacionalidad": "Desconocida",
             "equipo": "Villarreal CF",
             "dorsal": "19",
-            "posición": "Delantero"
+            "posicion": "Delantero"
         },
         {
             "nombre": "Yeremy",
@@ -908,7 +908,7 @@
             "nacionalidad": "Española",
             "equipo": "Villarreal CF",
             "dorsal": "21",
-            "posición": "Delantero"
+            "posicion": "Delantero"
         },
         {
             "nombre": "Ayoze",
@@ -916,7 +916,7 @@
             "nacionalidad": "Española",
             "equipo": "Villarreal CF",
             "dorsal": "22",
-            "posición": "Delantero"
+            "posicion": "Delantero"
         },
         {
             "nombre": "S. Cardona",
@@ -924,7 +924,7 @@
             "nacionalidad": "Desconocida",
             "equipo": "Villarreal CF",
             "dorsal": "23",
-            "posición": "Defensa"
+            "posicion": "Defensa"
         },
         {
             "nombre": "A. Pedraza",
@@ -932,7 +932,7 @@
             "nacionalidad": "Española",
             "equipo": "Villarreal CF",
             "dorsal": "24",
-            "posición": "Defensa"
+            "posicion": "Defensa"
         },
         {
             "nombre": "Pau Navarro",
@@ -940,7 +940,7 @@
             "nacionalidad": "Desconocida",
             "equipo": "Villarreal CF",
             "dorsal": "26",
-            "posición": "Defensa"
+            "posicion": "Defensa"
         },
         {
             "nombre": "Antony dos Santos",
@@ -948,7 +948,7 @@
             "nacionalidad": "brasileña",
             "equipo": "Real betis Balompie",
             "dorsal": "7",
-            "posición": "Delantero"
+            "posicion": "Delantero"
         },
         {
             "nombre": "Adrián",
@@ -956,14 +956,14 @@
             "nacionalidad": "Española",
             "equipo": "Real betis Balompie",
             "dorsal": "13",
-            "posición": "Portero"
+            "posicion": "Portero"
         },{
             "nombre": "Hector Bellerin",
             "edad": "29",
             "nacionalidad": "Española",
             "equipo": "Real betis Balompie",
             "dorsal": "2",
-            "posición": "Defensa"
+            "posicion": "Defensa"
         },
         {
             "nombre": "Diego Llorente",
@@ -971,7 +971,7 @@
             "nacionalidad": "Española",
             "equipo": "Real betis Balompie",
             "dorsal": "3",
-            "posición": "defensa"
+            "posicion": "defensa"
         },
         {
             "nombre": "Marc Bartra",
@@ -979,7 +979,7 @@
             "nacionalidad": "Española",
             "equipo": "Real betis Balompie",
             "dorsal": "5",
-            "posición": "defensa"
+            "posicion": "defensa"
         },
         
         {
@@ -988,7 +988,7 @@
             "nacionalidad": "Brasileño",
             "equipo": "Real betis Balompie",
             "dorsal": "6",
-            "posición": "defensa"
+            "posicion": "defensa"
         },
         {
             "nombre": "Ricardo Rodriguez",
@@ -996,7 +996,7 @@
             "nacionalidad": "suizo",
             "equipo": "Real betis Balompie",
             "dorsal": "12",
-            "posición": "defensa"
+            "posicion": "defensa"
         },
         {
             "nombre": "Romain Perraud",
@@ -1004,7 +1004,7 @@
             "nacionalidad": "Francés",
             "equipo": "Real betis Balompie",
             "dorsal": "15",
-            "posición": "defensa"
+            "posicion": "defensa"
         },
         {
             "nombre": "Youssouf Sabaly",
@@ -1012,7 +1012,7 @@
             "nacionalidad": "Senegales",
             "equipo": "Real betis Balompie",
             "dorsal": "23",
-            "posición": "defensa"
+            "posicion": "defensa"
         },
         {
             "nombre": "Aitor Ruibal",
@@ -1020,7 +1020,7 @@
             "nacionalidad": "Español",
             "equipo": "Real betis Balompie",
             "dorsal": "24",
-            "posición": "defensa"
+            "posicion": "defensa"
         },
         {
             "nombre": "Nobel Mendy",
@@ -1028,7 +1028,7 @@
             "nacionalidad": "Senegales",
             "equipo": "Real betis Balompie",
             "dorsal": "32",
-            "posición": "defensa"
+            "posicion": "defensa"
         },
         {
             "nombre": "Johnny Cardoso",
@@ -1036,7 +1036,7 @@
             "nacionalidad": "Estado-Unidense",
             "equipo": "Real betis Balompie",
             "dorsal": "4",
-            "posición": "Centrocampista"
+            "posicion": "Centrocampista"
         },
         {
             "nombre": "William Carvalho",
@@ -1044,7 +1044,7 @@
             "nacionalidad": "Portugues",
             "equipo": "Real betis Balompie",
             "dorsal": "14",
-            "posición": "Centrocampista"
+            "posicion": "Centrocampista"
         },
         {
             "nombre": "Sergi Altamira",
@@ -1052,7 +1052,7 @@
             "nacionalidad": "Español",
             "equipo": "Real betis Balompie",
             "dorsal": "16",
-            "posición": "Centrocampista"
+            "posicion": "Centrocampista"
         },
         {
             "nombre": "Pablo Fornals",
@@ -1060,7 +1060,7 @@
             "nacionalidad": "Española",
             "equipo": "Real betis Balompie",
             "dorsal": "18",
-            "posición": "Centrocampista"
+            "posicion": "Centrocampista"
         },
         {
             "nombre": "Giovani Lo Celso",
@@ -1068,7 +1068,7 @@
             "nacionalidad": "Argentino",
             "equipo": "Real betis Balompie",
             "dorsal": "20",
-            "posición": "Centrocampista"
+            "posicion": "Centrocampista"
         },
         {
             "nombre": "Marc Roca",
@@ -1076,7 +1076,7 @@
             "nacionalidad": "Española",
             "equipo": "Real betis Balompie",
             "dorsal": "21",
-            "posición": "Centrocampista"
+            "posicion": "Centrocampista"
         },
         {
             "nombre": "Isco Alarcon",
@@ -1084,7 +1084,7 @@
             "nacionalidad": "Española",
             "equipo": "Real betis Balompie",
             "dorsal": "22",
-            "posición": "Centrocampista"
+            "posicion": "Centrocampista"
         },
         {
             "nombre": "Chimy Avila",
@@ -1092,7 +1092,7 @@
             "nacionalidad": "Argentino",
             "equipo": "Real betis Balompie",
             "dorsal": "9",
-            "posición": "Delantero"
+            "posicion": "Delantero"
         },
         {
             "nombre": "ez Abde",
@@ -1100,7 +1100,7 @@
             "nacionalidad": "Marroquí",
             "equipo": "Real betis Balompie",
             "dorsal": "10",
-            "posición": "Delantero"
+            "posicion": "Delantero"
         },
         {
             "nombre": "Cedric bakambu",
@@ -1108,7 +1108,7 @@
             "nacionalidad": "Congoles",
             "equipo": "Real betis Balompie",
             "dorsal": "11",
-            "posición": "Delantero"
+            "posicion": "Delantero"
         },
         {
             "nombre": "Cucho hernandez",
@@ -1116,7 +1116,7 @@
             "nacionalidad": "Colombiano",
             "equipo": "Real betis Balompie",
             "dorsal": "19",
-            "posición": "Delantero"
+            "posicion": "Delantero"
         },
         {
             "nombre": " Jesus Rodriguez Caraballo",
@@ -1124,14 +1124,14 @@
             "nacionalidad": "Española",
             "equipo": "Real betis Balompie",
             "dorsal": "36",
-            "posición": "Delantero"
+            "posicion": "Delantero"
         },
         {
             "nombre": "Manuel Pellegrini",
             "edad": "68",
             "nacionalidad": "Chileno",
             "equipo": "Real betis Balompie",
-            "posición": "Entrenador"
+            "posicion": "Entrenador"
 
         },
         {
@@ -1140,7 +1140,7 @@
             "nacionalidad": "Portugues",
             "equipo": "RCD Mallorca",
             "dorsal": "12",
-            "posición": "Centrocampista"
+            "posicion": "Centrocampista"
         },
         {
             "nombre": "Vedat Muriqi",
@@ -1148,7 +1148,7 @@
             "nacionalidad": "Kosovar",
             "equipo": "RCD Mallorca",
             "dorsal": "9",
-            "posición": "Delantero"
+            "posicion": "Delantero"
         },
         {
             "nombre": "Takuma Asano",
@@ -1156,7 +1156,7 @@
             "nacionalidad": "Japones",
             "equipo": "RCD Mallorca",
             "dorsal": "11",
-            "posición": "Delantero"
+            "posicion": "Delantero"
         },
         {
             "nombre": "Cyle Larin",
@@ -1164,7 +1164,7 @@
             "nacionalidad": "Canadiense",
             "equipo": "RCD Mallorca",
             "dorsal": "17",
-            "posición": "Delantero"
+            "posicion": "Delantero"
         },
         {
             "nombre": "Pablo Maffeo",
@@ -1172,7 +1172,7 @@
             "nacionalidad": "Española",
             "equipo": "RCD Mallorca",
             "dorsal": "2",
-            "posición": "Defensa"
+            "posicion": "Defensa"
         },
         {
             "nombre": "Johan Mojica",
@@ -1180,7 +1180,7 @@
             "nacionalidad": "Colombiano",
             "equipo": "RCD Mallorca",
             "dorsal": "3",
-            "posición": "Defensa"
+            "posicion": "Defensa"
         },
         {
             "nombre": "Manu Morlanes",
@@ -1188,7 +1188,7 @@
             "nacionalidad": "Español",
             "equipo": "RCD Mallorca",
             "dorsal": "8",
-            "posición": "Centrocampista"
+            "posicion": "Centrocampista"
         },
         {
             "nombre": "Antonio Raillo",
@@ -1196,7 +1196,7 @@
             "nacionalidad": "Español",
             "equipo": "RCD Mallorca",
             "dorsal": "21",
-            "posición": "Defensa"
+            "posicion": "Defensa"
         },
         {
             "nombre": "Dani Rodriguez",
@@ -1204,7 +1204,7 @@
             "nacionalidad": "Español",
             "equipo": "RCD Mallorca",
             "dorsal": "14",
-            "posición": "Centrocampista"
+            "posicion": "Centrocampista"
         },
         {
             "nombre": "Donimik Greif",
@@ -1212,7 +1212,7 @@
             "nacionalidad": "Esloveno",
             "equipo": "RCD Mallorca",
             "dorsal": "1",
-            "posición": "Portero"
+            "posicion": "Portero"
         },
         {
             "nombre": "Martin Valjent",
@@ -1220,7 +1220,7 @@
             "nacionalidad": "Esloveno",
             "equipo": "RCD Mallorca",
             "dorsal": "24",
-            "posición": "Defensa"
+            "posicion": "Defensa"
         },
         {
             "nombre": "Chiquinho",
@@ -1228,7 +1228,7 @@
             "nacionalidad": "Portugues",
             "equipo": "RCD Mallorca",
             "dorsal": "20",
-            "posición": "Delantero"
+            "posicion": "Delantero"
         },
         {
             "nombre": "Sergi Darder",
@@ -1236,7 +1236,7 @@
             "nacionalidad": "Español",
             "equipo": "RCD Mallorca",
             "dorsal": "10",
-            "posición": "Centrocampista"
+            "posicion": "Centrocampista"
         },
         {
             "nombre": "Abdon Prats Bastidas",
@@ -1244,7 +1244,7 @@
             "nacionalidad": "Español",
             "equipo": "RCD Mallorca",
             "dorsal": "9",
-            "posición": "Delantero"
+            "posicion": "Delantero"
         },
         {
             "nombre": "Mateu Morey",
@@ -1252,7 +1252,7 @@
             "nacionalidad": "Español",
             "equipo": "RCD Mallorca",
             "dorsal": "2",
-            "posición": "Defensa"
+            "posicion": "Defensa"
         },
         {
             "nombre": "Valery Fernández",
@@ -1260,7 +1260,7 @@
             "nacionalidad": "Español",
             "equipo": "RCD Mallorca",
             "dorsal": "2",
-            "posición": "Centrocampista"
+            "posicion": "Centrocampista"
         },
         {
             "nombre": "Ivan Cuellar",
@@ -1268,7 +1268,7 @@
             "nacionalidad": "Español",
             "equipo": "RCD Mallorca",
             "dorsal": "25",
-            "posición": "Portero"
+            "posicion": "Portero"
         },
         {
             "nombre": "Omar Mascarell",
@@ -1276,7 +1276,7 @@
             "nacionalidad": "Hispano-ecuatoguineano",
             "equipo": "RCD Mallorca",
             "dorsal": "5",
-            "posición": "Centrocampista"
+            "posicion": "Centrocampista"
         },
         {
             "nombre": "Jose Manuel Arias Copete",
@@ -1284,7 +1284,7 @@
             "nacionalidad": "Español",
             "equipo": "RCD Mallorca",
             "dorsal": "6",
-            "posición": "Defensa"
+            "posicion": "Defensa"
         },
         {
             "nombre": "Antonio Sanchez Navarro",
@@ -1292,7 +1292,7 @@
             "nacionalidad": "Español",
             "equipo": "RCD Mallorca",
             "dorsal": "18",
-            "posición": "Centrocampista"
+            "posicion": "Centrocampista"
         },
         {
             "nombre": "Ivan Villar Martinez",
@@ -1300,7 +1300,7 @@
             "nacionalidad": "Español",
             "equipo": "RC Celta",
             "dorsal": "1",
-            "posición": "Portero"
+            "posicion": "Portero"
         },
         {
             "nombre": "Vicente Guaita Panadero",
@@ -1308,7 +1308,7 @@
             "nacionalidad": "Español",
             "equipo": "RC Celta",
             "dorsal": "13",
-            "posición": "Portero"
+            "posicion": "Portero"
         },
         {
             "nombre": "Carl Anders Theodor Starfelt",
@@ -1316,7 +1316,7 @@
             "nacionalidad": "Sueco",
             "equipo": "RC Celta",
             "dorsal": "2",
-            "posición": "Defensa"
+            "posicion": "Defensa"
         },
         {
             "nombre": "Oscar Mingueza Garcia",
@@ -1324,7 +1324,7 @@
             "nacionalidad": "Español",
             "equipo": "RC Celta",
             "dorsal": "3",
-            "posición": "Defensa"
+            "posicion": "Defensa"
         },
         {
             "nombre": "Sergio Carreira Vilariño",
@@ -1332,7 +1332,7 @@
             "nacionalidad": "Español",
             "equipo": "RC Celta",
             "dorsal": "5",
-            "posición": "Defensa"
+            "posicion": "Defensa"
         },
         {
             "nombre": "Marcos Alonso",
@@ -1340,7 +1340,7 @@
             "nacionalidad": "Español",
             "equipo": "RC Celta",
             "dorsal": "20",
-            "posición": "Defensa"
+            "posicion": "Defensa"
         },
         {
             "nombre": "Carlos Dominguez Caceres",
@@ -1348,7 +1348,7 @@
             "nacionalidad": "Español",
             "equipo": "RC Celta",
             "dorsal": "24",
-            "posición": "Defensa"
+            "posicion": "Defensa"
         },
         {
             "nombre": "Javier Mantillo Gaitan",
@@ -1356,7 +1356,7 @@
             "nacionalidad": "Español",
             "equipo": "RC Celta",
             "dorsal": "22",
-            "posición": "Defensa"
+            "posicion": "Defensa"
         },
         {
             "nombre": "Mihailo Ristic",
@@ -1364,7 +1364,7 @@
             "nacionalidad": "Serbio",
             "equipo": "RC Celta",
             "dorsal": "21",
-            "posición": "Defensa"
+            "posicion": "Defensa"
         },
         {
             "nombre": "Hugo sotelo Gomez",
@@ -1372,7 +1372,7 @@
             "nacionalidad": "Español",
             "equipo": "RC Celta",
             "dorsal": "4",
-            "posición": "Centrocampista"
+            "posicion": "Centrocampista"
         },
         {
             "nombre": "Moriba Kourouma",
@@ -1380,7 +1380,7 @@
             "nacionalidad": "Español",
             "equipo": "RC Celta",
             "dorsal": "6",
-            "posición": "Centrocampista"
+            "posicion": "Centrocampista"
         },
         {
             "nombre": "Francisco Jose Beltran Peinado",
@@ -1388,7 +1388,7 @@
             "nacionalidad": "Español",
             "equipo": "RC Celta",
             "dorsal": "8",
-            "posición": "Centrocampista"
+            "posicion": "Centrocampista"
         },
         {
             "nombre": "Iker Losada Aragunde",
@@ -1396,7 +1396,7 @@
             "nacionalidad": "Español",
             "equipo": "RC Celta",
             "dorsal": "14",
-            "posición": "Centrocampista"
+            "posicion": "Centrocampista"
         },
         {
             "nombre": "Damian Rodriguez Sousa",
@@ -1404,7 +1404,7 @@
             "nacionalidad": "Español",
             "equipo": "RC Celta",
             "dorsal": "25",
-            "posición": "Centrocampista"
+            "posicion": "Centrocampista"
         },
         {
             "nombre": "Jailson Marques Siquiera",
@@ -1412,7 +1412,7 @@
             "nacionalidad": "Brasileño",
             "equipo": "RC Celta",
             "dorsal": "1",
-            "posición": "Centrocampista"
+            "posicion": "Centrocampista"
         },
         {
             "nombre": "Borja Iglesias Quintas",
@@ -1420,7 +1420,7 @@
             "nacionalidad": "Español",
             "equipo": "RC Celta",
             "dorsal": "7",
-            "posición": "Delantero"
+            "posicion": "Delantero"
         },
         {
             "nombre": "Iago Aspas Juncal",
@@ -1428,7 +1428,7 @@
             "nacionalidad": "Español",
             "equipo": "RC Celta",
             "dorsal": "10",
-            "posición": "Delantero"
+            "posicion": "Delantero"
         },
         {
             "nombre": "Franco Emanuel Cervi",
@@ -1436,7 +1436,7 @@
             "nacionalidad": "Español",
             "equipo": "RC Celta",
             "dorsal": "11",
-            "posición": "Delantero"
+            "posicion": "Delantero"
         },
         {
             "nombre": "Hugo Alvarez Antuner",
@@ -1444,7 +1444,7 @@
             "nacionalidad": "Español",
             "equipo": "RC Celta",
             "dorsal": "23",
-            "posición": "Delantero"
+            "posicion": "Delantero"
         },
         {
             "nombre": "Williot Theo Swedberg",
@@ -1452,7 +1452,7 @@
             "nacionalidad": "Sueco",
             "equipo": "RC Celta",
             "dorsal": "19",
-            "posición": "Delantero"
+            "posicion": "Delantero"
         },
         {
             "nombre": "Pablo Duran Fernandez",
@@ -1460,7 +1460,7 @@
             "nacionalidad": "Español",
             "equipo": "RC Celta",
             "dorsal": "18",
-            "posición": "Delantero"
+            "posicion": "Delantero"
         }
         
     
