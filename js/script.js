@@ -87,3 +87,27 @@ document.addEventListener("DOMContentLoaded", () => {
     // Eventos de búsqueda
     showAllButton.addEventListener("click", () => consultarUsuarios()); // Mostrar todos los usuarios
 });
+let intentos = 4;
+let equipoCorrecto = "Madrid"
+
+function Comprobar_equipoCorrecto(){
+   let Intento_equipo = document.getElementById("Intento_equipo")
+    if(Intento_equipo.toLowerCase() === equipoCorrecto.toLowerCase()){
+        div.classList.add("grid-item"); // Clase CSS para estilos
+        div.innerHTML = `<p><strong><u>Felicidades!! Has acertado el equipo</u></strong></p>`;
+        output.appendChild(div); // Agregamos el div al contenedor de salida
+    } else{
+        div.classList.add("grid-item"); // Clase CSS para estilos
+        div.innerHTML = `<p><strong><u>OOOOOHHH! Has fallado prueba otra vez te quedan${intentos}</u></strong></p>`;
+        output.appendChild(div); // Agregamos el div al contenedor de salida
+        intentos = intentos - 1
+    }
+}
+
+var inputForm = document.getElementById("Intento_equipo");
+
+inputForm.addEventListener("keyup", function(event) {
+    if (event.keyCode === 13) {
+        Comprobar_equipoCorrecto();
+      };
+});
