@@ -1,5 +1,5 @@
 [
-    
+
     {
         "nombre": "Thibaut Courtois",
         "edad": "32 años",
@@ -184,13 +184,14 @@
         "dorsal": "35",
         "posicion": "Defensa"
     },
-
-
-
-
-
-
-
+    
+    
+    
+    
+    
+    
+    
+    
     {
         "nombre": "Wojciech Szczęsny",
         "edad": "34 años",
@@ -381,8 +382,6 @@
 
 
 
-
-
     {
         "nombre": "Juan Musso",
         "edad": "30 años",
@@ -567,10 +566,6 @@
         "dorsal": "22",
         "posicion": "Delantero"
     },
-
-
-
-
     {
         "nombre": "Unai Simón",
         "edad": "27 años",
@@ -755,716 +750,1644 @@
         "dorsal": "12",
         "posicion": "Delantero"
     },
-
-
-    
-        {
-            "nombre": "Júnior R.",
-            "edad": "Desconocida",
-            "nacionalidad": "Desconocida",
-            "equipo": "Villarreal CF",
-            "dorsal": "1",
-            "posicion": "Portero"
-        },
-        {
-            "nombre": "Costa",
-            "edad": "Desconocida",
-            "nacionalidad": "Desconocida",
-            "equipo": "Villarreal CF",
-            "dorsal": "2",
-            "posicion": "Defensa"
-        },
-        {
-            "nombre": "Raúl Albiol",
-            "edad": "Desconocida",
-            "nacionalidad": "Española",
-            "equipo": "Villarreal CF",
-            "dorsal": "3",
-            "posicion": "Defensa"
-        },
-        {
-            "nombre": "Eric Bailly",
-            "edad": "Desconocida",
-            "nacionalidad": "Marfileña",
-            "equipo": "Villarreal CF",
-            "dorsal": "4",
-            "posicion": "Defensa"
-        },
-        {
-            "nombre": "Kambwala",
-            "edad": "Desconocida",
-            "nacionalidad": "Desconocida",
-            "equipo": "Villarreal CF",
-            "dorsal": "5",
-            "posicion": "Defensa"
-        },
-        {
-            "nombre": "Denis Suárez",
-            "edad": "Desconocida",
-            "nacionalidad": "Española",
-            "equipo": "Villarreal CF",
-            "dorsal": "6",
-            "posicion": "Centrocampista"
-        },
-        {
-            "nombre": "Gerard",
-            "edad": "Desconocida",
-            "nacionalidad": "Española",
-            "equipo": "Villarreal CF",
-            "dorsal": "7",
-            "posicion": "Delantero"
-        },
-        {
-            "nombre": "Foyth",
-            "edad": "Desconocida",
-            "nacionalidad": "Argentina",
-            "equipo": "Villarreal CF",
-            "dorsal": "8",
-            "posicion": "Defensa"
-        },
-        {
-            "nombre": "Buchanan",
-            "edad": "Desconocida",
-            "nacionalidad": "Desconocida",
-            "equipo": "Villarreal CF",
-            "dorsal": "9",
-            "posicion": "Delantero"
-        },
-        {
-            "nombre": "Parejo",
-            "edad": "Desconocida",
-            "nacionalidad": "Española",
-            "equipo": "Villarreal CF",
-            "dorsal": "10",
-            "posicion": "Centrocampista"
-        },
-        {
-            "nombre": "I. Akhomach",
-            "edad": "Desconocida",
-            "nacionalidad": "Desconocida",
-            "equipo": "Villarreal CF",
-            "dorsal": "11",
-            "posicion": "Delantero"
-        },
-        {
-            "nombre": "Diego Conde",
-            "edad": "Desconocida",
-            "nacionalidad": "Desconocida",
-            "equipo": "Villarreal CF",
-            "dorsal": "13",
-            "posicion": "Portero"
-        },
-        {
-            "nombre": "Santi C. V.",
-            "edad": "Desconocida",
-            "nacionalidad": "Desconocida",
-            "equipo": "Villarreal CF",
-            "dorsal": "14",
-            "posicion": "Centrocampista"
-        },
-        {
-            "nombre": "Thierno Barry",
-            "edad": "Desconocida",
-            "nacionalidad": "Desconocida",
-            "equipo": "Villarreal CF",
-            "dorsal": "15",
-            "posicion": "Delantero"
-        },
-        {
-            "nombre": "Álex B.",
-            "edad": "Desconocida",
-            "nacionalidad": "Española",
-            "equipo": "Villarreal CF",
-            "dorsal": "16",
-            "posicion": "Centrocampista"
-        },
-        {
-            "nombre": "Kiko F.",
-            "edad": "Desconocida",
-            "nacionalidad": "Española",
-            "equipo": "Villarreal CF",
-            "dorsal": "17",
-            "posicion": "Defensa"
-        },
-        {
-            "nombre": "Gueye",
-            "edad": "Desconocida",
-            "nacionalidad": "Desconocida",
-            "equipo": "Villarreal CF",
-            "dorsal": "18",
-            "posicion": "Centrocampista"
-        },
-        {
-            "nombre": "Pepe",
-            "edad": "Desconocida",
-            "nacionalidad": "Desconocida",
-            "equipo": "Villarreal CF",
-            "dorsal": "19",
-            "posicion": "Delantero"
-        },
-        {
-            "nombre": "Yeremy",
-            "edad": "Desconocida",
-            "nacionalidad": "Española",
-            "equipo": "Villarreal CF",
-            "dorsal": "21",
-            "posicion": "Delantero"
-        },
-        {
-            "nombre": "Ayoze",
-            "edad": "Desconocida",
-            "nacionalidad": "Española",
-            "equipo": "Villarreal CF",
-            "dorsal": "22",
-            "posicion": "Delantero"
-        },
-        {
-            "nombre": "S. Cardona",
-            "edad": "Desconocida",
-            "nacionalidad": "Desconocida",
-            "equipo": "Villarreal CF",
-            "dorsal": "23",
-            "posicion": "Defensa"
-        },
-        {
-            "nombre": "A. Pedraza",
-            "edad": "Desconocida",
-            "nacionalidad": "Española",
-            "equipo": "Villarreal CF",
-            "dorsal": "24",
-            "posicion": "Defensa"
-        },
-        {
-            "nombre": "Pau Navarro",
-            "edad": "Desconocida",
-            "nacionalidad": "Desconocida",
-            "equipo": "Villarreal CF",
-            "dorsal": "26",
-            "posicion": "Defensa"
-        },
-        {
-            "nombre": "Antony dos Santos",
-            "edad": "25",
-            "nacionalidad": "brasileña",
-            "equipo": "Real betis Balompie",
-            "dorsal": "7",
-            "posicion": "Delantero"
-        },
-        {
-            "nombre": "Adrián",
-            "edad": "38",
-            "nacionalidad": "Española",
-            "equipo": "Real betis Balompie",
-            "dorsal": "13",
-            "posicion": "Portero"
-        },{
-            "nombre": "Hector Bellerin",
-            "edad": "29",
-            "nacionalidad": "Española",
-            "equipo": "Real betis Balompie",
-            "dorsal": "2",
-            "posicion": "Defensa"
-        },
-        {
-            "nombre": "Diego Llorente",
-            "edad": "31",
-            "nacionalidad": "Española",
-            "equipo": "Real betis Balompie",
-            "dorsal": "3",
-            "posicion": "defensa"
-        },
-        {
-            "nombre": "Marc Bartra",
-            "edad": "34",
-            "nacionalidad": "Española",
-            "equipo": "Real betis Balompie",
-            "dorsal": "5",
-            "posicion": "defensa"
-        },
-        
-        {
-            "nombre": "Natan Bernardo",
-            "edad": "24",
-            "nacionalidad": "Brasileño",
-            "equipo": "Real betis Balompie",
-            "dorsal": "6",
-            "posicion": "defensa"
-        },
-        {
-            "nombre": "Ricardo Rodriguez",
-            "edad": "32",
-            "nacionalidad": "suizo",
-            "equipo": "Real betis Balompie",
-            "dorsal": "12",
-            "posicion": "defensa"
-        },
-        {
-            "nombre": "Romain Perraud",
-            "edad": "27",
-            "nacionalidad": "Francés",
-            "equipo": "Real betis Balompie",
-            "dorsal": "15",
-            "posicion": "defensa"
-        },
-        {
-            "nombre": "Youssouf Sabaly",
-            "edad": "32",
-            "nacionalidad": "Senegales",
-            "equipo": "Real betis Balompie",
-            "dorsal": "23",
-            "posicion": "defensa"
-        },
-        {
-            "nombre": "Aitor Ruibal",
-            "edad": "28",
-            "nacionalidad": "Español",
-            "equipo": "Real betis Balompie",
-            "dorsal": "24",
-            "posicion": "defensa"
-        },
-        {
-            "nombre": "Nobel Mendy",
-            "edad": "20",
-            "nacionalidad": "Senegales",
-            "equipo": "Real betis Balompie",
-            "dorsal": "32",
-            "posicion": "defensa"
-        },
-        {
-            "nombre": "Johnny Cardoso",
-            "edad": "23",
-            "nacionalidad": "Estado-Unidense",
-            "equipo": "Real betis Balompie",
-            "dorsal": "4",
-            "posicion": "Centrocampista"
-        },
-        {
-            "nombre": "William Carvalho",
-            "edad": "32",
-            "nacionalidad": "Portugues",
-            "equipo": "Real betis Balompie",
-            "dorsal": "14",
-            "posicion": "Centrocampista"
-        },
-        {
-            "nombre": "Sergi Altamira",
-            "edad": "23",
-            "nacionalidad": "Español",
-            "equipo": "Real betis Balompie",
-            "dorsal": "16",
-            "posicion": "Centrocampista"
-        },
-        {
-            "nombre": "Pablo Fornals",
-            "edad": "29",
-            "nacionalidad": "Española",
-            "equipo": "Real betis Balompie",
-            "dorsal": "18",
-            "posicion": "Centrocampista"
-        },
-        {
-            "nombre": "Giovani Lo Celso",
-            "edad": "28",
-            "nacionalidad": "Argentino",
-            "equipo": "Real betis Balompie",
-            "dorsal": "20",
-            "posicion": "Centrocampista"
-        },
-        {
-            "nombre": "Marc Roca",
-            "edad": "28",
-            "nacionalidad": "Española",
-            "equipo": "Real betis Balompie",
-            "dorsal": "21",
-            "posicion": "Centrocampista"
-        },
-        {
-            "nombre": "Isco Alarcon",
-            "edad": "32",
-            "nacionalidad": "Española",
-            "equipo": "Real betis Balompie",
-            "dorsal": "22",
-            "posicion": "Centrocampista"
-        },
-        {
-            "nombre": "Chimy Avila",
-            "edad": "28",
-            "nacionalidad": "Argentino",
-            "equipo": "Real betis Balompie",
-            "dorsal": "9",
-            "posicion": "Delantero"
-        },
-        {
-            "nombre": "ez Abde",
-            "edad": "23",
-            "nacionalidad": "Marroquí",
-            "equipo": "Real betis Balompie",
-            "dorsal": "10",
-            "posicion": "Delantero"
-        },
-        {
-            "nombre": "Cedric bakambu",
-            "edad": "33",
-            "nacionalidad": "Congoles",
-            "equipo": "Real betis Balompie",
-            "dorsal": "11",
-            "posicion": "Delantero"
-        },
-        {
-            "nombre": "Cucho hernandez",
-            "edad": "29",
-            "nacionalidad": "Colombiano",
-            "equipo": "Real betis Balompie",
-            "dorsal": "19",
-            "posicion": "Delantero"
-        },
-        {
-            "nombre": " Jesus Rodriguez Caraballo",
-            "edad": "22",
-            "nacionalidad": "Española",
-            "equipo": "Real betis Balompie",
-            "dorsal": "36",
-            "posicion": "Delantero"
-        },
-        {
-            "nombre": "Manuel Pellegrini",
-            "edad": "68",
-            "nacionalidad": "Chileno",
-            "equipo": "Real betis Balompie",
-            "posicion": "Entrenador"
-
-        },
-        {
-            "nombre": "Samuel Costa",
-            "edad": "25",
-            "nacionalidad": "Portugues",
-            "equipo": "RCD Mallorca",
-            "dorsal": "12",
-            "posicion": "Centrocampista"
-        },
-        {
-            "nombre": "Vedat Muriqi",
-            "edad": "30",
-            "nacionalidad": "Kosovar",
-            "equipo": "RCD Mallorca",
-            "dorsal": "9",
-            "posicion": "Delantero"
-        },
-        {
-            "nombre": "Takuma Asano",
-            "edad": "30",
-            "nacionalidad": "Japones",
-            "equipo": "RCD Mallorca",
-            "dorsal": "11",
-            "posicion": "Delantero"
-        },
-        {
-            "nombre": "Cyle Larin",
-            "edad": "29",
-            "nacionalidad": "Canadiense",
-            "equipo": "RCD Mallorca",
-            "dorsal": "17",
-            "posicion": "Delantero"
-        },
-        {
-            "nombre": "Pablo Maffeo",
-            "edad": "27",
-            "nacionalidad": "Española",
-            "equipo": "RCD Mallorca",
-            "dorsal": "2",
-            "posicion": "Defensa"
-        },
-        {
-            "nombre": "Johan Mojica",
-            "edad": "32",
-            "nacionalidad": "Colombiano",
-            "equipo": "RCD Mallorca",
-            "dorsal": "3",
-            "posicion": "Defensa"
-        },
-        {
-            "nombre": "Manu Morlanes",
-            "edad": "26",
-            "nacionalidad": "Español",
-            "equipo": "RCD Mallorca",
-            "dorsal": "8",
-            "posicion": "Centrocampista"
-        },
-        {
-            "nombre": "Antonio Raillo",
-            "edad": "33",
-            "nacionalidad": "Español",
-            "equipo": "RCD Mallorca",
-            "dorsal": "21",
-            "posicion": "Defensa"
-        },
-        {
-            "nombre": "Dani Rodriguez",
-            "edad": "36",
-            "nacionalidad": "Español",
-            "equipo": "RCD Mallorca",
-            "dorsal": "14",
-            "posicion": "Centrocampista"
-        },
-        {
-            "nombre": "Donimik Greif",
-            "edad": "27",
-            "nacionalidad": "Esloveno",
-            "equipo": "RCD Mallorca",
-            "dorsal": "1",
-            "posicion": "Portero"
-        },
-        {
-            "nombre": "Martin Valjent",
-            "edad": "29",
-            "nacionalidad": "Esloveno",
-            "equipo": "RCD Mallorca",
-            "dorsal": "24",
-            "posicion": "Defensa"
-        },
-        {
-            "nombre": "Chiquinho",
-            "edad": "25",
-            "nacionalidad": "Portugues",
-            "equipo": "RCD Mallorca",
-            "dorsal": "20",
-            "posicion": "Delantero"
-        },
-        {
-            "nombre": "Sergi Darder",
-            "edad": "31",
-            "nacionalidad": "Español",
-            "equipo": "RCD Mallorca",
-            "dorsal": "10",
-            "posicion": "Centrocampista"
-        },
-        {
-            "nombre": "Abdon Prats Bastidas",
-            "edad": "32",
-            "nacionalidad": "Español",
-            "equipo": "RCD Mallorca",
-            "dorsal": "9",
-            "posicion": "Delantero"
-        },
-        {
-            "nombre": "Mateu Morey",
-            "edad": "25",
-            "nacionalidad": "Español",
-            "equipo": "RCD Mallorca",
-            "dorsal": "2",
-            "posicion": "Defensa"
-        },
-        {
-            "nombre": "Valery Fernández",
-            "edad": "25",
-            "nacionalidad": "Español",
-            "equipo": "RCD Mallorca",
-            "dorsal": "2",
-            "posicion": "Centrocampista"
-        },
-        {
-            "nombre": "Ivan Cuellar",
-            "edad": "40",
-            "nacionalidad": "Español",
-            "equipo": "RCD Mallorca",
-            "dorsal": "25",
-            "posicion": "Portero"
-        },
-        {
-            "nombre": "Omar Mascarell",
-            "edad": "32",
-            "nacionalidad": "Hispano-ecuatoguineano",
-            "equipo": "RCD Mallorca",
-            "dorsal": "5",
-            "posicion": "Centrocampista"
-        },
-        {
-            "nombre": "Jose Manuel Arias Copete",
-            "edad": "25",
-            "nacionalidad": "Español",
-            "equipo": "RCD Mallorca",
-            "dorsal": "6",
-            "posicion": "Defensa"
-        },
-        {
-            "nombre": "Antonio Sanchez Navarro",
-            "edad": "27",
-            "nacionalidad": "Español",
-            "equipo": "RCD Mallorca",
-            "dorsal": "18",
-            "posicion": "Centrocampista"
-        },
-        {
-            "nombre": "Ivan Villar Martinez",
-            "edad": "27",
-            "nacionalidad": "Español",
-            "equipo": "RC Celta",
-            "dorsal": "1",
-            "posicion": "Portero"
-        },
-        {
-            "nombre": "Vicente Guaita Panadero",
-            "edad": "38",
-            "nacionalidad": "Español",
-            "equipo": "RC Celta",
-            "dorsal": "13",
-            "posicion": "Portero"
-        },
-        {
-            "nombre": "Carl Anders Theodor Starfelt",
-            "edad": "29",
-            "nacionalidad": "Sueco",
-            "equipo": "RC Celta",
-            "dorsal": "2",
-            "posicion": "Defensa"
-        },
-        {
-            "nombre": "Oscar Mingueza Garcia",
-            "edad": "25",
-            "nacionalidad": "Español",
-            "equipo": "RC Celta",
-            "dorsal": "3",
-            "posicion": "Defensa"
-        },
-        {
-            "nombre": "Sergio Carreira Vilariño",
-            "edad": "24",
-            "nacionalidad": "Español",
-            "equipo": "RC Celta",
-            "dorsal": "5",
-            "posicion": "Defensa"
-        },
-        {
-            "nombre": "Marcos Alonso",
-            "edad": "34",
-            "nacionalidad": "Español",
-            "equipo": "RC Celta",
-            "dorsal": "20",
-            "posicion": "Defensa"
-        },
-        {
-            "nombre": "Carlos Dominguez Caceres",
-            "edad": "24",
-            "nacionalidad": "Español",
-            "equipo": "RC Celta",
-            "dorsal": "24",
-            "posicion": "Defensa"
-        },
-        {
-            "nombre": "Javier Mantillo Gaitan",
-            "edad": "30",
-            "nacionalidad": "Español",
-            "equipo": "RC Celta",
-            "dorsal": "22",
-            "posicion": "Defensa"
-        },
-        {
-            "nombre": "Mihailo Ristic",
-            "edad": "29",
-            "nacionalidad": "Serbio",
-            "equipo": "RC Celta",
-            "dorsal": "21",
-            "posicion": "Defensa"
-        },
-        {
-            "nombre": "Hugo sotelo Gomez",
-            "edad": "21",
-            "nacionalidad": "Español",
-            "equipo": "RC Celta",
-            "dorsal": "4",
-            "posicion": "Centrocampista"
-        },
-        {
-            "nombre": "Moriba Kourouma",
-            "edad": "22",
-            "nacionalidad": "Español",
-            "equipo": "RC Celta",
-            "dorsal": "6",
-            "posicion": "Centrocampista"
-        },
-        {
-            "nombre": "Francisco Jose Beltran Peinado",
-            "edad": "26",
-            "nacionalidad": "Español",
-            "equipo": "RC Celta",
-            "dorsal": "8",
-            "posicion": "Centrocampista"
-        },
-        {
-            "nombre": "Iker Losada Aragunde",
-            "edad": "23",
-            "nacionalidad": "Español",
-            "equipo": "RC Celta",
-            "dorsal": "14",
-            "posicion": "Centrocampista"
-        },
-        {
-            "nombre": "Damian Rodriguez Sousa",
-            "edad": "22",
-            "nacionalidad": "Español",
-            "equipo": "RC Celta",
-            "dorsal": "25",
-            "posicion": "Centrocampista"
-        },
-        {
-            "nombre": "Jailson Marques Siquiera",
-            "edad": "29",
-            "nacionalidad": "Brasileño",
-            "equipo": "RC Celta",
-            "dorsal": "1",
-            "posicion": "Centrocampista"
-        },
-        {
-            "nombre": "Borja Iglesias Quintas",
-            "edad": "32",
-            "nacionalidad": "Español",
-            "equipo": "RC Celta",
-            "dorsal": "7",
-            "posicion": "Delantero"
-        },
-        {
-            "nombre": "Iago Aspas Juncal",
-            "edad": "37",
-            "nacionalidad": "Español",
-            "equipo": "RC Celta",
-            "dorsal": "10",
-            "posicion": "Delantero"
-        },
-        {
-            "nombre": "Franco Emanuel Cervi",
-            "edad": "30",
-            "nacionalidad": "Español",
-            "equipo": "RC Celta",
-            "dorsal": "11",
-            "posicion": "Delantero"
-        },
-        {
-            "nombre": "Hugo Alvarez Antuner",
-            "edad": "21",
-            "nacionalidad": "Español",
-            "equipo": "RC Celta",
-            "dorsal": "23",
-            "posicion": "Delantero"
-        },
-        {
-            "nombre": "Williot Theo Swedberg",
-            "edad": "21",
-            "nacionalidad": "Sueco",
-            "equipo": "RC Celta",
-            "dorsal": "19",
-            "posicion": "Delantero"
-        },
-        {
-            "nombre": "Pablo Duran Fernandez",
-            "edad": "23",
-            "nacionalidad": "Español",
-            "equipo": "RC Celta",
-            "dorsal": "18",
-            "posicion": "Delantero"
-        }
-        
-    
-    
-    
-
+    {
+        "nombre": "Luiz Lúcio Reis Júnior",
+        "edad": "24 años",
+        "nacionalidad": "Brasileña",
+        "equipo": "Villarreal CF",
+        "dorsal": "1",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Costa",
+        "edad": "23 años",
+        "nacionalidad": "Caboverdiana",
+        "equipo": "Villarreal CF",
+        "dorsal": "2",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Raúl Albiol",
+        "edad": "39 años",
+        "nacionalidad": "Española",
+        "equipo": "Villarreal CF",
+        "dorsal": "3",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Eric Bailly",
+        "edad": "30 años",
+        "nacionalidad": "Marfileña",
+        "equipo": "Villarreal CF",
+        "dorsal": "4",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Willy Kambwala",
+        "edad": "20 años",
+        "nacionalidad": "Francesa",
+        "equipo": "Villarreal CF",
+        "dorsal": "5",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Denis Suárez",
+        "edad": "31 años",
+        "nacionalidad": "Española",
+        "equipo": "Villarreal CF",
+        "dorsal": "6",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Gerard Moreno",
+        "edad": "32 años",
+        "nacionalidad": "Española",
+        "equipo": "Villarreal CF",
+        "dorsal": "7",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Juan Foyth",
+        "edad": "27 años",
+        "nacionalidad": "Argentina",
+        "equipo": "Villarreal CF",
+        "dorsal": "8",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Tajon Trevor Buchanan",
+        "edad": "26 años",
+        "nacionalidad": "Canadiense",
+        "equipo": "Villarreal CF",
+        "dorsal": "9",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Dani Parejo",
+        "edad": "35 años",
+        "nacionalidad": "Española",
+        "equipo": "Villarreal CF",
+        "dorsal": "10",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Ilias Akhomach",
+        "edad": "20 años",
+        "nacionalidad": "Marroquí",
+        "equipo": "Villarreal CF",
+        "dorsal": "11",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Diego Conde",
+        "edad": "26 años",
+        "nacionalidad": "Española",
+        "equipo": "Villarreal CF",
+        "dorsal": "13",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Santi Comesaña Veiga",
+        "edad": "28 años",
+        "nacionalidad": "Española",
+        "equipo": "Villarreal CF",
+        "dorsal": "14",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Thierno Barry",
+        "edad": "22 años",
+        "nacionalidad": "Francesa",
+        "equipo": "Villarreal CF",
+        "dorsal": "15",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Álex Baena",
+        "edad": "23 años",
+        "nacionalidad": "Española",
+        "equipo": "Villarreal CF",
+        "dorsal": "16",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Kiko Femenía",
+        "edad": "34 años",
+        "nacionalidad": "Española",
+        "equipo": "Villarreal CF",
+        "dorsal": "17",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Pepe Gueye",
+        "edad": "26 años",
+        "nacionalidad": "Senegalesa",
+        "equipo": "Villarreal CF",
+        "dorsal": "18",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Nicolas Pepe",
+        "edad": "29 años",
+        "nacionalidad": "Costamarfileña",
+        "equipo": "Villarreal CF",
+        "dorsal": "19",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Yeremy Pino",
+        "edad": "22 años",
+        "nacionalidad": "Española",
+        "equipo": "Villarreal CF",
+        "dorsal": "21",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Ayoze Pérez",
+        "edad": "31 años",
+        "nacionalidad": "Española",
+        "equipo": "Villarreal CF",
+        "dorsal": "22",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Sergi Cardona",
+        "edad": "25 años",
+        "nacionalidad": "Española",
+        "equipo": "Villarreal CF",
+        "dorsal": "23",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Alfonso Pedraza",
+        "edad": "28 años",
+        "nacionalidad": "Española",
+        "equipo": "Villarreal CF",
+        "dorsal": "24",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Pau Navarro",
+        "edad": "19 años",
+        "nacionalidad": "Española",
+        "equipo": "Villarreal CF",
+        "dorsal": "26",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Antony dos Santos",
+        "edad": "25 años",
+        "nacionalidad": "Brasileña",
+        "equipo": "Real betis Balompie",
+        "dorsal": "7",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Adrián",
+        "edad": "38 años",
+        "nacionalidad": "Española",
+        "equipo": "Real betis Balompie",
+        "dorsal": "13",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Hector Bellerin",
+        "edad": "29 años",
+        "nacionalidad": "Española",
+        "equipo": "Real betis Balompie",
+        "dorsal": "2",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Diego Llorente",
+        "edad": "31 años",
+        "nacionalidad": "Española",
+        "equipo": "Real betis Balompie",
+        "dorsal": "3",
+        "posicion": "defensa"
+    },
+    {
+        "nombre": "Marc Bartra",
+        "edad": "34 años",
+        "nacionalidad": "Española",
+        "equipo": "Real betis Balompie",
+        "dorsal": "5",
+        "posicion": "defensa"
+    },
+    {
+        "nombre": "Natan Bernardo",
+        "edad": "24 años",
+        "nacionalidad": "Brasileña",
+        "equipo": "Real betis Balompie",
+        "dorsal": "6",
+        "posicion": "defensa"
+    },
+    {
+        "nombre": "Ricardo Rodriguez",
+        "edad": "32 años",
+        "nacionalidad": "Suiza",
+        "equipo": "Real betis Balompie",
+        "dorsal": "12",
+        "posicion": "defensa"
+    },
+    {
+        "nombre": "Romain Perraud",
+        "edad": "27 años",
+        "nacionalidad": "Francesa",
+        "equipo": "Real betis Balompie",
+        "dorsal": "15",
+        "posicion": "defensa"
+    },
+    {
+        "nombre": "Youssouf Sabaly",
+        "edad": "32 años",
+        "nacionalidad": "Senegalesa",
+        "equipo": "Real betis Balompie",
+        "dorsal": "23",
+        "posicion": "defensa"
+    },
+    {
+        "nombre": "Aitor Ruibal",
+        "edad": "28 años",
+        "nacionalidad": "Española",
+        "equipo": "Real betis Balompie",
+        "dorsal": "24",
+        "posicion": "defensa"
+    },
+    {
+        "nombre": "Nobel Mendy",
+        "edad": "20 años",
+        "nacionalidad": "Senegalesa",
+        "equipo": "Real betis Balompie",
+        "dorsal": "32",
+        "posicion": "defensa"
+    },
+    {
+        "nombre": "Johnny Cardoso",
+        "edad": "23 años",
+        "nacionalidad": "Estado-Unidense",
+        "equipo": "Real betis Balompie",
+        "dorsal": "4",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "William Carvalho",
+        "edad": "32 años",
+        "nacionalidad": "Portuguesa",
+        "equipo": "Real betis Balompie",
+        "dorsal": "14",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Sergi Altamira",
+        "edad": "23 años",
+        "nacionalidad": "Española",
+        "equipo": "Real betis Balompie",
+        "dorsal": "16",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Pablo Fornals",
+        "edad": "29 años",
+        "nacionalidad": "Española",
+        "equipo": "Real betis Balompie",
+        "dorsal": "18",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Giovani Lo Celso",
+        "edad": "28 años",
+        "nacionalidad": "Argentina",
+        "equipo": "Real betis Balompie",
+        "dorsal": "20",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Marc Roca",
+        "edad": "28 años",
+        "nacionalidad": "Española",
+        "equipo": "Real betis Balompie",
+        "dorsal": "21",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Isco Alarcon",
+        "edad": "32 años",
+        "nacionalidad": "Española",
+        "equipo": "Real betis Balompie",
+        "dorsal": "22",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Chimy Avila",
+        "edad": "28 años",
+        "nacionalidad": "Argentina",
+        "equipo": "Real betis Balompie",
+        "dorsal": "9",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Ez Abde",
+        "edad": "23 años",
+        "nacionalidad": "Marroquí",
+        "equipo": "Real betis Balompie",
+        "dorsal": "10",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Cedric bakambu",
+        "edad": "33 años",
+        "nacionalidad": "Congoleña",
+        "equipo": "Real betis Balompie",
+        "dorsal": "11",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Cucho hernandez",
+        "edad": "29 años",
+        "nacionalidad": "Colombiana",
+        "equipo": "Real betis Balompie",
+        "dorsal": "19",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": " Jesus Rodriguez Caraballo",
+        "edad": "22 años",
+        "nacionalidad": "Española",
+        "equipo": "Real betis Balompie",
+        "dorsal": "36",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Samuel Costa",
+        "edad": "25 años",
+        "nacionalidad": "Portuguesa",
+        "equipo": "RCD Mallorca",
+        "dorsal": "12",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Vedat Muriqi",
+        "edad": "30 años",
+        "nacionalidad": "Kosovar",
+        "equipo": "RCD Mallorca",
+        "dorsal": "9",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Takuma Asano",
+        "edad": "30 años",
+        "nacionalidad": "Japonesa",
+        "equipo": "RCD Mallorca",
+        "dorsal": "11",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Cyle Larin",
+        "edad": "29 años",
+        "nacionalidad": "Canadiense",
+        "equipo": "RCD Mallorca",
+        "dorsal": "17",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Pablo Maffeo",
+        "edad": "27 años",
+        "nacionalidad": "Española",
+        "equipo": "RCD Mallorca",
+        "dorsal": "2",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Johan Mojica",
+        "edad": "32 años",
+        "nacionalidad": "Colombiana",
+        "equipo": "RCD Mallorca",
+        "dorsal": "3",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Manu Morlanes",
+        "edad": "26 años",
+        "nacionalidad": "Española",
+        "equipo": "RCD Mallorca",
+        "dorsal": "8",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Antonio Raillo",
+        "edad": "33 años",
+        "nacionalidad": "Española",
+        "equipo": "RCD Mallorca",
+        "dorsal": "21",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Dani Rodriguez",
+        "edad": "36 años",
+        "nacionalidad": "Española",
+        "equipo": "RCD Mallorca",
+        "dorsal": "14",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Donimik Greif",
+        "edad": "27 años",
+        "nacionalidad": "Eslovena",
+        "equipo": "RCD Mallorca",
+        "dorsal": "1",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Martin Valjent",
+        "edad": "29 años",
+        "nacionalidad": "Eslovena",
+        "equipo": "RCD Mallorca",
+        "dorsal": "24",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Chiquinho",
+        "edad": "25 años",
+        "nacionalidad": "Portuguesa",
+        "equipo": "RCD Mallorca",
+        "dorsal": "20",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Sergi Darder",
+        "edad": "31 años",
+        "nacionalidad": "Española",
+        "equipo": "RCD Mallorca",
+        "dorsal": "10",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Abdon Prats Bastidas",
+        "edad": "32 años",
+        "nacionalidad": "Española",
+        "equipo": "RCD Mallorca",
+        "dorsal": "9",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Mateu Morey",
+        "edad": "25 años",
+        "nacionalidad": "Española",
+        "equipo": "RCD Mallorca",
+        "dorsal": "2",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Valery Fernández",
+        "edad": "25 años",
+        "nacionalidad": "Española",
+        "equipo": "RCD Mallorca",
+        "dorsal": "2",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Ivan Cuellar",
+        "edad": "40 años",
+        "nacionalidad": "Española",
+        "equipo": "RCD Mallorca",
+        "dorsal": "25",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Omar Mascarell",
+        "edad": "32 años",
+        "nacionalidad": "Española",
+        "equipo": "RCD Mallorca",
+        "dorsal": "5",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Jose Manuel Arias Copete",
+        "edad": "25 años",
+        "nacionalidad": "Española",
+        "equipo": "RCD Mallorca",
+        "dorsal": "6",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Antonio Sanchez Navarro",
+        "edad": "27 años",
+        "nacionalidad": "Española",
+        "equipo": "RCD Mallorca",
+        "dorsal": "18",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Ivan Villar Martinez",
+        "edad": "27 años",
+        "nacionalidad": "Española",
+        "equipo": "RC Celta",
+        "dorsal": "1",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Vicente Guaita Panadero",
+        "edad": "38 años",
+        "nacionalidad": "Española",
+        "equipo": "RC Celta",
+        "dorsal": "13",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Carl Anders Theodor Starfelt",
+        "edad": "29 años",
+        "nacionalidad": "Sueca",
+        "equipo": "RC Celta",
+        "dorsal": "2",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Oscar Mingueza Garcia",
+        "edad": "25 años",
+        "nacionalidad": "Española",
+        "equipo": "RC Celta",
+        "dorsal": "3",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Sergio Carreira Vilariño",
+        "edad": "24 años",
+        "nacionalidad": "Española",
+        "equipo": "RC Celta",
+        "dorsal": "5",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Marcos Alonso",
+        "edad": "34 años",
+        "nacionalidad": "Española",
+        "equipo": "RC Celta",
+        "dorsal": "20",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Carlos Dominguez Caceres",
+        "edad": "24 años",
+        "nacionalidad": "Española",
+        "equipo": "RC Celta",
+        "dorsal": "24",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Javier Mantillo Gaitan",
+        "edad": "30 años",
+        "nacionalidad": "Española",
+        "equipo": "RC Celta",
+        "dorsal": "22",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Mihailo Ristic",
+        "edad": "29 años",
+        "nacionalidad": "Serbia",
+        "equipo": "RC Celta",
+        "dorsal": "21",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Hugo sotelo Gomez",
+        "edad": "21 años",
+        "nacionalidad": "Española",
+        "equipo": "RC Celta",
+        "dorsal": "4",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Moriba Kourouma",
+        "edad": "22 años",
+        "nacionalidad": "Española",
+        "equipo": "RC Celta",
+        "dorsal": "6",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Francisco Jose Beltran Peinado",
+        "edad": "26 años",
+        "nacionalidad": "Española",
+        "equipo": "RC Celta",
+        "dorsal": "8",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Iker Losada Aragunde",
+        "edad": "23 años",
+        "nacionalidad": "Española",
+        "equipo": "RC Celta",
+        "dorsal": "14",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Damian Rodriguez Sousa",
+        "edad": "22 años",
+        "nacionalidad": "Española",
+        "equipo": "RC Celta",
+        "dorsal": "25",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Jailson Marques Siquiera",
+        "edad": "29 años",
+        "nacionalidad": "Brasileña",
+        "equipo": "RC Celta",
+        "dorsal": "1",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Borja Iglesias Quintas",
+        "edad": "32 años",
+        "nacionalidad": "Española",
+        "equipo": "RC Celta",
+        "dorsal": "7",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Iago Aspas Juncal",
+        "edad": "37 años",
+        "nacionalidad": "Española",
+        "equipo": "RC Celta",
+        "dorsal": "10",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Franco Emanuel Cervi",
+        "edad": "30 años",
+        "nacionalidad": "Española",
+        "equipo": "RC Celta",
+        "dorsal": "11",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Hugo Alvarez Antuner",
+        "edad": "21 años",
+        "nacionalidad": "Española",
+        "equipo": "RC Celta",
+        "dorsal": "23",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Williot Theo Swedberg",
+        "edad": "21 años",
+        "nacionalidad": "Sueca",
+        "equipo": "RC Celta",
+        "dorsal": "19",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Pablo Duran Fernandez",
+        "edad": "23 años",
+        "nacionalidad": "Española",
+        "equipo": "RC Celta",
+        "dorsal": "18",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Dani Cárdenas",
+        "edad": "27 años",
+        "nacionalidad": "Española",
+        "equipo": "Rayo Vallecano",
+        "dorsal": "1",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Augusto Batalla",
+        "edad": "28 años",
+        "nacionalidad": "Argentina",
+        "equipo": "Rayo Vallecano",
+        "dorsal": "13",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Andrei Ratiu",
+        "edad": "26 años",
+        "nacionalidad": "Rumana",
+        "equipo": "Rayo Vallecano",
+        "dorsal": "2",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Pep Chavarría",
+        "edad": "26 años",
+        "nacionalidad": "Española",
+        "equipo": "Rayo Vallecano",
+        "dorsal": "3",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Aridane Hernández",
+        "edad": "35 años",
+        "nacionalidad": "Española",
+        "equipo": "Rayo Vallecano",
+        "dorsal": "5",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Abdul Mumin",
+        "edad": "26 años",
+        "nacionalidad": "Ghanesa",
+        "equipo": "Rayo Vallecano",
+        "dorsal": "16",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Iván Balliu",
+        "edad": "33 años",
+        "nacionalidad": "Albanesa",
+        "equipo": "Rayo Vallecano",
+        "dorsal": "20",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Pacha",
+        "edad": "33 años",
+        "nacionalidad": "Uruguaya",
+        "equipo": "Rayo Vallecano",
+        "dorsal": "22",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Florian Lejeune",
+        "edad": "33 años",
+        "nacionalidad": "Francesa",
+        "equipo": "Rayo Vallecano",
+        "dorsal": "24",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Pelayo Fernández",
+        "edad": "21 años",
+        "nacionalidad": "Española",
+        "equipo": "Rayo Vallecano",
+        "dorsal": "27",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Pedro Díaz",
+        "edad": "26 años",
+        "nacionalidad": "Española",
+        "equipo": "Rayo Vallecano",
+        "dorsal": "4",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Pathé Ciss",
+        "edad": "31 años",
+        "nacionalidad": "Senegalesa",
+        "equipo": "Rayo Vallecano",
+        "dorsal": "6",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Isi Palazón",
+        "edad": "30 años",
+        "nacionalidad": "Española",
+        "equipo": "Rayo Vallecano",
+        "dorsal": "7",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Oscar Trejo",
+        "edad": "36 años",
+        "nacionalidad": "Argentina",
+        "equipo": "Rayo Vallecano",
+        "dorsal": "8",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Gerard Gumbau",
+        "edad": "30 años",
+        "nacionalidad": "Española",
+        "equipo": "Rayo Vallecano",
+        "dorsal": "15",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Unai López",
+        "edad": "29 años",
+        "nacionalidad": "Española",
+        "equipo": "Rayo Vallecano",
+        "dorsal": "17",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Álvaro García",
+        "edad": "32 años",
+        "nacionalidad": "Española",
+        "equipo": "Rayo Vallecano",
+        "dorsal": "18",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Óscar Valentín",
+        "edad": "30 años",
+        "nacionalidad": "Española",
+        "equipo": "Rayo Vallecano",
+        "dorsal": "23",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Joni Montiel",
+        "edad": "26 años",
+        "nacionalidad": "Española",
+        "equipo": "Rayo Vallecano",
+        "dorsal": "25",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Raúl de Tomás",
+        "edad": "30 años",
+        "nacionalidad": "Española",
+        "equipo": "Rayo Vallecano",
+        "dorsal": "9",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Randy Nteka",
+        "edad": "27 años",
+        "nacionalidad": "Francesa",
+        "equipo": "Rayo Vallecano",
+        "dorsal": "11",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Sergi Guardiola",
+        "edad": "33 años",
+        "nacionalidad": "Española",
+        "equipo": "Rayo Vallecano",
+        "dorsal": "12",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Sergio Camello",
+        "edad": "24 años",
+        "nacionalidad": "Española",
+        "equipo": "Rayo Vallecano",
+        "dorsal": "14",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Jorge de Frutos",
+        "edad": "28 años",
+        "nacionalidad": "Española",
+        "equipo": "Rayo Vallecano",
+        "dorsal": "19",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Adrian Embarba",
+        "edad": "32 años",
+        "nacionalidad": "Española",
+        "equipo": "Rayo Vallecano",
+        "dorsal": "21",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Ørjan Nyland",
+        "edad": "34 años",
+        "nacionalidad": "Noruega",
+        "equipo": "Sevilla FC",
+        "dorsal": "13",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Álvaro Ferllo",
+        "edad": "26 años",
+        "nacionalidad": "Española",
+        "equipo": "Sevilla FC",
+        "dorsal": "1",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Juanlu Sánchez",
+        "edad": "21 años",
+        "nacionalidad": "Española",
+        "equipo": "Sevilla FC",
+        "dorsal": "26",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Loïc Badé",
+        "edad": "24 años",
+        "nacionalidad": "Francesa",
+        "equipo": "Sevilla FC",
+        "dorsal": "22",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Kike Salas",
+        "edad": "22 años",
+        "nacionalidad": "Española",
+        "equipo": "Sevilla FC",
+        "dorsal": "4",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Jose Ángel Carmona",
+        "edad": "23 años",
+        "nacionalidad": "Española",
+        "equipo": "Sevilla FC",
+        "dorsal": "2",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Marcao",
+        "edad": "28 años",
+        "nacionalidad": "Brasileña",
+        "equipo": "Sevilla FC",
+        "dorsal": "23",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Tanguy Nianzou",
+        "edad": "22 años",
+        "nacionalidad": "Francesa",
+        "equipo": "Sevilla FC",
+        "dorsal": "24",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Andrià Pedrosa",
+        "edad": "26 años",
+        "nacionalidad": "Española",
+        "equipo": "Sevilla FC",
+        "dorsal": "3",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Nemanja Gudelj",
+        "edad": "33 años",
+        "nacionalidad": "Serbia",
+        "equipo": "Sevilla FC",
+        "dorsal": "6",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Djibril Sow",
+        "edad": "28 años",
+        "nacionalidad": "Suiza",
+        "equipo": "Sevilla FC",
+        "dorsal": "20",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Saúl Ñìguez",
+        "edad": "30 años",
+        "nacionalidad": "Española",
+        "equipo": "Sevilla FC",
+        "dorsal": "17",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Albert Sambi",
+        "edad": "25 años",
+        "nacionalidad": "Belga",
+        "equipo": "Sevilla FC",
+        "dorsal": "12",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Lucien Agoumé",
+        "edad": "23 años",
+        "nacionalidad": "Francesa",
+        "equipo": "Sevilla FC",
+        "dorsal": "18",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Isaac Romero",
+        "edad": "24 años",
+        "nacionalidad": "Española",
+        "equipo": "Sevilla FC",
+        "dorsal": "7",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Suso",
+        "edad": "31 años",
+        "nacionalidad": "Española",
+        "equipo": "Sevilla FC",
+        "dorsal": "10",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Dodi Lukébakio",
+        "edad": "27 años",
+        "nacionalidad": "Belga",
+        "equipo": "Sevilla FC",
+        "dorsal": "11",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Peque Fernández",
+        "edad": "22 años",
+        "nacionalidad": "Española",
+        "equipo": "Sevilla FC",
+        "dorsal": "14",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Chidera Ejuke",
+        "edad": "27 años",
+        "nacionalidad": "Nigeriana",
+        "equipo": "Sevilla FC",
+        "dorsal": "21",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Stanis Idumbo",
+        "edad": "19 años",
+        "nacionalidad": "Belga",
+        "equipo": "Sevilla FC",
+        "dorsal": "27",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Rubén Vargas",
+        "edad": "26 años",
+        "nacionalidad": "Suiza",
+        "equipo": "Sevilla FC",
+        "dorsal": "5",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Akor Adams",
+        "edad": "25 años",
+        "nacionalidad": "Nigeriana",
+        "equipo": "Sevilla FC",
+        "dorsal": "15",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Álex Remiro",
+        "edad": "29 años",
+        "nacionalidad": "Española",
+        "equipo": "Real Sociedad",
+        "dorsal": "1",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Unai Marrero Larrañaga",
+        "edad": "23 años",
+        "nacionalidad": "Española",
+        "equipo": "Real Sociedad",
+        "dorsal": "13",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Álvaro Odriozola",
+        "edad": "29 años",
+        "nacionalidad": "Española",
+        "equipo": "Real Sociedad",
+        "dorsal": "2",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Aihen Muñoz",
+        "edad": "27 años",
+        "nacionalidad": "",
+        "equipo": "Real Sociedad",
+        "dorsal": "3",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Igor Zubeldia",
+        "edad": "27 años",
+        "nacionalidad": "Española",
+        "equipo": "Real Sociedad",
+        "dorsal": "5",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Aritz Elustondo",
+        "edad": "30 años",
+        "nacionalidad": "Española",
+        "equipo": "Real Sociedad",
+        "dorsal": "6",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Javi López",
+        "edad": "22 años",
+        "nacionalidad": "Española",
+        "equipo": "Real Sociedad",
+        "dorsal": "12",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Hamari Traoré",
+        "edad": "33 años",
+        "nacionalidad": "Maliense",
+        "equipo": "Real Sociedad",
+        "dorsal": "18",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Jon Mikel Aramburu",
+        "edad": "22 años",
+        "nacionalidad": "Venezolana",
+        "equipo": "Real Sociedad",
+        "dorsal": "19",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Jon Pacheco",
+        "edad": "24 años",
+        "nacionalidad": "Española",
+        "equipo": "Real Sociedad",
+        "dorsal": "20",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Nayef Aguerd",
+        "edad": "28 años",
+        "nacionalidad": "Marroquí",
+        "equipo": "Real Sociedad",
+        "dorsal": "21",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Martín Zubimendi",
+        "edad": "26 años",
+        "nacionalidad": "Española",
+        "equipo": "Real Sociedad",
+        "dorsal": "4",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Arsen Zakharyan",
+        "edad": "21 años",
+        "nacionalidad": "Rusa",
+        "equipo": "Real Sociedad",
+        "dorsal": "8",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Jon Ander Olasagasti",
+        "edad": "24 años",
+        "nacionalidad": "Española",
+        "equipo": "Real Sociedad",
+        "dorsal": "16",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Beñat Turrientes",
+        "edad": "23 años",
+        "nacionalidad": "Española",
+        "equipo": "Real Sociedad",
+        "dorsal": "22",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Brais Méndez",
+        "edad": "28 años",
+        "nacionalidad": "Española",
+        "equipo": "Real Sociedad",
+        "dorsal": "23",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Luka Sučić",
+        "edad": "22 años",
+        "nacionalidad": "Croata",
+        "equipo": "Real Sociedad",
+        "dorsal": "24",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Pablo Marín",
+        "edad": "21 años",
+        "nacionalidad": "Española",
+        "equipo": "Real Sociedad",
+        "dorsal": "28",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Ander Barrenetxea",
+        "edad": "23 años",
+        "nacionalidad": "Española",
+        "equipo": "Real Sociedad",
+        "dorsal": "7",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Mikel Oyarzabal",
+        "edad": "27 años",
+        "nacionalidad": "Española",
+        "equipo": "Real Sociedad",
+        "dorsal": "10",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Takefusa Kubo",
+        "edad": "23 años",
+        "nacionalidad": "Japonesa",
+        "equipo": "Real Sociedad",
+        "dorsal": "14",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Orri Óskarsson",
+        "edad": "20 años",
+        "nacionalidad": "Islandesa",
+        "equipo": "Real Sociedad",
+        "dorsal": "9",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Sheraldo Becker",
+        "edad": "30 años",
+        "nacionalidad": "Neerlandesa",
+        "equipo": "Real Sociedad",
+        "dorsal": "11",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Sergio Gómez",
+        "edad": "24 años",
+        "nacionalidad": "Española",
+        "equipo": "Real Sociedad",
+        "dorsal": "17",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Jiri Letáček",
+        "edad": "26 años",
+        "nacionalidad": "Checa",
+        "equipo": "Getafe CF",
+        "dorsal": "1",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "David Soria",
+        "edad": "31 años",
+        "nacionalidad": "Española",
+        "equipo": "Getafe CF",
+        "dorsal": "13",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Djené Dakonam",
+        "edad": "33 años",
+        "nacionalidad": "Togolesa",
+        "equipo": "Getafe CF",
+        "dorsal": "2",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Juan Berrocal",
+        "edad": "26 años",
+        "nacionalidad": "Española",
+        "equipo": "Getafe CF",
+        "dorsal": "4",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Allan Nyom",
+        "edad": "36 años",
+        "nacionalidad": "Camerunesa",
+        "equipo": "Getafe CF",
+        "dorsal": "12",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Juan Bernat",
+        "edad": "32 años",
+        "nacionalidad": "Española",
+        "equipo": "Getafe CF",
+        "dorsal": "14",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Omar Alderete",
+        "edad": "28 años",
+        "nacionalidad": "Paraguaya",
+        "equipo": "Getafe CF",
+        "dorsal": "15",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Diego Rico",
+        "edad": "32 años",
+        "nacionalidad": "Española",
+        "equipo": "Getafe CF",
+        "dorsal": "16",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Juan Iglesias",
+        "edad": "26 años",
+        "nacionalidad": "Española",
+        "equipo": "Getafe CF",
+        "dorsal": "21",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Domingos Duarte",
+        "edad": "30 años",
+        "nacionalidad": "Portuguesa",
+        "equipo": "Getafe CF",
+        "dorsal": "22",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Luis Milla",
+        "edad": "30 años",
+        "nacionalidad": "Española",
+        "equipo": "Getafe CF",
+        "dorsal": "5",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Christantus Uche",
+        "edad": "21 años",
+        "nacionalidad": "Nigeriana",
+        "equipo": "Getafe CF",
+        "dorsal": "6",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Álex Sola",
+        "edad": "25 años",
+        "nacionalidad": "Española",
+        "equipo": "Getafe CF",
+        "dorsal": "7",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Mauro Arambarri",
+        "edad": "29 años",
+        "nacionalidad": "Uruguaya",
+        "equipo": "Getafe CF",
+        "dorsal": "8",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Ramón Terrats",
+        "edad": "24 años",
+        "nacionalidad": "Española",
+        "equipo": "Getafe CF",
+        "dorsal": "11",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Yellu",
+        "edad": "20 años",
+        "nacionalidad": "Española",
+        "equipo": "Getafe CF",
+        "dorsal": "20",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Borja Mayoral",
+        "edad": "29 años",
+        "nacionalidad": "Española",
+        "equipo": "Getafe CF",
+        "dorsal": "9",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Bertug Yildirim",
+        "edad": "22 años",
+        "nacionalidad": "Turca",
+        "equipo": "Getafe CF",
+        "dorsal": "10",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Carles Pérez",
+        "edad": "27 años",
+        "nacionalidad": "Española",
+        "equipo": "Getafe CF",
+        "dorsal": "17",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Álvaro Rodríguez",
+        "edad": "20 años",
+        "nacionalidad": "Uruguaya",
+        "equipo": "Getafe CF",
+        "dorsal": "18",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Peter Federico",
+        "edad": "22 años",
+        "nacionalidad": "Dominicana",
+        "equipo": "Getafe CF",
+        "dorsal": "19",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Juanmi Jiménez",
+        "edad": "31 años",
+        "nacionalidad": "Española",
+        "equipo": "Getafe CF",
+        "dorsal": "24",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Juan Carlos",
+        "edad": "37 años",
+        "nacionalidad": "Española",
+        "equipo": "Girona FC",
+        "dorsal": "1",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Paulo Gazzaniga",
+        "edad": "33 años",
+        "nacionalidad": "Argentina",
+        "equipo": "Girona FC",
+        "dorsal": "13",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Vladyslav Krapyvtsov",
+        "edad": "19 años",
+        "nacionalidad": "Ucraniana",
+        "equipo": "Girona FC",
+        "dorsal": "25",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Miguel Gutiérrez",
+        "edad": "23 años",
+        "nacionalidad": "Española",
+        "equipo": "Girona FC",
+        "dorsal": "3",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Arnau Martínez",
+        "edad": "21 años",
+        "nacionalidad": "Española",
+        "equipo": "Girona FC",
+        "dorsal": "4",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "David López",
+        "edad": "35 años",
+        "nacionalidad": "Española",
+        "equipo": "Girona FC",
+        "dorsal": "5",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Juanpe",
+        "edad": "33 años",
+        "nacionalidad": "Española",
+        "equipo": "Girona FC",
+        "dorsal": "15",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Alejandro Francés",
+        "edad": "22 años",
+        "nacionalidad": "Española",
+        "equipo": "Girona FC",
+        "dorsal": "16",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Daley Blind",
+        "edad": "35 años",
+        "nacionalidad": "Neerlandesa",
+        "equipo": "Girona FC",
+        "dorsal": "17",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Ladislav Krejčí",
+        "edad": "25 años",
+        "nacionalidad": "Checa",
+        "equipo": "Girona FC",
+        "dorsal": "18",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Donny van de Beek",
+        "edad": "27 años",
+        "nacionalidad": "Neerlandesa",
+        "equipo": "Girona FC",
+        "dorsal": "6",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Arthur",
+        "edad": "28 años",
+        "nacionalidad": "Brasileña",
+        "equipo": "Girona FC",
+        "dorsal": "12",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Oriol Romeu",
+        "edad": "33 años",
+        "nacionalidad": "Española",
+        "equipo": "Girona FC",
+        "dorsal": "14",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Yangel Herrera",
+        "edad": "27 años",
+        "nacionalidad": "Venezolana",
+        "equipo": "Girona FC",
+        "dorsal": "21",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Jhon Solís",
+        "edad": "20 años",
+        "nacionalidad": "Colombiana",
+        "equipo": "Girona FC",
+        "dorsal": "22",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Iván Martín",
+        "edad": "26 años",
+        "nacionalidad": "Española",
+        "equipo": "Girona FC",
+        "dorsal": "23",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Cristhian Stuani",
+        "edad": "38 años",
+        "nacionalidad": "Uruguaya",
+        "equipo": "Girona FC",
+        "dorsal": "7",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Viktor Tsygankov",
+        "edad": "27 años",
+        "nacionalidad": "Ucraniana",
+        "equipo": "Girona FC",
+        "dorsal": "8",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Abel Ruiz",
+        "edad": "25 años",
+        "nacionalidad": "Española",
+        "equipo": "Girona FC",
+        "dorsal": "9",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Yaser Asprilla",
+        "edad": "21 años",
+        "nacionalidad": "Colombiana",
+        "equipo": "Girona FC",
+        "dorsal": "10",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Arnaut Danjuma",
+        "edad": "28 años",
+        "nacionalidad": "Neerlandesa",
+        "equipo": "Girona FC",
+        "dorsal": "11",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Bojan Miovski",
+        "edad": "25 años",
+        "nacionalidad": "Macedonia del Norte",
+        "equipo": "Girona FC",
+        "dorsal": "19",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Bryan Gil",
+        "edad": "24 años",
+        "nacionalidad": "Española",
+        "equipo": "Girona FC",
+        "dorsal": "20",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Portu",
+        "edad": "32 años",
+        "nacionalidad": "Española",
+        "equipo": "Girona FC",
+        "dorsal": "24",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Gabriel Misehouy",
+        "edad": "19 años",
+        "nacionalidad": "Neerlandesa",
+        "equipo": "Girona FC",
+        "dorsal": "27",
+        "posicion": "Delantero"
+    }
 ]
