@@ -184,14 +184,6 @@
         "dorsal": "35",
         "posicion": "Defensa"
     },
-    
-    
-    
-    
-    
-    
-    
-    
     {
         "nombre": "Wojciech Szczęsny",
         "edad": "34 años",
@@ -376,12 +368,6 @@
         "dorsal": "18",
         "posicion": "Delantero"
     },
-
-
-
-
-
-
     {
         "nombre": "Juan Musso",
         "edad": "30 años",
@@ -2389,5 +2375,1361 @@
         "equipo": "Girona FC",
         "dorsal": "27",
         "posicion": "Delantero"
+    },
+    {
+        "nombre": "Sergio Herrera",
+        "edad": "31 años",
+        "nacionalidad": "Española",
+        "equipo": "CA Osasuna",
+        "dorsal": "1",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Aitor Fernández",
+        "edad": "33 años",
+        "nacionalidad": "Española",
+        "equipo": "CA Osasuna",
+        "dorsal": "13",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Juan Cruz",
+        "edad": "32 años",
+        "nacionalidad": "Española",
+        "equipo": "CA Osasuna",
+        "dorsal": "3",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Unai García",
+        "edad": "33 años",
+        "nacionalidad": "Española",
+        "equipo": "CA Osasuna",
+        "dorsal": "4",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Jorge Herrando",
+        "edad": "24 años",
+        "nacionalidad": "Española",
+        "equipo": "CA Osasuna",
+        "dorsal": "5",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Jesús Areso",
+        "edad": "25 años",
+        "nacionalidad": "Española",
+        "equipo": "CA Osasuna",
+        "dorsal": "12",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Rubén Peña",
+        "edad": "33 años",
+        "nacionalidad": "Española",
+        "equipo": "CA Osasuna",
+        "dorsal": "15",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Enzo Boyomo",
+        "edad": "23 años",
+        "nacionalidad": "Camerunesa",
+        "equipo": "CA Osasuna",
+        "dorsal": "22",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Abel Bretones",
+        "edad": "24 años",
+        "nacionalidad": "Española",
+        "equipo": "CA Osasuna",
+        "dorsal": "23",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Alejandro Catena",
+        "edad": "30 años",
+        "nacionalidad": "Española",
+        "equipo": "CA Osasuna",
+        "dorsal": "24",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Lucas Torró",
+        "edad": "30 años",
+        "nacionalidad": "Española",
+        "equipo": "CA Osasuna",
+        "dorsal": "6",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Jon Moncayola",
+        "edad": "26 años",
+        "nacionalidad": "Española",
+        "equipo": "CA Osasuna",
+        "dorsal": "7",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Pablo Ibáñez",
+        "edad": "26 años",
+        "nacionalidad": "Española",
+        "equipo": "CA Osasuna",
+        "dorsal": "8",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Aimar Oroz",
+        "edad": "23 años",
+        "nacionalidad": "Española",
+        "equipo": "CA Osasuna",
+        "dorsal": "10",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Kike Barja",
+        "edad": "27 años",
+        "nacionalidad": "Española",
+        "equipo": "CA Osasuna",
+        "dorsal": "11",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Rubén García",
+        "edad": "31 años",
+        "nacionalidad": "Española",
+        "equipo": "CA Osasuna",
+        "dorsal": "14",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Moi Gómez",
+        "edad": "30 años",
+        "nacionalidad": "Española",
+        "equipo": "CA Osasuna",
+        "dorsal": "16",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Iker Muñoz",
+        "edad": "22 años",
+        "nacionalidad": "Española",
+        "equipo": "CA Osasuna",
+        "dorsal": "18",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Raúl García",
+        "edad": "24 años",
+        "nacionalidad": "Española",
+        "equipo": "CA Osasuna",
+        "dorsal": "9",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Ante Budimir",
+        "edad": "33 años",
+        "nacionalidad": "Croata",
+        "equipo": "CA Osasuna",
+        "dorsal": "17",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Bryan Zaragoza",
+        "edad": "23 años",
+        "nacionalidad": "Española",
+        "equipo": "CA Osasuna",
+        "dorsal": "19",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Jose Manuel Arnáiz",
+        "edad": "29 años",
+        "nacionalidad": "Española",
+        "equipo": "CA Osasuna",
+        "dorsal": "20",
+        "posicion": "Delantero"
+    },
+
+    {
+        "nombre": "Joan García",
+        "edad": "23 años",
+        "nacionalidad": "Española",
+        "equipo": "RCD Espanyol",
+        "dorsal": "1",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Fernando Pacheco",
+        "edad": "32 años",
+        "nacionalidad": "Española",
+        "equipo": "RCD Espanyol",
+        "dorsal": "13",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Àngel Fortuño",
+        "edad": "23 años",
+        "nacionalidad": "Española",
+        "equipo": "RCD Espanyol",
+        "dorsal": "33",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Sergi Gómez",
+        "edad": "32 años",
+        "nacionalidad": "Española",
+        "equipo": "RCD Espanyol",
+        "dorsal": "3",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Marash Kumbulla",
+        "edad": "25 años",
+        "nacionalidad": "Albanesa",
+        "equipo": "RCD Espanyol",
+        "dorsal": "4",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Fernando Calero",
+        "edad": "29 años",
+        "nacionalidad": "Española",
+        "equipo": "RCD Espanyol",
+        "dorsal": "5",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Leandro Cabrera",
+        "edad": "33 años",
+        "nacionalidad": "Uruguaya",
+        "equipo": "RCD Espanyol",
+        "dorsal": "6",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Álvaro Tejero",
+        "edad": "28 años",
+        "nacionalidad": "Española",
+        "equipo": "RCD Espanyol",
+        "dorsal": "12",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Brian Oliván",
+        "edad": "30 años",
+        "nacionalidad": "Española",
+        "equipo": "RCD Espanyol",
+        "dorsal": "14",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Carlos Romero",
+        "edad": "23 años",
+        "nacionalidad": "Española",
+        "equipo": "RCD Espanyol",
+        "dorsal": "22",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Omar El Hilali",
+        "edad": "21 años",
+        "nacionalidad": "Marroquí",
+        "equipo": "RCD Espanyol",
+        "dorsal": "23",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Pablo Ramón",
+        "edad": "23 años",
+        "nacionalidad": "Española",
+        "equipo": "RCD Espanyol",
+        "dorsal": "24",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Edu Expósito",
+        "edad": "28 años",
+        "nacionalidad": "Española",
+        "equipo": "RCD Espanyol",
+        "dorsal": "8",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Pol Lozano",
+        "edad": "25 años",
+        "nacionalidad": "Española",
+        "equipo": "RCD Espanyol",
+        "dorsal": "10",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "José Gragera",
+        "edad": "24 años",
+        "nacionalidad": "Española",
+        "equipo": "RCD Espanyol",
+        "dorsal": "15",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Álvaro aguado",
+        "edad": "28 años",
+        "nacionalidad": "Española",
+        "equipo": "RCD Espanyol",
+        "dorsal": "18",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Urko González de Zárate",
+        "edad": "24 años",
+        "nacionalidad": "Española",
+        "equipo": "RCD Espanyol",
+        "dorsal": "19",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Alex Král",
+        "edad": "26 años",
+        "nacionalidad": "Checa",
+        "equipo": "RCD Espanyol",
+        "dorsal": "20",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Antoniu Roca",
+        "edad": "22 años",
+        "nacionalidad": "Española",
+        "equipo": "RCD Espanyol",
+        "dorsal": "31",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Roberto Fernández",
+        "edad": "22 años",
+        "nacionalidad": "Española",
+        "equipo": "RCD Espanyol",
+        "dorsal": "2",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Javi Puado",
+        "edad": "26 años",
+        "nacionalidad": "Española",
+        "equipo": "RCD Espanyol",
+        "dorsal": "7",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Alejo Véliz",
+        "edad": "21 años",
+        "nacionalidad": "Argentina",
+        "equipo": "RCD Espanyol",
+        "dorsal": "9",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Pere Milla",
+        "edad": "32 años",
+        "nacionalidad": "Española",
+        "equipo": "RCD Espanyol",
+        "dorsal": "11",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Walid Cheddira",
+        "edad": "27 años",
+        "nacionalidad": "Marroquí",
+        "equipo": "RCD Espanyol",
+        "dorsal": "16",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Jofre Carreras",
+        "edad": "23 años",
+        "nacionalidad": "Española",
+        "equipo": "RCD Espanyol",
+        "dorsal": "17",
+        "posicion": "Delantero"
+    },
+
+    {
+        "nombre": "Jaume Domènech",
+        "edad": "34 años",
+        "nacionalidad": "Española",
+        "equipo": "Valencia CF",
+        "dorsal": "1",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Stole Dimitrievski",
+        "edad": "31 años",
+        "nacionalidad": "Macedonia",
+        "equipo": "Valencia CF",
+        "dorsal": "13",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Giorgi Mamardashvili",
+        "edad": "24 años",
+        "nacionalidad": "Georgiana",
+        "equipo": "Valencia CF",
+        "dorsal": "25",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Cristhian Mosquera",
+        "edad": "20 años",
+        "nacionalidad": "Española",
+        "equipo": "Valencia CF",
+        "dorsal": "3",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Mouctar Diakhaby",
+        "edad": "28 años",
+        "nacionalidad": "Guineana",
+        "equipo": "Valencia CF",
+        "dorsal": "4",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "José Luis Gayà",
+        "edad": "29 años",
+        "nacionalidad": "Española",
+        "equipo": "Valencia CF",
+        "dorsal": "14",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "César Tárrega",
+        "edad": "23 años",
+        "nacionalidad": "Española",
+        "equipo": "Valencia CF",
+        "dorsal": "15",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Max Aarons",
+        "edad": "25 años",
+        "nacionalidad": "Inglesa",
+        "equipo": "Valencia CF",
+        "dorsal": "19",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Dimitri Foulquier",
+        "edad": "32 años",
+        "nacionalidad": "Guadalupeña",
+        "equipo": "Valencia CF",
+        "dorsal": "20",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Jesús Vázquez",
+        "edad": "22 años",
+        "nacionalidad": "Española",
+        "equipo": "Valencia CF",
+        "dorsal": "21",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Yarek Gasiorowski",
+        "edad": "20 años",
+        "nacionalidad": "Española",
+        "equipo": "Valencia CF",
+        "dorsal": "24",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "André Almeida",
+        "edad": "24 años",
+        "nacionalidad": "Portuguesa",
+        "equipo": "Valencia CF",
+        "dorsal": "10",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Iván Jaime",
+        "edad": "24 años",
+        "nacionalidad": "Española",
+        "equipo": "Valencia CF",
+        "dorsal": "17",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "José Luis García Vayá",
+        "edad": "26 años",
+        "nacionalidad": "Española",
+        "equipo": "Valencia CF",
+        "dorsal": "18",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Fran Pérez",
+        "edad": "22 años",
+        "nacionalidad": "Española",
+        "equipo": "Valencia CF",
+        "dorsal": "23",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Enzo Barrenechea",
+        "edad": "23 años",
+        "nacionalidad": "Argentina",
+        "equipo": "Valencia CF",
+        "dorsal": "5",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Hugo Guillamón",
+        "edad": "25 años",
+        "nacionalidad": "Española",
+        "equipo": "Valencia CF",
+        "dorsal": "6",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Sergi Canós",
+        "edad": "28 años",
+        "nacionalidad": "Española",
+        "equipo": "Valencia CF",
+        "dorsal": "7",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Javi Guerra",
+        "edad": "21 años",
+        "nacionalidad": "Española",
+        "equipo": "Valencia CF",
+        "dorsal": "8",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Hugo Duro",
+        "edad": "25 años",
+        "nacionalidad": "Española",
+        "equipo": "Valencia CF",
+        "dorsal": "9",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Rafa Mir",
+        "edad": "27 años",
+        "nacionalidad": "Española",
+        "equipo": "Valencia CF",
+        "dorsal": "11",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Umar Sadiq",
+        "edad": "28 años",
+        "nacionalidad": "Nigeriana",
+        "equipo": "Valencia CF",
+        "dorsal": "12",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Diego López",
+        "edad": "22 años",
+        "nacionalidad": "Española",
+        "equipo": "Valencia CF",
+        "dorsal": "16",
+        "posicion": "Delantero"
+    },
+
+    {
+        "nombre": "Juan Soriano",
+        "edad": "27 años",
+        "nacionalidad": "Española",
+        "equipo": "CD Leganés",
+        "dorsal": "1",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Marko Dmitrović",
+        "edad": "33 años",
+        "nacionalidad": "Serbia",
+        "equipo": "CD Leganés",
+        "dorsal": "13",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Álvaro Abajas Martín",
+        "edad": "21 años",
+        "nacionalidad": "Española",
+        "equipo": "CD Leganés",
+        "dorsal": "36",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Adrià Altamira",
+        "edad": "23 años",
+        "nacionalidad": "Española",
+        "equipo": "CD Leganés",
+        "dorsal": "2",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Jorge Sáenz",
+        "edad": "28 años",
+        "nacionalidad": "Española",
+        "equipo": "CD Leganés",
+        "dorsal": "3",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Borna Barišić",
+        "edad": "32 años",
+        "nacionalidad": "Croata",
+        "equipo": "CD Leganés",
+        "dorsal": "4",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Sergio González",
+        "edad": "32 años",
+        "nacionalidad": "Española",
+        "equipo": "CD Leganés",
+        "dorsal": "6",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Valentin Rosier",
+        "edad": "24 años",
+        "nacionalidad": "Francesa",
+        "equipo": "CD Leganés",
+        "dorsal": "12",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Enriq Franquesa",
+        "edad": "28 años",
+        "nacionalidad": "Española",
+        "equipo": "CD Leganés",
+        "dorsal": "15",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Javi Hernández",
+        "edad": "26 años",
+        "nacionalidad": "Española",
+        "equipo": "CD Leganés",
+        "dorsal": "20",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Matija Nastasić",
+        "edad": "31 años",
+        "nacionalidad": "Serbia",
+        "equipo": "CD Leganés",
+        "dorsal": "22",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Renato Tapia",
+        "edad": "32 años",
+        "nacionalidad": "Peruana",
+        "equipo": "CD Leganés",
+        "dorsal": "5",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Óscar Rodríguez",
+        "edad": "26 años",
+        "nacionalidad": "Española",
+        "equipo": "CD Leganés",
+        "dorsal": "7",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Seydouba Cissé",
+        "edad": "24 años",
+        "nacionalidad": "Guineana",
+        "equipo": "CD Leganés",
+        "dorsal": "8",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Juan Cruz",
+        "edad": "24 años",
+        "nacionalidad": "Argentina",
+        "equipo": "CD Leganés",
+        "dorsal": "11",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Darco Brašanac",
+        "edad": "33 años",
+        "nacionalidad": "Serbia",
+        "equipo": "CD Leganés",
+        "dorsal": "14",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Yvan Neyou",
+        "edad": "28 años",
+        "nacionalidad": "Camerunesa",
+        "equipo": "CD Leganés",
+        "dorsal": "17",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Roberto López",
+        "edad": "24 años",
+        "nacionalidad": "Española",
+        "equipo": "CD Leganés",
+        "dorsal": "21",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Julián Chicco",
+        "edad": "27 años",
+        "nacionalidad": "Argentina",
+        "equipo": "CD Leganés",
+        "dorsal": "24",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Miguel de la Fuente",
+        "edad": "25 años",
+        "nacionalidad": "Española",
+        "equipo": "CD Leganés",
+        "dorsal": "9",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Dani Raba",
+        "edad": "29 años",
+        "nacionalidad": "Española",
+        "equipo": "CD Leganés",
+        "dorsal": "10",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Duk",
+        "edad": "25 años",
+        "nacionalidad": "Portuguesa",
+        "equipo": "CD Leganés",
+        "dorsal": "18",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Diego García",
+        "edad": "24 años",
+        "nacionalidad": "Española",
+        "equipo": "CD Leganés",
+        "dorsal": "19",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Munir",
+        "edad": "29 años",
+        "nacionalidad": "Española",
+        "equipo": "CD Leganés",
+        "dorsal": "23",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Antonio Sivera",
+        "edad": "28 años",
+        "nacionalidad": "Española",
+        "equipo": "Deportivo Alavés",
+        "dorsal": "1",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Jesús Owono",
+        "edad": "24 años",
+        "nacionalidad": "Guineana",
+        "equipo": "Deportivo Alavés",
+        "dorsal": "13",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Adrián Rodríguez",
+        "edad": "24 años",
+        "nacionalidad": "Argentina",
+        "equipo": "Deportivo Alavés",
+        "dorsal": "31",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Facundo Garcés",
+        "edad": "25 años",
+        "nacionalidad": "Argentina",
+        "equipo": "Deportivo Alavés",
+        "dorsal": "2",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Manu Sánchez",
+        "edad": "24 años",
+        "nacionalidad": "Española",
+        "equipo": "Deportivo Alavés",
+        "dorsal": "3",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Aleksandar Sedlar",
+        "edad": "33 años",
+        "nacionalidad": "Serbia",
+        "equipo": "Deportivo Alavés",
+        "dorsal": "4",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Abdel Abqar",
+        "edad": "26 años",
+        "nacionalidad": "Marroquí",
+        "equipo": "Deportivo Alavés",
+        "dorsal": "5",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Santiago Mouriño",
+        "edad": "23 años",
+        "nacionalidad": "Uruguaya",
+        "equipo": "Deportivo Alavés",
+        "dorsal": "12",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Nahuel Tenaglia",
+        "edad": "29 años",
+        "nacionalidad": "Argentina",
+        "equipo": "Deportivo Alavés",
+        "dorsal": "14",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Hugo Novoa",
+        "edad": "22 años",
+        "nacionalidad": "Española",
+        "equipo": "Deportivo Alavés",
+        "dorsal": "16",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Moussa Diarra",
+        "edad": "24 años",
+        "nacionalidad": "Maliense",
+        "equipo": "Deportivo Alavés",
+        "dorsal": "22",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Adrián Pica",
+        "edad": "22 años",
+        "nacionalidad": "Española",
+        "equipo": "Deportivo Alavés",
+        "dorsal": "36",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Ander Guevara",
+        "edad": "27 años",
+        "nacionalidad": "Española",
+        "equipo": "Deportivo Alavés",
+        "dorsal": "6",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Carlos Vicente",
+        "edad": "25 años",
+        "nacionalidad": "Española",
+        "equipo": "Deportivo Alavés",
+        "dorsal": "7",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Antonio Blanco",
+        "edad": "24 años",
+        "nacionalidad": "Española",
+        "equipo": "Deportivo Alavés",
+        "dorsal": "8",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Tomás Conechny",
+        "edad": "26 años",
+        "nacionalidad": "Argentina",
+        "equipo": "Deportivo Alavés",
+        "dorsal": "10",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Jon Guridi",
+        "edad": "30 años",
+        "nacionalidad": "Española",
+        "equipo": "Deportivo Alavés",
+        "dorsal": "18",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Carles Aleñá",
+        "edad": "27 años",
+        "nacionalidad": "Española",
+        "equipo": "Deportivo Alavés",
+        "dorsal": "21",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Carlos Protesoni",
+        "edad": "26 años",
+        "nacionalidad": "Uruguaya",
+        "equipo": "Deportivo Alavés",
+        "dorsal": "23",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Joan Jordán",
+        "edad": "30 años",
+        "nacionalidad": "Española",
+        "equipo": "Deportivo Alavés",
+        "dorsal": "24",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Asier Villalibre",
+        "edad": "27 años",
+        "nacionalidad": "Española",
+        "equipo": "Deportivo Alavés",
+        "dorsal": "9",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Toni Martínez",
+        "edad": "27 años",
+        "nacionalidad": "Española",
+        "equipo": "Deportivo Alavés",
+        "dorsal": "11",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Carlos Martín",
+        "edad": "22 años",
+        "nacionalidad": "Española",
+        "equipo": "Deportivo Alavés",
+        "dorsal": "15",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Kike García",
+        "edad": "35 años",
+        "nacionalidad": "Española",
+        "equipo": "Deportivo Alavés",
+        "dorsal": "17",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Jasper Cillessen",
+        "edad": "35 años",
+        "nacionalidad": "Neerlandesa",
+        "equipo": "UD Las Palmas",
+        "dorsal": "1",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Dinko Horkaš",
+        "edad": "26 años",
+        "nacionalidad": "Croata",
+        "equipo": "UD Las Palmas",
+        "dorsal": "13",
+        "posicion": "Portero"
+    },
+    {
+        "nombre": "Marvin Park",
+        "edad": "24 años",
+        "nacionalidad": "Española",
+        "equipo": "UD Las Palmas",
+        "dorsal": "2",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Mika Mármol",
+        "edad": "23 años",
+        "nacionalidad": "Española",
+        "equipo": "UD Las Palmas",
+        "dorsal": "3",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Álex Suárez",
+        "edad": "32 años",
+        "nacionalidad": "Española",
+        "equipo": "UD Las Palmas",
+        "dorsal": "4",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Andy Pelmard",
+        "edad": "25 años",
+        "nacionalidad": "Francesa",
+        "equipo": "UD Las Palmas",
+        "dorsal": "6",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Scott McKenna",
+        "edad": "28 años",
+        "nacionalidad": "Escocesa",
+        "equipo": "UD Las Palmas",
+        "dorsal": "15",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Álex Muñoz",
+        "edad": "30 años",
+        "nacionalidad": "Española",
+        "equipo": "UD Las Palmas",
+        "dorsal": "23",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Juanma Herzog",
+        "edad": "20 años",
+        "nacionalidad": "Española",
+        "equipo": "UD Las Palmas",
+        "dorsal": "28",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Javi Muñoz",
+        "edad": "30 años",
+        "nacionalidad": "Española",
+        "equipo": "UD Las Palmas",
+        "dorsal": "5",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "José Gómez Campaña",
+        "edad": "31 años",
+        "nacionalidad": "Española",
+        "equipo": "UD Las Palmas",
+        "dorsal": "8",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Alberto Moleiro",
+        "edad": "21 años",
+        "nacionalidad": "Española",
+        "equipo": "UD Las Palmas",
+        "dorsal": "10",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Enzo Loiodice",
+        "edad": "24 años",
+        "nacionalidad": "Francesa",
+        "equipo": "UD Las Palmas",
+        "dorsal": "12",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Manu Fuster",
+        "edad": "27 años",
+        "nacionalidad": "Española",
+        "equipo": "UD Las Palmas",
+        "dorsal": "14",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Viti Rozada",
+        "edad": "27 años",
+        "nacionalidad": "Española",
+        "equipo": "UD Las Palmas",
+        "dorsal": "18",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Kirian Rodríguez",
+        "edad": "29 años",
+        "nacionalidad": "Española",
+        "equipo": "UD Las Palmas",
+        "dorsal": "20",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Stefan Bajcetic",
+        "edad": "20 años",
+        "nacionalidad": "Española",
+        "equipo": "UD Las Palmas",
+        "dorsal": "21",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Adnan Januzaj",
+        "edad": "30 años",
+        "nacionalidad": "Española",
+        "equipo": "UD Las Palmas",
+        "dorsal": "24",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Dário Essugo",
+        "edad": "20 años",
+        "nacionalidad": "Portuguesa",
+        "equipo": "UD Las Palmas",
+        "dorsal": "29",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Marc Cardona",
+        "edad": "29 años",
+        "nacionalidad": "Española",
+        "equipo": "UD Las Palmas",
+        "dorsal": "9",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Benito Ramírez",
+        "edad": "29 años",
+        "nacionalidad": "Española",
+        "equipo": "UD Las Palmas",
+        "dorsal": "11",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Oli McBurnie",
+        "edad": "28 años",
+        "nacionalidad": "Escocesa",
+        "equipo": "UD Las Palmas",
+        "dorsal": "16",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Jaime Mata",
+        "edad": "36 años",
+        "nacionalidad": "Escocesa",
+        "equipo": "UD Las Palmas",
+        "dorsal": "17",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Sandro Ramírez",
+        "edad": "29 años",
+        "nacionalidad": "Española",
+        "equipo": "UD Las Palmas",
+        "dorsal": "19",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Fábio Silva",
+        "edad": "22 años",
+        "nacionalidad": "Portuguesa",
+        "equipo": "UD Las Palmas",
+        "dorsal": "37",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "André Ferreira",
+        "edad": "28 años",
+        "nacionalidad": "Portuguesa",
+        "equipo": "Real Valladolid CF",
+        "dorsal": "1",
+        "posicion": "Portero" 
+    },
+    {
+        "nombre": "Karl Hein",
+        "edad": "22 años",
+        "nacionalidad": "Estoniana",
+        "equipo": "Real Valladolid CF",
+        "dorsal": "13",
+        "posicion": "Portero" 
+    },
+    {
+        "nombre": "Luis Pérez",
+        "edad": "30 años",
+        "nacionalidad": "Española",
+        "equipo": "Real Valladolid CF",
+        "dorsal": "2",
+        "posicion": "Defensa" 
+    },
+    {
+        "nombre": "David Torres",
+        "edad": "22 años",
+        "nacionalidad": "Española",
+        "equipo": "Real Valladolid CF",
+        "dorsal": "3",
+        "posicion": "Defensa" 
+    },
+    {
+        "nombre": "Javi Sánchez",
+        "edad": "28 años",
+        "nacionalidad": "Española",
+        "equipo": "Real Valladolid CF",
+        "dorsal": "5",
+        "posicion": "Defensa" 
+    },
+    {
+        "nombre": "Cenk Özkacar",
+        "edad": "24 años",
+        "nacionalidad": "Turca",
+        "equipo": "Real Valladolid CF",
+        "dorsal": "6",
+        "posicion": "Defensa" 
+    },
+    {
+        "nombre": "Eray Cömert",
+        "edad": "26 años",
+        "nacionalidad": "Suiza",
+        "equipo": "Real Valladolid CF",
+        "dorsal": "15",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Joseph Aidoo",
+        "edad": "29 años",
+        "nacionalidad": "Ghanesa",
+        "equipo": "Real Valladolid CF",
+        "dorsal": "16",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Lucas Henrique",
+        "edad": "25 años",
+        "nacionalidad": "Brasileña",
+        "equipo": "Real Valladolid CF",
+        "dorsal": "17",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Antonio Candela",
+        "edad": "24 años",
+        "nacionalidad": "Italiana",
+        "equipo": "Real Valladolid CF",
+        "dorsal": "22",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Adam Aznou",
+        "edad": "18 años",
+        "nacionalidad": "Marroquí",
+        "equipo": "Real Valladolid CF",
+        "dorsal": "39",
+        "posicion": "Defensa"
+    },
+    {
+        "nombre": "Nikitscher",
+        "edad": "21 años",
+        "nacionalidad": "Alemana",
+        "equipo": "Real Valladolid CF",
+        "dorsal": "4",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Florian Grillitsch",
+        "edad": "29 años",
+        "nacionalidad": "Austríaca",
+        "equipo": "Real Valladolid CF",
+        "dorsal": "8",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Iván Sánchez",
+        "edad": "31 años",
+        "nacionalidad": "Española",
+        "equipo": "Real Valladolid CF",
+        "dorsal": "10",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Raúl Moro",
+        "edad": "21 años",
+        "nacionalidad": "Española",
+        "equipo": "Real Valladolid CF",
+        "dorsal": "11",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Mario Martín",
+        "edad": "20 años",
+        "nacionalidad": "Española",
+        "equipo": "Real Valladolid CF",
+        "dorsal": "12",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Darwin Machís",
+        "edad": "31 años",
+        "nacionalidad": "Venezolana",
+        "equipo": "Real Valladolid CF",
+        "dorsal": "18",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Amath Ndiaye",
+        "edad": "28 años",
+        "nacionalidad": "Senegalesa",
+        "equipo": "Real Valladolid CF",
+        "dorsal": "19",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Stanko Jurić",
+        "edad": "27 años",
+        "nacionalidad": "Croata",
+        "equipo": "Real Valladolid CF",
+        "dorsal": "20",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Selim Amallah",
+        "edad": "27 años",
+        "nacionalidad": "Marroquí",
+        "equipo": "Real Valladolid CF",
+        "dorsal": "21",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Anuar Tuhami",
+        "edad": "29 años",
+        "nacionalidad": "Marroquí",
+        "equipo": "Real Valladolid CF",
+        "dorsal": "23",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Robert Kenedy",
+        "edad": "28 años",
+        "nacionalidad": "Brasileña",
+        "equipo": "Real Valladolid CF",
+        "dorsal": "24",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Chuki",
+        "edad": "20 años",
+        "nacionalidad": "Española",
+        "equipo": "Real Valladolid CF",
+        "dorsal": "28",
+        "posicion": "Centrocampista"
+    },
+    {
+        "nombre": "Sylla",
+        "edad": "29 años",
+        "nacionalidad": "Senegalesa",
+        "equipo": "Real Valladolid CF",
+        "dorsal": "7",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Marcos André",
+        "edad": "28 años",
+        "nacionalidad": "Brasileña",
+        "equipo": "Real Valladolid CF",
+        "dorsal":"9",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Juanmi Latasa",
+        "edad": "24 años",
+        "nacionalidad": "Española",
+        "equipo": "Real Valladolid CF",
+        "dorsal":"14",
+        "posicion": "Delantero"
     }
+
 ]
