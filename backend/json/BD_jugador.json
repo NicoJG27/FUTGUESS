@@ -3220,14 +3220,6 @@
         "posicion": "Defensa"
     },
     {
-        "nombre": "Adrián Pica",
-        "edad": "22 años",
-        "nacionalidad": "Española",
-        "equipo": "Deportivo Alavés",
-        "dorsal": "36",
-        "posicion": "Defensa"
-    },
-    {
         "nombre": "Ander Guevara",
         "edad": "27 años",
         "nacionalidad": "Española",
@@ -3321,6 +3313,14 @@
         "nacionalidad": "Española",
         "equipo": "Deportivo Alavés",
         "dorsal": "17",
+        "posicion": "Delantero"
+    },
+    {
+        "nombre": "Pau Cabanes",
+        "edad": "20 años",
+        "nacionalidad": "Española",
+        "equipo": "Deportivo Alavés",
+        "dorsal": "19",
         "posicion": "Delantero"
     },
     {
