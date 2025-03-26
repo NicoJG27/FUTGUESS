@@ -16,7 +16,6 @@ document.addEventListener("DOMContentLoaded", () => {
     const searchBynacionalidadButton = document.getElementById("searchBynacionalidadButton"); // Botón para buscar por nacionalidad
     const showAllButton = document.getElementById("showAllButton"); // Botón para mostrar todos los jugadores
     const output = document.getElementById("output"); // Contenedor donde se mostrarán los resultados
-
     /**
     * Función para consultar usuarios en el servidor. Si no se pasa ningún filtro devuelve todos los usuarios.
     * @param {string} filtro - Filtro que queremos aplicar a la búsqueda
@@ -79,35 +78,33 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     // Buscar por nombre
-    searchByNameButton.addEventListener("click", () => consultarUsuarios("nombre", nameSearch.value.trim()));
+    //searchByNameButton.addEventListener("click", () => consultarUsuarios("nombre", nameSearch.value.trim()));
     // Buscar por equipo
-    searchByequipoButton.addEventListener("click", () => consultarUsuarios("equipo", equipoSearch.value.trim()));
+    //searchByequipoButton.addEventListener("click", () => consultarUsuarios("equipo", equipoSearch.value.trim()));
     // Buscar por nacionalidad
-    searchBynacionalidadButton.addEventListener("click", () => consultarUsuarios("nacionalidad", nacionalidadSearch.value.trim()));
+   // searchBynacionalidadButton.addEventListener("click", () => consultarUsuarios("nacionalidad", nacionalidadSearch.value.trim()));
     // Eventos de búsqueda
-    showAllButton.addEventListener("click", () => consultarUsuarios()); // Mostrar todos los usuarios
-});
-let intentos = 4;
-let equipoCorrecto = "Madrid"
+  // showAllButton.addEventListener("click", () => consultarUsuarios()); // Mostrar todos los usuarios
 
-function Comprobar_equipoCorrecto(){
-   let Intento_equipo = document.getElementById("Intento_equipo")
-    if(Intento_equipo.toLowerCase() === equipoCorrecto.toLowerCase()){
-        div.classList.add("grid-item"); // Clase CSS para estilos
-        div.innerHTML = `<p><strong><u>Felicidades!! Has acertado el equipo</u></strong></p>`;
-        output.appendChild(div); // Agregamos el div al contenedor de salida
-    } else{
-        div.classList.add("grid-item"); // Clase CSS para estilos
-        div.innerHTML = `<p><strong><u>OOOOOHHH! Has fallado prueba otra vez te quedan${intentos}</u></strong></p>`;
-        output.appendChild(div); // Agregamos el div al contenedor de salida
-        intentos = intentos - 1
+
+
+    //************************************************************************************************************ */
+    //************************************************************************************************************ */
+    //************************************************************************************************************ */
+    //************************************************************************************************************ */
+    //************************************************************************************************************ */
+    //************************************************************************************************************ */
+    //************************************************************************************************************ */
+    const opciones = ["alaves", "athletic", "atletico", "barça", "betis", "celta", "espayol", "getafe", "girona", "leganes", "madrid",
+        "mallorca", "osasuna", "palmas", "rayo", "real_sociedad", "sevilla", "valencia", "valladolid", "villareal"];
+
+    function mostrarImagenAleatoria() {
+        const equipoAleatorio = opciones[Math.floor(Math.random() * opciones.length)];
+        const imagenesDiv = document.getElementById("imagenes");
+
+        imagenesDiv.innerHTML = '<img src="../images/' + equipoAleatorio + '.png" alt="' + equipoAleatorio + '">';   
     }
-}
 
-var inputForm = document.getElementById("Intento_equipo");
+    document.getElementById("jugar").addEventListener("click", mostrarImagenAleatoria);
 
-inputForm.addEventListener("keyup", function(event) {
-    if (event.keyCode === 13) {
-        Comprobar_equipoCorrecto();
-      };
 });
