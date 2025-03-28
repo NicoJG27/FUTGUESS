@@ -169,3 +169,13 @@ button{
   flex-direction: row;
   background-color: #282C34;
 }
+
+.div_equipo{
+  display: flex;
+  flex-direction: column;
+}
+
+.imagen_equipo_adivinar{
+  width: 250px;
+  height: 250px;
+}

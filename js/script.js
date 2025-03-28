@@ -90,15 +90,26 @@ document.addEventListener("DOMContentLoaded", () => {
         const opciones = ["alaves", "athletic", "atletico", "barça", "betis", "celta", "espayol", "getafe", "girona", "leganes", "madrid",
             "mallorca", "osasuna", "palmas", "rayo", "real_sociedad", "sevilla", "valencia", "valladolid", "villareal"];
 
-        function mostrarImagenAleatoria() {
+        function mostrarEquipoAleatoria() {
             const equipoAleatorio = opciones[Math.floor(Math.random() * opciones.length)];
-            const imagenesDiv = document.getElementById("imagenes");
-            const inputAdivinar = document.getElementById("inputAdivinar")
-            imagenesDiv.innerHTML = '<img src="../images/' + equipoAleatorio + '.png" alt="' + equipoAleatorio + '"><input class="inputAdivinar" id="inputAdivinar" type="text">';
-            imagenesDiv.className = ""
+            const imagenesDiv = document.getElementById("div_equipo");
+            imagenesDiv.innerHTML = '<img class="imagen_equipo_adivinar" src="../images/equipos/' + equipoAleatorio + '.png" alt="' + equipoAleatorio + '"><input class="inputAdivinar" id="inputAdivinar" type="text">';
         }
 
-        document.getElementById("jugar").addEventListener("click", mostrarImagenAleatoria);
+        document.getElementById("jugar_equipo").addEventListener("click", mostrarEquipoAleatoria);
 
     });
 
+    document.addEventListener("DOMContentLoaded", () => {
+        const opciones = [""];
+
+        function mostrarJugaadorAleatoria() {
+            const jugadorAleatorio = opciones[Math.floor(Math.random() * opciones.length)];
+            const imagenesDiv = document.getElementById("div_jugador");
+            const inputAdivinar = document.getElementById("")
+            imagenesDiv.innerHTML = '<img src="../images/jugadores/' + jugadorAleatorio + '.png" alt="' + jugadorAleatorio + '"><input class="inputAdivinar" id="inputAdivinar" type="text">';
+        }
+
+        document.getElementById("jugar_jugador").addEventListener("click", mostrarJugaadorAleatoria);
+
+    });
