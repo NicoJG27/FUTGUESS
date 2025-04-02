@@ -184,3 +184,8 @@ button{
   height: 500px;
   background-color: #61DAFB;
 }
+
+.imagen_jugador_adivinar{
+  width: 250px;
+  height: 250px;
+}
