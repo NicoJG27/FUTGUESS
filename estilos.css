@@ -6,6 +6,10 @@ body {
   height: 100vh;
   display: flex;
   flex-direction: column;
+  background-image: url('images/fondo_index.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
 }
 footer {
   background-color: #34495e;
