@@ -171,10 +171,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
 //DOM de la pagina de los jugadores////////////////////////////////////////////////////////////////////////////////////////
 document.addEventListener("DOMContentLoaded", () => {
-    const opcionesJugadores = ["Juanmi Latasa", "Marcos André", "Sylla, Chuki", "Robert Kenedy", "Anuar Tuhami", "Selim Amallah", "Stanko Jurić", "Amath Ndiaye", "Darwin Machís", "Mario Martín", "Raúl Moro", "Iván Sánchez", "Florian Grillitsch", "Nikitscher", "Adam Aznou", "Antonio Candela", "Lucas Henrique", "Joseph Aidoo", "Eray Cömert", "Cenk Özkacar", "Javi Sánchez", "David Torres", "Luis Pérez", "Karl Hein", "André Ferreira", "Fábio Silva", "Sandro Ramírez", "Jaime Mata", "Oli McBurnie", "Benito Ramírez", "Marc Cardona", "Dário Essugo", "Adnan Januzaj", "Stefan Bajcetic", "Kirian Rodríguez", "Viti Rozada", "Manu Fuster", "Enzo Loiodice", "Alberto Moleiro", "José Gómez Campaña", "Javi Muñoz", "Juanma Herzog", "Álex Muñoz", "Scott McKenna", "Andy Pelmard", "Álex Suárez", "Mika Mármol", "Marvin Park", "Dinko Horkaš", "Jasper Cillessen", "Pau Cabanes", "Kike García", "Carlos Martín", "Toni Martínez", "Asier Villalibre", "Joan Jordán", "Carlos Protesoni", "Carles Aleñá", "Jon Guridi", "Tomás Conechny", "Antonio Blanco", "Carlos Vicente", "Ander Guevara", "Moussa Diarra",
+    const opcionesJugadores = ["Juanmi Latasa", "Marcos André", "Sylla, Chuki", "Robert Kenedy", "Anuar Tuhami", "Selim Amallah", "Stanko Jurić", "Amath Ndiaye", "Darwin Machís", "Mario Martín", "Raúl Moro", "Iván Sánchez", "Florian Grillitsch", "Nikitscher", "Adam Aznou", "Antonio Candela", "Lucas Henrique", "Joseph Aidoo", "Eray Cömert", "Cenk Özkacar", "Javi Sánchez", "David Torres", "Luis Pérez", "Karl Hein", "André Ferreira", "Fábio Silva", "Sandro Ramírez", "Jaime Mata", "Oli McBurnie", "Benito Ramírez", "Marc Cardona", "Dário Essugo", "Adnan Januzaj", "Stefan Bajcetic", "Kirian Rodríguez", "Viti Rozada", "Manu Fuster", "Enzo Loiodice", "Alberto Moleiro", "José Gómez Campaña", "Javi Muñoz", "Juanma Herzog", "Álex Muñoz", "Scott McKenna", "Andy Pelmard", "Álex Suárez", "Mika Mármol", "Marvin Park",
+        "Dinko Horkaš", "Jasper Cillessen", "Pau Cabanes", "Kike García", "Carlos Martín", "Toni Martínez", "Asier Villalibre", "Joan Jordán", "Carlos Protesoni", "Carles Aleñá", "Jon Guridi", "Tomás Conechny", "Antonio Blanco", "Carlos Vicente", "Ander Guevara", "Moussa Diarra",
         "Hugo Novoa", "Nahuel Tenaglia", "Santiago Mouriño", "Abdel Abqar", "Aleksandar Sedlar", "Manu Sánchez", "Facundo Garcés", "Adrián Rodríguez", "Jesús Owono", "Antonio Sivera", "Munir", "Diego García", "Duk", "Dani Raba", "Miguel de la Fuente", "Julián Chicco", "Roberto López", "Yvan Neyou", "Darco Brašanac", "Juan Cruz", "Seydouba Cissé", "Óscar Rodríguez", "Renato Tapia", "Matija Nastasić", "Javi Hernández", "Enriq Franquesa", "Valentin Rosier", "Sergio González", "Borna Barišić", "Jorge Sáenz", "Adrià Altamira", "Álvaro Abajas Martín", "Marko Dmitrović", "Juan Soriano", "Diego López", "Umar Sadiq", "Rafa Mir", "Hugo Duro", "Sergi Canós", "Hugo Guillamón", "Enzo Barrenechea", "Fran Pérez", "José Luis García Vayá", "Iván Jaime", "André Almeida", "Yarek Gasiorowski",
-        "Jesús Vázquez", "Dimitri Foulquier", "Max Aarons", "César Tárrega", "José Luis Gayà", "Mouctar Diakhaby", "Cristhian Mosquera", "Giorgi Mamardashvili", "Stole Dimitrievski", "Jaume Domènech", "Jofre Carreras", "Walid Cheddira", "Pere Milla", "Alejo Véliz", "Javi Puado", "Roberto Fernández", "Antoniu Roca", "Alex Král", "Urko González de Zárate", "Álvaro aguado", "José Gragera", "Pol Lozano", "Edu Expósito", "Pablo Ramón", "Omar El Hilali", "Carlos Romero", "Brian Oliván", "Álvaro Tejero", "Leandro Cabrera", "Fernando Calero", "Marash Kumbulla", "Sergi Gómez", "Àngel Fortuño", "Fernando Pacheco", "Joan García", "Jose Manuel Arnáiz", "Bryan Zaragoza", "Ante Budimir", "Raúl García", "Iker Muñoz", "Moi Gómez", "Rubén García", "Kike Barja", "Aimar Oroz", "Pablo Ibáñez", "Jon Moncayola", "Lucas Torró", "Alejandro Catena", "Abel Bretones", "Enzo Boyomo", "Rubén Peña", "Jesús Areso", "Jorge Herrando", "Unai García", "Juan Cruz Armada", "Aitor Fernández", "Sergio Herrera", "Gabriel Misehouy", "Portu", "Bryan Gil", "Bojan Miovski", "Arnaut Danjuma", "Yaser Asprilla", "Abel Ruiz", "Viktor Tsygankov", "Cristhian Stuani", "Iván Martín", "Jhon Solís", "Yangel Herrera", "Oriol Romeu", "Arthur", "Donny van de Beek", "Ladislav Krejčí", "Daley Blind", "Alejandro Francés", "Juanpe", "David López", "Arnau Martínez", "Miguel Gutiérrez", "Vladyslav Krapyvtsov", "Paulo Gazzaniga", "Juan Carlos", "Juanmi Jiménez", "Peter Federico", "Álvaro Rodríguez", "Carles Pérez", "Bertug Yildirim", "Borja Mayoral", "Yellu", "Ramón Terrats", "Mauro Arambarri", "Álex Sola", "Christantus Uche", "Luis Milla", "Domingos Duarte", "Juan Iglesias", "Diego Rico", "Omar Alderete", "Juan Bernat", "Allan Nyom", "Juan Berrocal", "Djené Dakonam", "David Soria", "Jiri Letáček", "Sergio Gómez", "Sheraldo Becker", "Orri Óskarsson", "Takefusa Kubo", "Mikel Oyarzabal", "Ander Barrenetxea", "Pablo Marín", "Luka Sučić", "Brais Méndez", "Beñat Turrientes", "Jon Ander Olasagasti", "Arsen Zakharyan", "Martín Zubimendi", "Nayef Aguerd", "Jon Pacheco", "Jon Mikel Aramburu", "Hamari Traoré", "Javi López", "Aritz Elustondo", "Igor Zubeldia", "Aihen Muñoz", "Álvaro Odriozola", "Unai Marrero Larrañaga", "Álex Remiro", "Akor Adams", "Rubén Vargas", "Stanis Idumbo", "Chidera Ejuke", "Peque Fernández", "Dodi Lukébakio", "Suso", "Isaac Romero", "Lucien Agoumé", "Albert Sambi", "Saúl Ñìguez", "Djibril Sow", "Nemanja Gudelj", "Andrià Pedrosa", "Tanguy Nianzou", "Marcao", "Jose Ángel Carmona", "Kike Salas", "Loïc Badé", "Juanlu Sánchez", "Álvaro Ferllo", "Ørjan Nyland", "Adrian Embarba", "Jorge de Frutos",
-        "Sergio Camello", "Sergi Guardiola", "Randy Nteka", "Raúl de Tomás", "Joni Montiel", "Óscar Valentín", "Álvaro García", "Unai López", "Gerard Gumbau", "Oscar Trejo", "Isi Palazón", "Pathé Ciss", "Pedro Díaz", "Pelayo Fernández", "Florian Lejeune", "Pacha", "Iván Balliu", "Abdul Mumin", "Aridane Hernández", "Pep Chavarría", "Andrei Ratiu", "Augusto Batalla", "Dani Cárdenas", "Pablo Duran Fernandez", "Williot Theo Swedberg", "Hugo Alvarez Antuner", "Franco Emanuel Cervi", "Iago Aspas Juncal", "Jailson Marques Siquiera", "Damian Rodriguez Sousa", "Iker Losada Aragunde", "Francisco Jose Beltran Peinado", "Moriba Kourouma", "Hugo sotelo Gomez", "Mihailo Ristic", "Javier Mantillo Gaitan", "Carlos Dominguez Caceres", "Marcos Alonso", "Sergio Carreira Vilariño", "Oscar Mingueza Garcia", "Carl Anders Theodor Starfelt", "Vicente Guaita Panadero", "Ivan Villar Martinez", "Cyle Larin", "Takuma Asano", "Vedat Muriqi", "Chiquinho", "Abdon Prats Bastidas", "Antonio Sanchez Navarro", "Omar Mascarell", "Valery Fernández", "Sergi Darder", "Dani Rodriguez", "Manu Morlanes", "Samuel Costa", "Mateu Morey", "Jose Manuel Arias Copete", "Johan Mojica", "Pablo Maffeo", "Martin Valjent", "Antonio Raillo", "Ivan Cuellar", "Donimik Greif", " Jesus Rodriguez Caraballo", "Cucho hernandez", "Cedric bakambu", "Ez Abde", "Chimy Avila", "Isco Alarcon", "Marc Roca", "Giovani Lo Celso", "Pablo Fornals", "Sergi Altamira", "William Carvalho", "Johnny Cardoso", "Nobel Mendy", "Aitor Ruibal", "Youssouf Sabaly", "Romain Perraud", "Ricardo Rodriguez", "Natan Bernardo", "Marc Bartra", "Diego Llorente", "Hector Bellerin", "Adrián", "Antony dos Santos", "Pau Navarro", "Alfonso Pedraza", "Sergi Cardona", "Ayoze Pérez", "Yeremy Pino", "Nicolas Pepe", "Pape Gueye", "Kiko Femenía", "Álex Baena", "Thierno Barry", "Santi Comesaña Veiga", "Diego Conde", "Ilias Akhomach", "Dani Parejo", "Tajon Trevor Buchanan", "Juan Foyth", "Gerard Moreno", "Denis Suárez", "Willy Kambwala", "Eric Bailly", "Raúl Albiol", "Costa", "Luiz Lúcio Reis Júnior", "Gorka Guruzeta", "Álvaro Djaló", "Nico Williams", "Iñaki Williams", "Alejandro Berenguer", "Peio Canales", "Beñat Prados", "Mikel Jauregizar", "Unai Gómez", "Iñigo Ruiz de Galarreta", "Oihan Sancet", "Mikel Vesga", "Adama Boiro", "Óscar de Marcos", "Yuri Berchiche", "Íñigo Lekue", "Unai Núñez", "Yeray Álvarez", "Aitor Paredes", "Daniel Vivian", "Andoni Gorosabel", "Julen Agirrezabala", "Unai Simón", "Giuliano Simeone", "Julián Álvarez", "Ángel Correa", "Alexander Sørloth", "Antoine Griezmann", "Rodrigo Riquelme", "Marcos Llorente", "Samuel Lino", "Thomas Lemar", "Pablo Barrios",
+        "Jesús Vázquez", "Dimitri Foulquier", "Max Aarons", "César Tárrega", "José Luis Gayà", "Mouctar Diakhaby", "Cristhian Mosquera", "Giorgi Mamardashvili", "Stole Dimitrievski", "Jaume Domènech", "Jofre Carreras", "Walid Cheddira", "Pere Milla", "Alejo Véliz", "Javi Puado", "Roberto Fernández", "Antoniu Roca", "Alex Král", "Urko González de Zárate", "Álvaro aguado", "José Gragera", "Pol Lozano", "Edu Expósito", "Pablo Ramón", "Omar El Hilali", "Carlos Romero", "Brian Oliván", "Álvaro Tejero", "Leandro Cabrera", "Fernando Calero", "Marash Kumbulla", "Sergi Gómez", "Àngel Fortuño", "Fernando Pacheco", "Joan García", "Jose Manuel Arnáiz", "Bryan Zaragoza", "Ante Budimir", "Raúl García", "Iker Muñoz", "Moi Gómez", "Rubén García", "Kike Barja", "Aimar Oroz", "Pablo Ibáñez",
+        "Jon Moncayola", "Lucas Torró", "Alejandro Catena", "Abel Bretones", "Enzo Boyomo", "Rubén Peña", "Jesús Areso", "Jorge Herrando", "Unai García", "Juan Cruz Armada", "Aitor Fernández", "Sergio Herrera", "Gabriel Misehouy", "Portu", "Bryan Gil", "Bojan Miovski", "Arnaut Danjuma", "Yaser Asprilla", "Abel Ruiz", "Viktor Tsygankov", "Cristhian Stuani", "Iván Martín", "Jhon Solís", "Yangel Herrera", "Oriol Romeu", "Arthur", "Donny van de Beek", "Ladislav Krejčí", "Daley Blind", "Alejandro Francés", "Juanpe", "David López", "Arnau Martínez", "Miguel Gutiérrez", "Vladyslav Krapyvtsov", "Paulo Gazzaniga", "Juan Carlos", "Juanmi Jiménez", "Peter Federico", "Álvaro Rodríguez", "Carles Pérez", "Bertug Yildirim", "Borja Mayoral", "Yellu", "Ramón Terrats", "Mauro Arambarri",
+        "Álex Sola", "Christantus Uche", "Luis Milla", "Domingos Duarte", "Juan Iglesias", "Diego Rico", "Omar Alderete", "Juan Bernat", "Allan Nyom", "Juan Berrocal", "Djené Dakonam", "David Soria", "Jiri Letáček", "Sergio Gómez", "Sheraldo Becker", "Orri Óskarsson", "Takefusa Kubo", "Mikel Oyarzabal", "Ander Barrenetxea", "Pablo Marín", "Luka Sučić", "Brais Méndez", "Beñat Turrientes", "Jon Ander Olasagasti", "Arsen Zakharyan", "Martín Zubimendi", "Nayef Aguerd", "Jon Pacheco", "Jon Mikel Aramburu", "Hamari Traoré", "Javi López", "Aritz Elustondo", "Igor Zubeldia", "Aihen Muñoz", "Álvaro Odriozola", "Unai Marrero Larrañaga", "Álex Remiro", "Akor Adams", "Rubén Vargas", "Stanis Idumbo", "Chidera Ejuke", "Peque Fernández", "Dodi Lukébakio", "Suso", "Isaac Romero", "Lucien Agoumé",
+        "Albert Sambi", "Saúl Ñìguez", "Djibril Sow", "Nemanja Gudelj", "Andrià Pedrosa", "Tanguy Nianzou", "Marcao", "Jose Ángel Carmona", "Kike Salas", "Loïc Badé", "Juanlu Sánchez", "Álvaro Ferllo", "Ørjan Nyland", "Adrian Embarba", "Jorge de Frutos",
+        "Sergio Camello", "Sergi Guardiola", "Randy Nteka", "Raúl de Tomás", "Joni Montiel", "Óscar Valentín", "Álvaro García", "Unai López", "Gerard Gumbau", "Oscar Trejo", "Isi Palazón", "Pathé Ciss", "Pedro Díaz", "Pelayo Fernández", "Florian Lejeune", "Pacha", "Iván Balliu", "Abdul Mumin", "Aridane Hernández", "Pep Chavarría", "Andrei Ratiu", "Augusto Batalla", "Dani Cárdenas", "Pablo Duran Fernandez", "Williot Theo Swedberg", "Hugo Alvarez Antuner", "Franco Emanuel Cervi", "Iago Aspas Juncal", "Jailson Marques Siquiera", "Damian Rodriguez Sousa", "Iker Losada Aragunde", "Francisco Jose Beltran Peinado", "Moriba Kourouma", "Hugo sotelo Gomez", "Mihailo Ristic", "Javier Mantillo Gaitan", "Carlos Dominguez Caceres", "Marcos Alonso", "Sergio Carreira Vilariño", "Oscar Mingueza Garcia",
+        "Carl Anders Theodor Starfelt", "Vicente Guaita Panadero", "Ivan Villar Martinez", "Cyle Larin", "Takuma Asano", "Vedat Muriqi", "Chiquinho", "Abdon Prats Bastidas", "Antonio Sanchez Navarro", "Omar Mascarell", "Valery Fernández", "Sergi Darder", "Dani Rodriguez", "Manu Morlanes", "Samuel Costa", "Mateu Morey", "Jose Manuel Arias Copete", "Johan Mojica", "Pablo Maffeo", "Martin Valjent", "Antonio Raillo", "Ivan Cuellar", "Donimik Greif", " Jesus Rodriguez Caraballo", "Cucho hernandez", "Cedric bakambu", "Ez Abde", "Chimy Avila", "Isco Alarcon", "Marc Roca", "Giovani Lo Celso", "Pablo Fornals", "Sergi Altamira", "William Carvalho", "Johnny Cardoso", "Nobel Mendy", "Aitor Ruibal", "Youssouf Sabaly", "Romain Perraud", "Ricardo Rodriguez", "Natan Bernardo", "Marc Bartra", "Diego Llorente", "Hector Bellerin", "Adrián", "Antony dos Santos", "Pau Navarro", "Alfonso Pedraza", "Sergi Cardona", "Ayoze Pérez", "Yeremy Pino", "Nicolas Pepe", "Pape Gueye", "Kiko Femenía", "Álex Baena", "Thierno Barry", "Santi Comesaña Veiga", "Diego Conde", "Ilias Akhomach", "Dani Parejo", "Tajon Trevor Buchanan", "Juan Foyth", "Gerard Moreno", "Denis Suárez", "Willy Kambwala", "Eric Bailly", "Raúl Albiol", "Costa", "Luiz Lúcio Reis Júnior", "Gorka Guruzeta", "Álvaro Djaló", "Nico Williams", "Iñaki Williams", "Alejandro Berenguer", "Peio Canales", "Beñat Prados", "Mikel Jauregizar", "Unai Gómez", "Iñigo Ruiz de Galarreta", "Oihan Sancet", "Mikel Vesga", "Adama Boiro", "Óscar de Marcos", "Yuri Berchiche", "Íñigo Lekue", "Unai Núñez", "Yeray Álvarez", "Aitor Paredes", "Daniel Vivian", "Andoni Gorosabel", "Julen Agirrezabala", "Unai Simón", "Giuliano Simeone", "Julián Álvarez", "Ángel Correa", "Alexander Sørloth", "Antoine Griezmann", "Rodrigo Riquelme", "Marcos Llorente", "Samuel Lino", "Thomas Lemar", "Pablo Barrios",
         "Koke Resurrección", "Rodrigo de Paul", "Conor Gallagher", "Robin Le Normand", "Reinildo Mandava", "Javi Galán", "Axel Witsel", "Nahuel Molina", "Clement Lenglet", "César Azpilicueta", "José María Giménez", "Jan Oblak", "Juan Musso", "Pau Victor", "Lamine Yamal", "Raphinha", "Robert Lewandowski", "Ansu Fati", "Ferran Torres", "Dani Olmo", "Fermín López", "Marc Casadó", "Pablo Torre", "Pedri", "Gavi", "Frenkie de Jong", "Eric García", "Andreas Christensen", "Alejandro Balde", "Ronald Araújo", "Iñigo Martínez", "Pau Cubarsí", "Jules Koundé", "Marc-André ter Stegen", "Iñaki Peña", "Wojciech Szczęsny", "Raul Asencio", "Brahim Díaz", "Endrick Felipe", "Rodrygo Goes", "Kylian Mbappé", "Vinícius Júnior", "Dani Ceballos", "Arda Güler", "Aurélien Tchouaméni", "Luka Modrić", "Federico Valverde", "Eduardo Camavinga", "Jude Bellingham", "Ferland Mendy", "Antonio Rüdiger", "Fran García", "Jesús Vallejo", "Lucas Vázquez", "David Alaba", "Éder Militão", "Dani Carvajal", "Andriy Lunin", "Thibaut Courtois",];
     try {
         let intentosMaximos = 3;
@@ -253,19 +258,80 @@ document.addEventListener("DOMContentLoaded", () => {
 
 //DOM de la pagina de los estadios  //////////////////////////////////////////////////////////////////////////////////////////
 document.addEventListener("DOMContentLoaded", () => {
-    const opcionesEstadio = ["balaidos", "butarque", "Camp Nou", "coliseum", "el sadar", "gran canaria", "jose zorrilla", "la ceramica", "mendizorroza", "mestalla", "Metropolitano", "montilivi", "RCDE stadium", "reale arena",
-        "san mames", "sanchez pizjuan", "Santiago Bernabeu", "son moix", "Vallecas", "Villamarin"];
+    const opcionesEstadio = ["Abanca Balaídos", "Benito Villamarín", "Butarque", "Coliseum", "El Sadar", "Gran Canaria", "José Zorrilla", "La Cerámica", "Mendizorroza", "Mestalla", "Montilivi", "RCDE Stadium", "Reale Arena", "Riyadh Air Metropolitano",
+        "San Mames", "Sanchez Pizjuan", "Santiago Bernabeu", "Son Moix", "Spotify Camp Nou", "Vallecas"];
     try {
+        let intentosMaximos = 3;
+        let intentosRestantes = intentosMaximos;
+
         function mostrarEstadioAleatorio() {
             const estadioAleatorio = opcionesEstadio[Math.floor(Math.random() * opcionesEstadio.length)];
-
             const imagenesDiv = document.getElementById("div_estadio");
-            imagenesDiv.innerHTML = '<img class="imagen_estadio_adivinar" src="../images/estadio/' + estadioAleatorio + '.png" alt="' + estadioAleatorio + '"><input class="inputAdivinar" id="inputAdivinar" type="text">';
-            imagenesDiv.classList.add("div_estadio"); // Clase CSS para estilos
+            intentosRestantes = intentosMaximos;
+
+            const nombreImagen = estadioAleatorio.replace(/ /g, "%20");
+
+            imagenesDiv.innerHTML = `
+                <img class="imagen_estadio_adivinar" src="../images/estadio/${nombreImagen}.png" alt="${estadioAleatorio}">
+                <input class="inputAdivinar" id="inputAdivinarEstadio" type="text" autocomplete="off">
+                <div id="sugerenciasEstadio" class="sugerencias"></div>
+                <button id="comprobarEstadio">Comprobar</button>
+                <div id="mensajeResultadoEstadio" class="mensajeResultado"></div>
+                <div id="intentosRestantesEstadio">Intentos restantes: ${intentosRestantes}</div>
+            `;
+            imagenesDiv.classList.add("div_estadio");
+
+            const input = document.getElementById("inputAdivinarEstadio");
+            const sugerenciasDiv = document.getElementById("sugerenciasEstadio");
+            const mensajeDiv = document.getElementById("mensajeResultadoEstadio");
+            const intentosDiv = document.getElementById("intentosRestantesEstadio");
+
+            input.addEventListener("input", () => {
+                const texto = input.value.toLowerCase();
+                sugerenciasDiv.innerHTML = "";
+
+                if (texto.length > 0) {
+                    const sugerencias = opcionesEstadio.filter(e =>
+                        e.toLowerCase().includes(texto)
+                    );
+
+                    sugerencias.forEach(estadio => {
+                        const opcion = document.createElement("div");
+                        opcion.textContent = estadio;
+                        opcion.classList.add("sugerencia-opcion");
+                        opcion.addEventListener("click", () => {
+                            input.value = estadio;
+                            sugerenciasDiv.innerHTML = "";
+                        });
+                        sugerenciasDiv.appendChild(opcion);
+                    });
+                }
+            });
+
+            document.getElementById("comprobarEstadio").addEventListener("click", () => {
+                const respuesta = input.value.trim();
+                if (respuesta.toLowerCase() === estadioAleatorio.toLowerCase()) {
+                    mensajeDiv.textContent = "✅ ¡Correcto!";
+                    mensajeDiv.style.color = "green";
+                    input.disabled = true;
+                } else {
+                    intentosRestantes--;
+                    if (intentosRestantes > 0) {
+                        mensajeDiv.textContent = `❌ Incorrecto. Intenta de nuevo.`;
+                        mensajeDiv.style.color = "red";
+                        intentosDiv.textContent = `Intentos restantes: ${intentosRestantes}`;
+                    } else {
+                        mensajeDiv.textContent = `❌ Has perdido. El estadio era: ${estadioAleatorio}`;
+                        mensajeDiv.style.color = "red";
+                        input.disabled = true;
+                        intentosDiv.textContent = `Intentos restantes: 0`;
+                    }
+                }
+            });
         }
 
         document.getElementById("jugar_estadio").addEventListener("click", mostrarEstadioAleatorio);
     } catch {
-
+        console.error("Error al iniciar el juego de estadios");
     }
 });
