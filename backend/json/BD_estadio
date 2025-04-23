@@ -1,0 +1,102 @@
+ [
+    {
+        "nombre": "Santiago Bernabéu",
+        "capacidad": "85454",
+        "año de construccion": "1947"
+    },
+    {
+        "nombre": "Spotify Camp Nou",
+        "capacidad": "99787",
+        "año de construccion": "1957"
+    },
+    {
+        "nombre": "Riyadh Air Metropolitano",
+        "capacidad": "70460",
+        "año de construccion": "1994"
+    },
+    {
+        "nombre": "San Mamés Barria",
+        "capacidad": "53289",
+        "año de construccion": "2013"
+    },
+    {
+        "nombre": "Estadio de la Cerámica",
+        "capacidad": "24500",
+        "año de construccion": "1923"
+    },
+    {
+        "nombre": "Benito Villamarín",
+        "capacidad": "60721",
+        "año de construccion": "1929"
+    },
+    {
+        "nombre": "Mallorca Son Moix",
+        "capacidad": "26020",
+        "año de construccion": "1999"
+    },
+    {
+        "nombre": "Vallecas",
+        "capacidad": "15500",
+        "año de construccion": "1976"
+    },
+    {
+        "nombre": "Abanca-Balaídos",
+        "capacidad": "24791",
+        "año de construccion": "1928"
+    },
+    {
+        "nombre": "Ramón Sánchez-Pizjuán",
+        "capacidad": "48649",
+        "año de construccion": "1958"
+    },
+    {
+        "nombre": "Reale Arena",
+        "capacidad": "40000",
+        "año de construccion": "1993"
+    },
+    {
+        "nombre": "Coliseum",
+        "capacidad": "17393",
+        "año de construccion": "1998"
+    },
+    {
+        "nombre": "Municipal de Montilivi",
+        "capacidad": "14500",
+        "año de construccion": "1970"
+    },
+    {
+        "nombre": "El Sadar",
+        "capacidad": "23576",
+        "año de construccion": "1967"
+    },
+    {
+        "nombre": "RCDE Stadium",
+        "capacidad": "40423",
+        "año de construccion": "2009"
+    },
+    {
+        "nombre": "Mestalla",
+        "capacidad": "55000",
+        "año de construccion": "1923"
+    },
+    {
+        "nombre": "Municipal de Butarque",
+        "capacidad": "13089",
+        "año de construccion": "1998"
+    },
+    {
+        "nombre": "Mendizorroza",
+        "capacidad": "19840",
+        "año de construccion": "1924"
+    },
+    {
+        "nombre": "Gran Canaria",
+        "capacidad": "32392",
+        "año de construccion": "2003"
+    },
+    {
+        "nombre": "Municipal José Zorrilla",
+        "capacidad": "27618",
+        "año de construccion": "1982"
+    }
+ ]
