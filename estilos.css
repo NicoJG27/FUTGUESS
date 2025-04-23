@@ -193,3 +193,13 @@ button{
   width: 250px;
   height: 250px;
 }
+
+.div_estadio{
+  height: 500px;
+  background-color: #61DAFB;
+}
+
+.imagen_estadio_adivinar{
+  width: 250px;
+  height: 250px;
+}
