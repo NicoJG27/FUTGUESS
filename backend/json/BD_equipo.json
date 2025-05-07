@@ -11,7 +11,7 @@
         "nombre": "Futbol Club Barcelona",
         "fecha_fundacion": "29 de noviembre de 1899",
         "nacionalidad": "Española",
-        "estadio": "Estadio Olímpico de Montjuic",
+        "estadio": "Spotify Camp Nou",
         "cantidad_titulos": "100"
     },
     {
@@ -67,14 +67,14 @@
         "nombre": "Sevilla Fútbol Club",
         "fecha_fundacion": "7 de septiembre de 1909",
         "nacionalidad": "Española",
-        "estadio": "Reale Arena",
+        "estadio": "Ramón Sanchéz Pizjuán",
         "cantidad_titulos": "15"
     },
     {
         "nombre": "Real Sociedad de Fútbol",
         "fecha_fundacion": "6 de marzo de 1902",
         "nacionalidad": "Española",
-        "estadio": "Santiago Bernabéu",
+        "estadio": "Reale Arena",
         "cantidad_titulos": "6"
     },
     {
