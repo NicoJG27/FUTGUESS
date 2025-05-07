@@ -10,22 +10,19 @@
 
 <body>
     <header>
-        <div class="img-titulo">
-            <img class="logo-pagina" src="images/Logo.jpg" alt="Logo del juegue">
-            <h1 class="titulo"> FUTGUESS</h1>
     </header>
     <main>
         <nav>
             <ul class="navegacion">
                 <div class="menu">
-                <li class="menus"><a href="pages/equipo.html"> Adivina el equipo</a></li>
-                <li class="menus"><a href="pages/estadio.html"> Adivina el estadio</a></li>
-                <li class="menus"><a href="pages/jugador.html"> Adivina el jugador</a></li>
-                <li class="menus"><a href="pages/estadio.html"> Quienes somos</a></li>
+                    <li class="menus"><a href="pages/equipo.html"> Adivina el equipo</a></li>
+                    <li class="menus"><a href="pages/estadio.html"> Adivina el estadio</a></li>
+                    <li class="menus"><a href="pages/jugador.html"> Adivina el jugador</a></li>
+                    <li class="menus"><a href="pages/quienessomos.html"> Quienes somos</a></li>
                 </div>
             </ul>
         </nav>
-         <!-- Cajas para introducir los filtros -->
+        <!-- Cajas para introducir los filtros -->
         <input type="text" id="nameSearch" placeholder="Buscar por nombre...">
         <input type="text" id="equipoSearch" placeholder="Buscar por equipo...">
         <input type="text" id="nacionalidadSearch" placeholder="Buscar por nacionalidad...">
@@ -33,17 +30,17 @@
         <button id="searchByNameButton" class="filter-button">Buscar nombre</button>
         <button id="searchByequipoButton" class="filter-button">Buscar equipo</button>
         <button id="searchBynacionalidadButton" class="filter-button"> Buscar nacionalidad</button>
-        <button id="showAllButton" class="filter-button all-button">Mostrar todos los usuarios</button>
+        <button id="showAllButton" class="filter-button all-button">Mostrar todos los jugadores</button>
 
-             <!-- Contenido principal -->
-            <div id="output" class="grid-container"></div>
-            
+        <!-- Contenido principal -->
+        <div id="output" class="grid-container"></div>
+
     </main>
     <footer>
         <p> &copy; 2025 - Todos los derechos reservados.</p>
     </footer>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.8.0/sql-wasm.js"></script>
-        <script src="js/script.js"></script>
+    <script src="js/script.js"></script>
 </body>
 
 </html>
