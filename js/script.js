@@ -415,3 +415,53 @@ document.addEventListener("DOMContentLoaded", () => {
 
     }
 });
+
+document.addEventListener("DOMContentLoaded", () => {
+    const categoriaSelect = document.getElementById("categoria");
+    const chisteBox = document.getElementById("chiste");
+    const botonChiste = document.getElementById("obtenerChiste");
+
+    async function obtenerCategorias() {
+        try {
+            let response = await fetch("https://api.chucknorris.io/jokes/categories");
+            let categorias = await response.json();
+            categoriaSelect.innerHTML = '<option value="">Selecciona una categoría</option>';
+            categorias.forEach(categoria => {
+                let option = document.createElement("option");
+                option.value = categoria;
+                option.textContent = categoria;
+                categoriaSelect.appendChild(option);
+            });
+        } catch (error) {
+            console.error("Error al obtener categorías", error);
+            chisteBox.textContent = "Error al cargar categorías.";
+        }
+    }
+
+    async function obtenerChiste() {
+        const categoria = categoriaSelect.value;
+        if (!categoria) {
+            chisteBox.textContent = "Por favor selecciona una categoría";
+            return;
+        }
+
+        botonChiste.disabled = true;
+        botonChiste.textContent = "Cargando…";
+
+        try {
+            let response = await fetch(`https://api.chucknorris.io/jokes/random?category=${categoria}`);
+            let data = await response.json();
+            chisteBox.textContent = data.value;
+        } catch (error) {
+            console.error("Error al obtener chiste", error);
+            chisteBox.textContent = "Error al obtener chiste.";
+        } finally {
+            botonChiste.disabled = false;
+            botonChiste.textContent = "Mostrar chiste";
+        }
+    }
+
+    
+    botonChiste.addEventListener("click", obtenerChiste);
+    obtenerCategorias();
+});

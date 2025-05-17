@@ -450,3 +450,115 @@ audio {
   background: var(--gradient);
   transform: translateY(-2px);
 }
+.contenedor-chistes {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2rem auto;
+  max-width: 800px;
+  padding: 1.5rem;
+  background: linear-gradient(145deg, #2c3e50, #34495e);
+  border-radius: 20px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+  color: #ecf0f1;
+  margin-bottom: 70px;
+}
+
+.contenedor-chistes h2 {
+  color: var(--text-highlight);
+  margin-bottom: 1.5rem;
+  font-size: 2rem;
+  text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+}
+
+.imagenChuck {
+  width: 200px;
+  height: auto;
+  border-radius: 50%;
+  margin: 1rem 0;
+  box-shadow: 0 6px 12px rgba(0,0,0,0.4);
+  transition: transform 0.3s;
+}
+
+.imagenChuck:hover {
+  transform: scale(1.05);
+}
+
+.contenedorChiste {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 1.5rem;
+  border-radius: 15px;
+  margin: 1.5rem 0;
+  min-height: 100px;
+  width: 90%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  text-align: center;
+  line-height: 1.6;
+  box-shadow: inset 0 0 10px rgba(0,0,0,0.2);
+}
+
+.divCategoria {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 1rem 0;
+  width: 100%;
+}
+
+.divCategoria p {
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}
+
+#categoria {
+  padding: 0.75rem;
+  border-radius: 8px;
+  border: none;
+  font-size: 1rem;
+  width: 220px;
+  background-color: #f8f9fa;
+  color: var(--dark);
+}
+
+#obtenerChiste {
+  margin-top: 1rem;
+  background: var(--accent);
+  color: white;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  font-weight: bold;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.3s ease;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+  border: none;
+}
+
+#obtenerChiste:hover {
+  background: var(--gradient);
+  transform: translateY(-3px);
+}
+
+#obtenerChiste:disabled {
+  background: #888;
+  cursor: not-allowed;
+  transform: none;
+}
+
+@media (max-width: 600px) {
+  .contenedor-chistes {
+    padding: 1rem;
+    margin: 1rem;
+  }
+  
+  .contenedorChiste {
+    font-size: 1rem;
+  }
+  
+  .imagenChuck {
+    width: 150px;
+  }
+}
