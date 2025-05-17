@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Nciolás Jiménez Gutiérrez y José Cortés Martín">
+    <link rel="stylesheet" href="../estilos.css">
+    <link rel="icon" type="image/png" href="../Images/Logo.jpg">
+    <title>FUTGUESS</title>
+</head>
+
+<body>
+    <header>
+    </header>
+
+    <main>
+        <nav>
+            <ul class="navegacion">
+                <div class="menu">
+                    <li class="menus"><a href="../index.html">Inicio</a></li>
+                    <li class="menus"><a href="equipo.html"> Adivina el equipo</a></li>
+                    <li class="menus"><a href="estadio.html"> Adivina el estadio</a></li>
+                    <li class="menus"><a href="quienessomos.html"> Quienes somos</a></li>
+                </div>
+            </ul>
+        </nav>
+
+
+        <fieldset class="fieldset-cuentanos">
+            <legend>Verdadero aficionado</legend>
+            <form class="cuentanos" action="" method="post">
+                <div>
+                    <label for="nombre">Nombre:</label>
+                    <input type="text" id="nombre" name="Nombre" placeholder="Cuéntanos cómo te llamas" required />
+                </div>
+
+                <div>
+                    <label for="pais">Desde dónde nos visitas:</label>
+                    <input type="text" id="pais" name="Pais" placeholder="Indícanos tu país de residencia" required />
+                </div>
+
+                <div>
+                    <label for="correo">Email:</label>
+                    <input type="email" id="correo" name="Correo" placeholder="Escribe tu correo aquí" required />
+                </div>
+
+                <div>
+                    <label for="edad">Fecha de nacimiento:</label>
+                    <input type="date" id="edad" name="Edad" required />
+                </div>
+
+                <div>
+                    <label for="equipo">Equipo favorito:</label>
+                    <input type="text" id="equipo" name="Equipo" placeholder="Cuéntanos cuál es tu equipo favorito"
+                        required />
+                </div>
+
+                <div>
+                    <label for="comentario">Comentario:</label>
+                    <textarea id="comentario" name="Comentario"
+                        placeholder="Déjanos un comentario para poder mejorar"></textarea>
+                </div>
+
+                <div>
+                    <input type="submit" value="Enviar Formulario" id="Enviar">
+                    <input type="reset" value="Borrar Formulario" id="Borrar">
+                </div>
+            </form>
+        </fieldset>
+
+    </main>
+    <footer>&copy;2025 - Todos los Derechos Reservados.</footer>
+</body>
+
+</html>
