@@ -90,49 +90,73 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 //DOM de la pagina de los equipos  //////////////////////////////////////////////////////////////////////////////////////////
 document.addEventListener("DOMContentLoaded", () => {
-    const opcionesEquipos = ["alaves", "athletic", "atletico", "barça", "betis", "celta", "espayol", "getafe", "girona", "leganes", "madrid",
-        "mallorca", "osasuna", "palmas", "rayo", "real_sociedad", "sevilla", "valencia", "valladolid", "villareal"];
+    const equipos = [
+        { nombre: "alaves", nombreCompleto: "Deportivo Alavés", fundacion: "23 de enero de 1921", estadio: "Estadio de Mendizorroza", titulos: "0" },
+        { nombre: "athletic", nombreCompleto: "Athletic Club", fundacion: "1898", estadio: "Estadio de San Mamés", titulos: "35" },
+        { nombre: "atletico", nombreCompleto: "Club Atlético de Madrid", fundacion: "26 de abril de 1903", estadio: "Riyadh Air Metropolitano", titulos: "43" },
+        { nombre: "barça", nombreCompleto: "Futbol Club Barcelona", fundacion: "29 de noviembre de 1899", estadio: "Spotify Camp Nou", titulos: "100" },
+        { nombre: "betis", nombreCompleto: "Real Betis Balompié", fundacion: "12 de septiembre de 1907", estadio: "Estadio Benito Villamarín", titulos: "4" },
+        { nombre: "celta", nombreCompleto: "Real Club Celta de Vigo", fundacion: "23 de agosto de 1923", estadio: "Estadio Abanca Balaídos", titulos: "1" },
+        { nombre: "espayol", nombreCompleto: "RCD Espanyol de Barcelona", fundacion: "28 de octubre de 1900", estadio: "RCDE Stadium", titulos: "4" },
+        { nombre: "getafe", nombreCompleto: "Getafe Club de Fútbol", fundacion: "8 de julio de 1983", estadio: "Coliseum", titulos: "0" },
+        { nombre: "girona", nombreCompleto: "Girona Fútbol Club", fundacion: "23 de julio de 1930", estadio: "Estadio Montilivi", titulos: "0" },
+        { nombre: "leganes", nombreCompleto: "Club Deportivo Leganés", fundacion: "23 de junio de 1928", estadio: "Estadio Municipal Butarque", titulos: "0" },
+        { nombre: "madrid", nombreCompleto: "Real Madrid Club de Fútbol", fundacion: "6 de marzo de 1902", estadio: "Santiago Bernabéu", titulos: "106" },
+        { nombre: "mallorca", nombreCompleto: "Real Club Deportivo Mallorca", fundacion: "5 de marzo de 1916", estadio: "Campo de fútbol de Son Moix", titulos: "2" },
+        { nombre: "osasuna", nombreCompleto: "Club Atlético Osasuna", fundacion: "24 de octubre de 1920", estadio: "El SADAR", titulos: "0" },
+        { nombre: "palmas", nombreCompleto: "Unión Deportiva Las Palmas", fundacion: "6 de marzo de 1902", estadio: "Estadio de Gran Canaria", titulos: "0" },
+        { nombre: "rayo", nombreCompleto: "Rayo Vallecano de Madrid", fundacion: "29 de mayo de 1924", estadio: "Estadio de Vallecas", titulos: "0" },
+        { nombre: "real_sociedad", nombreCompleto: "Real Sociedad de Fútbol", fundacion: "6 de marzo de 1902", estadio: "Reale Arena", titulos: "6" },
+        { nombre: "sevilla", nombreCompleto: "Sevilla Fútbol Club", fundacion: "7 de septiembre de 1909", estadio: "Ramón Sanchéz Pizjuán", titulos: "15" },
+        { nombre: "valencia", nombreCompleto: "Valencia Club de Fútbol", fundacion: "6 de marzo de 1902", estadio: "Estadio de Mestalla", titulos: "18" },
+        { nombre: "valladolid", nombreCompleto: "Real Valladolid Club de Fútbol", fundacion: "20 de junio de 1928", estadio: "Estadio José Zorrilla", titulos: "0" },
+        { nombre: "villareal", nombreCompleto: "Villarreal Club de Fútbol", fundacion: "10 de marzo de 1923", estadio: "Estadi de la Ceràmica", titulos: "3" }
+    ];
+
     try {
         let intentosMaximos = 3;
         let intentosRestantes = intentosMaximos;
 
         function mostrarEquipoAleatorio() {
-            const equipoAleatorio = opcionesEquipos[Math.floor(Math.random() * opcionesEquipos.length)];
+            const equipo = equipos[Math.floor(Math.random() * equipos.length)];
             const imagenesDiv = document.getElementById("div_equipo");
-            intentosRestantes = intentosMaximos; // Reiniciar intentos
+            intentosRestantes = intentosMaximos;
 
-            const nombreImagen = equipoAleatorio;
+            const nombreImagen = equipo.nombre;
 
             imagenesDiv.innerHTML = `
-                    <img class="imagen_equipo_adivinar" src="../images/equipos/${nombreImagen}.png" alt="${equipoAleatorio}">
-                    <input class="inputAdivinar" id="inputAdivinarEquipo" type="text" placeholder="¿Qué equipo es este?" autocomplete="off">
-                    <div id="sugerencias" class="sugerencias"></div>
-                    <button id="comprobarEquipo">Comprobar</button>
-                    <div id="mensajeResultado" class="mensajeResultado"></div>
-                    <div id="intentosRestantes">Intentos restantes: ${intentosRestantes}</div>
-                `;
+                <img class="imagen_equipo_adivinar" src="../images/equipos/${nombreImagen}.png" alt="${equipo.nombre}">
+                <input class="inputAdivinar" id="inputAdivinarEquipo" type="text" placeholder="¿Qué equipo es este?" autocomplete="off">
+                <div id="sugerenciasEquipo" class="sugerencias"></div>
+                <button id="comprobarEquipo">Comprobar</button>
+                <div id="mensajeResultadoEquipo" class="mensajeResultado"></div>
+                <div id="intentosRestantesEquipo">Intentos restantes: ${intentosRestantes}</div>
+                <div id="infoEquipo"></div>
+            `;
             imagenesDiv.classList.add("div_equipo");
 
             const input = document.getElementById("inputAdivinarEquipo");
-            const sugerenciasDiv = document.getElementById("sugerencias");
-            const mensajeDiv = document.getElementById("mensajeResultado");
-            const intentosDiv = document.getElementById("intentosRestantes");
+            const sugerenciasDiv = document.getElementById("sugerenciasEquipo");
+            const mensajeDiv = document.getElementById("mensajeResultadoEquipo");
+            const intentosDiv = document.getElementById("intentosRestantesEquipo");
+            const infoDiv = document.getElementById("infoEquipo");
 
             input.addEventListener("input", () => {
                 const texto = input.value.toLowerCase();
                 sugerenciasDiv.innerHTML = "";
 
                 if (texto.length > 0) {
-                    const sugerencias = opcionesEquipos.filter(equipo =>
-                        equipo.toLowerCase().includes(texto)
+                    const sugerencias = equipos.filter(e =>
+                        e.nombre.toLowerCase().includes(texto) || 
+                        e.nombreCompleto.toLowerCase().includes(texto)
                     );
 
-                    sugerencias.forEach(equipo => {
+                    sugerencias.forEach(e => {
                         const opcion = document.createElement("div");
-                        opcion.textContent = equipo;
+                        opcion.textContent = e.nombreCompleto;
                         opcion.classList.add("sugerencia-opcion");
                         opcion.addEventListener("click", () => {
-                            input.value = equipo;
+                            input.value = e.nombreCompleto;
                             sugerenciasDiv.innerHTML = "";
                         });
                         sugerenciasDiv.appendChild(opcion);
@@ -142,10 +166,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
             document.getElementById("comprobarEquipo").addEventListener("click", () => {
                 const respuesta = input.value.trim();
-                if (respuesta.toLowerCase() === equipoAleatorio.toLowerCase()) {
+                if (respuesta.toLowerCase() === equipo.nombre.toLowerCase() || 
+                    respuesta.toLowerCase() === equipo.nombreCompleto.toLowerCase()) {
                     mensajeDiv.textContent = "✅ ¡Correcto!";
                     mensajeDiv.style.color = "green";
                     input.disabled = true;
+                    mostrarInfoEquipo(equipo);
                 } else {
                     intentosRestantes--;
                     if (intentosRestantes > 0) {
@@ -153,18 +179,36 @@ document.addEventListener("DOMContentLoaded", () => {
                         mensajeDiv.style.color = "red";
                         intentosDiv.textContent = `Intentos restantes: ${intentosRestantes}`;
                     } else {
-                        mensajeDiv.textContent = `❌ Has perdido. El equipo era: ${equipoAleatorio}`;
+                        mensajeDiv.textContent = `❌ Has perdido. El equipo era: ${equipo.nombreCompleto}`;
                         mensajeDiv.style.color = "red";
                         input.disabled = true;
                         intentosDiv.textContent = `Intentos restantes: 0`;
+                        mostrarInfoEquipo(equipo);
                     }
                 }
             });
+
+            function mostrarInfoEquipo(equipo) {
+                infoDiv.innerHTML = `
+                    <p><strong>Nombre completo:</strong> ${equipo.nombreCompleto}</p>
+                    <p><strong>Fecha de fundación:</strong> ${equipo.fundacion}</p>
+                    <p><strong>Estadio:</strong> ${equipo.estadio}</p>
+                    <p><strong>Títulos:</strong> ${equipo.titulos}</p>
+                `;
+                // Añadir margen inferior para evitar que el footer oculte la información
+                const extraSpace = document.createElement("div");
+                extraSpace.style.height = "100px"; // Espacio adicional de 100px
+                extraSpace.style.marginBottom = "100px";
+                infoDiv.appendChild(extraSpace);
+                
+                // Hacer scroll para mostrar la información completa
+                infoDiv.scrollIntoView({behavior: "smooth", block: "start"});
+            }
         }
 
-        document.getElementById("jugar_equipo").addEventListener("click", mostrarEquipoAleatorio)
-
-    } catch { }
+        document.getElementById("jugar_equipo").addEventListener("click", mostrarEquipoAleatorio);
+    } catch {
+    }
 });
 
 
@@ -257,112 +301,117 @@ document.addEventListener("DOMContentLoaded", () => {
 
 //DOM de la pagina de los estadios  //////////////////////////////////////////////////////////////////////////////////////////
 document.addEventListener("DOMContentLoaded", () => {
-        const estadios = [
-            { nombre: "Abanca Balaídos", capacidad: 29000, año: 1928 },
-            { nombre: "Benito Villamarín", capacidad: 60721, año: 1929 },
-            { nombre: "Spotify Camp Nou", capacidad: 99354, año: 1957 },
-            { nombre: "Santiago Bernabeu", capacidad: 81044, año: 1947 },
-            { nombre: "Butarque", capacidad: 12000, año: 1998 },
-            { nombre: "Coliseum", capacidad: 17393, año: 1998 },
-            { nombre: "El Sadar", capacidad: 23816, año: 1967 },
-            { nombre: "Gran Canaria", capacidad: 32000, año: 2003 },
-            { nombre: "José Zorrilla", capacidad: 27846, año: 1982 },
-            { nombre: "La Cerámica", capacidad: 23500, año: 1923 },
-            { nombre: "Mendizorroza", capacidad: 19840, año: 1924 },
-            { nombre: "Mestalla", capacidad: 49430, año: 1923 },
-            { nombre: "Montilivi", capacidad: 14786, año: 1970 },
-            { nombre: "RCDE Stadium", capacidad: 40500, año: 2009 },
-            { nombre: "Reale Arena", capacidad: 39800, año: 1993 },
-            { nombre: "Riyadh Air Metropolitano", capacidad: 68456, año: 2017 },
-            { nombre: "San Mames", capacidad: 53289, año: 2013 },
-            { nombre: "Sanchez Pizjuan", capacidad: 43883, año: 1958 },
-            { nombre: "Son Moix", capacidad: 23142, año: 1999 },
-            { nombre: "Vallecas", capacidad: 14708, año: 1976 }
-        ];
-    
-        try {
-            let intentosMaximos = 3;
-            let intentosRestantes = intentosMaximos;
-    
-            function mostrarEstadioAleatorio() {
-                const estadio = estadios[Math.floor(Math.random() * estadios.length)];
-                const imagenesDiv = document.getElementById("div_estadio");
-                intentosRestantes = intentosMaximos;
-    
-                const nombreImagen = estadio.nombre.replace(/ /g, "%20");
-    
-                imagenesDiv.innerHTML = `
-                    <img class="imagen_estadio_adivinar" src="../images/estadio/${nombreImagen}.png" alt="${estadio.nombre}">
-                    <input class="inputAdivinar" id="inputAdivinarEstadio" type="text" placeholder="¿Qué estadio es este?" autocomplete="off">
-                    <div id="sugerenciasEstadio" class="sugerencias"></div>
-                    <button id="comprobarEstadio">Comprobar</button>
-                    <div id="mensajeResultadoEstadio" class="mensajeResultado"></div>
-                    <div id="intentosRestantesEstadio">Intentos restantes: ${intentosRestantes}</div>
-                    <div id="infoEstadio"></div>
-                `;
-                imagenesDiv.classList.add("div_estadio");
-    
-                const input = document.getElementById("inputAdivinarEstadio");
-                const sugerenciasDiv = document.getElementById("sugerenciasEstadio");
-                const mensajeDiv = document.getElementById("mensajeResultadoEstadio");
-                const intentosDiv = document.getElementById("intentosRestantesEstadio");
-                const infoDiv = document.getElementById("infoEstadio");
-    
-                input.addEventListener("input", () => {
-                    const texto = input.value.toLowerCase();
-                    sugerenciasDiv.innerHTML = "";
-    
-                    if (texto.length > 0) {
-                        const sugerencias = estadios.filter(e =>
-                            e.nombre.toLowerCase().includes(texto)
-                        );
-    
-                        sugerencias.forEach(e => {
-                            const opcion = document.createElement("div");
-                            opcion.textContent = e.nombre;
-                            opcion.classList.add("sugerencia-opcion");
-                            opcion.addEventListener("click", () => {
-                                input.value = e.nombre;
-                                sugerenciasDiv.innerHTML = "";
-                            });
-                            sugerenciasDiv.appendChild(opcion);
+    const estadios = [
+        { nombre: "Abanca Balaídos", capacidad: 29000, año: 1928 },
+        { nombre: "Benito Villamarín", capacidad: 60721, año: 1929 },
+        { nombre: "Spotify Camp Nou", capacidad: 99354, año: 1957 },
+        { nombre: "Santiago Bernabeu", capacidad: 81044, año: 1947 },
+        { nombre: "Butarque", capacidad: 12000, año: 1998 },
+        { nombre: "Coliseum", capacidad: 17393, año: 1998 },
+        { nombre: "El Sadar", capacidad: 23816, año: 1967 },
+        { nombre: "Gran Canaria", capacidad: 32000, año: 2003 },
+        { nombre: "José Zorrilla", capacidad: 27846, año: 1982 },
+        { nombre: "La Cerámica", capacidad: 23500, año: 1923 },
+        { nombre: "Mendizorroza", capacidad: 19840, año: 1924 },
+        { nombre: "Mestalla", capacidad: 49430, año: 1923 },
+        { nombre: "Montilivi", capacidad: 14786, año: 1970 },
+        { nombre: "RCDE Stadium", capacidad: 40500, año: 2009 },
+        { nombre: "Reale Arena", capacidad: 39800, año: 1993 },
+        { nombre: "Riyadh Air Metropolitano", capacidad: 68456, año: 2017 },
+        { nombre: "San Mames", capacidad: 53289, año: 2013 },
+        { nombre: "Sanchez Pizjuan", capacidad: 43883, año: 1958 },
+        { nombre: "Son Moix", capacidad: 23142, año: 1999 },
+        { nombre: "Vallecas", capacidad: 14708, año: 1976 }
+    ];
+
+    try {
+        let intentosMaximos = 3;
+        let intentosRestantes = intentosMaximos;
+
+        function mostrarEstadioAleatorio() {
+            const estadio = estadios[Math.floor(Math.random() * estadios.length)];
+            const imagenesDiv = document.getElementById("div_estadio");
+            intentosRestantes = intentosMaximos;
+
+            const nombreImagen = estadio.nombre.replace(/ /g, "%20");
+
+            imagenesDiv.innerHTML = `
+                <img class="imagen_estadio_adivinar" src="../images/estadio/${nombreImagen}.png" alt="${estadio.nombre}">
+                <input class="inputAdivinar" id="inputAdivinarEstadio" type="text" placeholder="¿Qué estadio es este?" autocomplete="off">
+                <div id="sugerenciasEstadio" class="sugerencias"></div>
+                <button id="comprobarEstadio">Comprobar</button>
+                <div id="mensajeResultadoEstadio" class="mensajeResultado"></div>
+                <div id="intentosRestantesEstadio">Intentos restantes: ${intentosRestantes}</div>
+                <div id="infoEstadio"></div>
+            `;
+            imagenesDiv.classList.add("div_estadio");
+
+            const input = document.getElementById("inputAdivinarEstadio");
+            const sugerenciasDiv = document.getElementById("sugerenciasEstadio");
+            const mensajeDiv = document.getElementById("mensajeResultadoEstadio");
+            const intentosDiv = document.getElementById("intentosRestantesEstadio");
+            const infoDiv = document.getElementById("infoEstadio");
+
+            input.addEventListener("input", () => {
+                const texto = input.value.toLowerCase();
+                sugerenciasDiv.innerHTML = "";
+
+                if (texto.length > 0) {
+                    const sugerencias = estadios.filter(e =>
+                        e.nombre.toLowerCase().includes(texto)
+                    );
+
+                    sugerencias.forEach(e => {
+                        const opcion = document.createElement("div");
+                        opcion.textContent = e.nombre;
+                        opcion.classList.add("sugerencia-opcion");
+                        opcion.addEventListener("click", () => {
+                            input.value = e.nombre;
+                            sugerenciasDiv.innerHTML = "";
                         });
-                    }
-                });
-    
-                document.getElementById("comprobarEstadio").addEventListener("click", () => {
-                    const respuesta = input.value.trim();
-                    if (respuesta.toLowerCase() === estadio.nombre.toLowerCase()) {
-                        mensajeDiv.textContent = "✅ ¡Correcto!";
-                        mensajeDiv.style.color = "green";
-                        input.disabled = true;
-                        mostrarInfoEstadio(estadio);
-                    } else {
-                        intentosRestantes--;
-                        if (intentosRestantes > 0) {
-                            mensajeDiv.textContent = `❌ Incorrecto. Intenta de nuevo.`;
-                            mensajeDiv.style.color = "red";
-                            intentosDiv.textContent = `Intentos restantes: ${intentosRestantes}`;
-                        } else {
-                            mensajeDiv.textContent = `❌ Has perdido. El estadio era: ${estadio.nombre}`;
-                            mensajeDiv.style.color = "red";
-                            input.disabled = true;
-                            intentosDiv.textContent = `Intentos restantes: 0`;
-                            mostrarInfoEstadio(estadio);
-                        }
-                    }
-                });
-    
-                function mostrarInfoEstadio(estadio) {
-                    infoDiv.innerHTML = `
-                        <p><strong>Capacidad:</strong> ${estadio.capacidad.toLocaleString()} espectadores</p>
-                        <p><strong>Año de construcción:</strong> ${estadio.año}</p>
-                    `;
+                        sugerenciasDiv.appendChild(opcion);
+                    });
                 }
+            });
+
+            document.getElementById("comprobarEstadio").addEventListener("click", () => {
+                const respuesta = input.value.trim();
+                if (respuesta.toLowerCase() === estadio.nombre.toLowerCase()) {
+                    mensajeDiv.textContent = "✅ ¡Correcto!";
+                    mensajeDiv.style.color = "green";
+                    input.disabled = true;
+                    mostrarInfoEstadio(estadio);
+                } else {
+                    intentosRestantes--;
+                    if (intentosRestantes > 0) {
+                        mensajeDiv.textContent = `❌ Incorrecto. Intenta de nuevo.`;
+                        mensajeDiv.style.color = "red";
+                        intentosDiv.textContent = `Intentos restantes: ${intentosRestantes}`;
+                    } else {
+                        mensajeDiv.textContent = `❌ Has perdido. El estadio era: ${estadio.nombre}`;
+                        mensajeDiv.style.color = "red";
+                        input.disabled = true;
+                        intentosDiv.textContent = `Intentos restantes: 0`;
+                        mostrarInfoEstadio(estadio);
+                    }
+                }
+            });
+
+            function mostrarInfoEstadio(estadio) {
+                infoDiv.innerHTML = `
+                    <p><strong>Capacidad:</strong> ${estadio.capacidad.toLocaleString()} espectadores</p>
+                    <p><strong>Año de construcción:</strong> ${estadio.año}</p>
+                `;
+                // Añadir clase CSS para el espaciado
+                infoDiv.classList.add("info-con-espacio");
+                
+                // Hacer scroll para mostrar la información completa
+                infoDiv.scrollIntoView({behavior: "smooth", block: "start"});
             }
-    
-            document.getElementById("jugar_estadio").addEventListener("click", mostrarEstadioAleatorio);
-        } catch {
-            console.error("Error al iniciar el juego de estadios");
         }
-    });
+
+        document.getElementById("jugar_estadio").addEventListener("click", mostrarEstadioAleatorio);
+    } catch (error){
+
+    }
+});
